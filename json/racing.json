@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "Aero A.200",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Albatros L 69",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1925",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Avro 539",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1919",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "B\u00e4umer Sausewind",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1925",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Bell P-39 Airacobra",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bell P-63 Kingcobra",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1942",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bellanca 28-70",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Bellanca 28-92",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Bernard H.V.40",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Bernard H.V.41",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bernard H.V.42",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bernard SIMB V.1",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bernard H.V.120",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bernard H.V.220",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "",
+    "status": "Project",
+    "amount": ""
+  },
+  {
+    "name": "BFW M.23",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "BFW M.29",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Lincock",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Pellet",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bl\u00e9riot XI",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1909",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bl\u00e9riot XXIII",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1911",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bl\u00e9riot XXVII",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1911",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bl\u00e9riot-SPAD S.26",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bl\u00e9riot-SPAD S.58",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bl\u00e9riot-SPAD S.61",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bl\u00e9riot-SPAD S.81bis",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Breese-Wilde Model 5",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bristol Badminton",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bristol Racer",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Brown B-1 Racer",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Brown B-2 Racer",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Brown B-3",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bugatti Model 100",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "Project",
+    "amount": ""
+  },
+  {
+    "name": "CAMS 36",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "CAMS 38",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Caproni Bergamaschi PL.3",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cassutt Special",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1954",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Caudron C.190",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Caudron C.460",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna CR-2/GC-2",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna CR-3",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna GC-1",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Chester Jeep",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Chester Goon",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Church Midwing JC-1",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Command-Aire Little Rocket",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Condor Shoestring",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1949",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss No. 2",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1909",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss R3C",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss CR-1 & 2",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss CR-3",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss CR-4",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss F6C-6",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss XF6C-6",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Crosby CR-3",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Crosby CR-4",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Darmstadt D-18",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Darmstadt D-22",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dayton-Wright RB-1 Racer",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1920",
+    "status": "Withdrawn",
+    "amount": "1"
+  },
+  {
+    "name": "de Havilland DH.71 Tiger Moth",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "de Havilland DH.88",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "de Havilland T.K.2",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "de Havilland T.K.4",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Denight",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1949",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Deperdussin 1912 Racing Monoplane",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Deperdussin Coupe Schneider",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Deperdussin Monocoque",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Farman F.370",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Farman F.380",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fiat BR.20 Cicogna",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fiat C.29",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Flagg F-15 San Diego Flaggship",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Folkerts SK-1",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Folkerts SK-2",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Folkerts SK-3",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Folkerts SK-4",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gloster Bamel",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gloster II",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gloster III",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gloster IV",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Goodyear F2G Corsair",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1945",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Granville Gee Bee Sportster (X, B, C, D, E, F)",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Granville Gee Bee Model Y Senior Sportster",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Granville Gee Bee Model Z Super Sportster",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Granville Gee Bee Model R Super Sportster",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Granville Gee Bee R-6 International Super Sportster",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grumman F8F Bearcat",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1944",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hanriot H-131",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hawker Sea Fury",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1945",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hawks Miller HM-1",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heath Baby Bullet",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 64",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Howard DGA-3",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Howard DGA-4",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Howard DGA-6",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hughes H-1 Racer",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Israel Redhead",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Kawanishi K-2[10]",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Laird Solution",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Laird Speedwing",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Laird Speedwing Junior",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Laird Super Solution",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Laird-Turner Meteor LTR-14",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Letov \u0160-8",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "LeVier Cosmic Wind",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1947",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lockheed Vega",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lockheed Orion",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lockheed P-38 Lightning",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loose Special",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Martinsyde Semiquaver",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.7bis",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.17",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.33",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.39",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.52",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.67",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.C.72",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Mace-Trefethen R-2",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1970",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Messerschmitt Bf 109",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Messerschmitt Bf 209",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Miles & Atwood special",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Miller Little Gem",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1949",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Monnett Sonerai",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1971",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Monocoupe 110 Special",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Morane-Saulnier G",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Morane-Saulnier H",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Mustang Aeronautics Midget Mustang",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1948",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Napier-Heston Racer",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Navy-Wright NW",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport II",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1910",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport IV.H",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport VI.H",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport-Delage NiD 29V & 29Vbis",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport-Delage NiD 29SHV",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport-Delage NiD 37 'Course'",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport-Delage Sesquiplan",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport-Delage NiD 42S",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "North American P-51 Mustang",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "North American T-6 Texan",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Northrop Gamma",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Owl Racer OR65-2",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1969",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Pearson Williams Mr. Smoothie",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Precious Metal",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1988",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Percival Mew Gull",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Piaggio P.7",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1927",
+    "status": "Project",
+    "amount": ""
+  },
+  {
+    "name": "Potez 53",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rider R-1",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rider R-2",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rider R-3 Marcoux-Bromberg Special",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rider R-5",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rider R-6",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rollason Beta",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1967",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "RWD-6",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "RWD-9",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia S.12",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia-Marchetti S.65",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia-Marchetti S.79SC Corsa",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Scaled Composites Pond Racer",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1991",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Seguin Wasabi Special",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "2013",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Seversky SEV-1S",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sharp Nemesis",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1991",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sharp Nemesis NXT",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "2004",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Crusader",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.17",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.19",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.21",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.22",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.51",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sopwith 1919 Schneider Cup Seaplane",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sopwith Tabloid",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SPAD S.20bis",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Springfield Bulldog",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Springfield Cicada",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Sea Lion I",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Sea Lion II",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine S.4",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine S.5",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine S.6",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine S.6B",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Spitfire",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Swallow Monoplane",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Thomas-Morse R-5",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Tilbury Flash Racer",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Travel Air 5000",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Travel Air Type R Mystery Ship",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Tsunami Racer",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1986",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Verville-Packard R-1 Racer",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Verville-Sperry R-3 Racer",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vought F4U Corsair",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "VSR SR-1 Snoshoo",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1997",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wedell-Williams Model 22",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wedell-Williams Model 44",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wedell-Williams Model 45",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Williams W-17 Stinger",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1971",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wittman Chief Oshkosh",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wittman D-12 Bonzo",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wittman Little Bonzo",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1948",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wittman V-Witt",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1970",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wright Model R",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1910",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wright F2W",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Yakovlev Yak-11",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1945",
+    "status": "",
+    "amount": ""
+  }
+]

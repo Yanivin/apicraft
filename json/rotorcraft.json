@@ -1,0 +1,882 @@
+[
+  { "name": "A-B Helicopters", "aircraft": ["A-B Helicopters A/W 95"] },
+  { "name": "American Aircraft International", "aircraft": ["AAI Penetrator"] },
+  { "name": "Aero", "aircraft": ["Aero HC-2 Heli Baby"] },
+  {
+    "name": "Aero-Astra",
+    "aircraft": [
+      "Aero-Astra Okhotnik 1",
+      "Aero-Astra Okhotnik 2",
+      "Aero-Astra Okhotnik 2M",
+      "Aero-Astra Okhotnik 3"
+    ]
+  },
+  { "name": "Aero Eli Serviza", "aircraft": ["Aero Eli Serviza Yo-Yo 222"] },
+  { "name": "Aerokopter", "aircraft": ["Aerokopter AK1-3 Sanka"] },
+  {
+    "name": "Aerospace General",
+    "aircraft": ["Aerospace General Mini-Copter"]
+  },
+  {
+    "name": "A\u00e9rospatiale",
+    "aircraft": [
+      "A\u00e9rospatiale Alouette II",
+      "A\u00e9rospatiale Alouette III",
+      "A\u00e9rospatiale Cougar",
+      "A\u00e9rospatiale Dauphin",
+      "A\u00e9rospatiale Djinn",
+      "A\u00e9rospatiale Ecureuil",
+      "A\u00e9rospatiale Gazelle",
+      "A\u00e9rospatiale Lama",
+      "A\u00e9rospatiale Puma",
+      "A\u00e9rospatiale Super Frelon",
+      "A\u00e9rospatiale Super Puma",
+      "Aerospatiale P-120"
+    ]
+  },
+  {
+    "name": "Aerot\u00e9cnica",
+    "aircraft": [
+      "Aerot\u00e9cnica AC-11",
+      "[1]",
+      "[2]",
+      "Aerot\u00e9cnica AC-12",
+      "Aerot\u00e9cnica AC-13",
+      "Aerot\u00e9cnica AC-14",
+      "Aerot\u00e9cnica EC-XZ-2",
+      "Aerot\u00e9cnica EC-XZ-4"
+    ]
+  },
+  {
+    "name": "Agusta",
+    "aircraft": [
+      "Agusta AZ.101G",
+      "Agusta AB.102",
+      "Agusta A103",
+      "Agusta A104 Helicar",
+      "Agusta A105",
+      "Agusta A106",
+      "Agusta A109",
+      "Agusta A115",
+      "Agusta A119 Koala",
+      "Agusta A129 Mangusta"
+    ]
+  },
+  {
+    "name": "AgustaWestland",
+    "aircraft": [
+      "AgustaWestland AW101",
+      "AgustaWestland CH-149 Cormorant",
+      "AgustaWestland AW109",
+      "AgustaWestland AW109 Grand",
+      "AgustaWestland AW119 Koala",
+      "AgustaWestland AW139",
+      "AgustaWestland AW149",
+      "AgustaWestland AW159",
+      "AgustaWestland AW169",
+      "AgustaWestland AW189"
+    ]
+  },
+  { "name": "Air & Space", "aircraft": ["Air & Space 18A Flymobil"] },
+  {
+    "name": "Air Command",
+    "aircraft": [
+      "Air Command Commander",
+      "Air Command Commander 147A",
+      "Air Command Commander Elite",
+      "Air Command Commander Side-By-Side",
+      "Air Command Commander Sport",
+      "Air Command Commander Tandem",
+      "Air Command Tandem"
+    ]
+  },
+  {
+    "name": "Airbus Helicopters",
+    "aircraft": [
+      "Airbus Helicopters H160",
+      "Airbus Helicopters H175",
+      "Airbus Helicopters X6"
+    ]
+  },
+  { "name": "Airmaster Helicopters", "aircraft": ["Airmaster H2-B1"] },
+  {
+    "name": "Amax Engineering",
+    "aircraft": ["Amax Double Eagle TT", "Amax Eagle", "Amax Eagle TT"]
+  },
+  {
+    "name": "Ambi Budd",
+    "aircraft": ["Ambi-Budd Flying Car", "citation needed"]
+  },
+  {
+    "name": "American Helicopter",
+    "aircraft": ["XH-26 Jet Jeep", "[3]", "[3]"]
+  },
+  {
+    "name": "American Sportscopter",
+    "aircraft": [
+      "American Sportscopter Ultrasport 254",
+      "American Sportscopter Ultrasport 331",
+      "American Sportscopter Ultrasport 496"
+    ]
+  },
+  { "name": "Arrow Coax", "aircraft": ["Arrow Coax Livella Uno"] },
+  {
+    "name": "AutoGyro",
+    "aircraft": [
+      "AutoGyro Calidus",
+      "AutoGyro Cavalon",
+      "AutoGyro eCavalon",
+      "AutoGyro MT-03",
+      "AutoGyro MTOsport"
+    ]
+  },
+  { "name": "Auroa Helicopters", "aircraft": ["Auroa Helicopters Auroa"] },
+  { "name": "Aviaimpex", "aircraft": ["Aviaimpex Angel"] },
+  { "name": "Avian", "aircraft": ["Avian 2/180 Gyroplane"] },
+  { "name": "Avicopter", "aircraft": ["Avicopter AC313"] },
+  { "name": "Avimech", "aircraft": ["Avimech Dragonfly DF-1"] },
+  {
+    "name": "Aviomania",
+    "aircraft": ["Aviomania Genesis Duo G2SA", "Aviomania Genesis Solo G1SA"]
+  },
+  {
+    "name": "AvioTecnica",
+    "aircraft": ["AvioTecnica ES-101 Exec", "AvioTecnica ES-101 Raven"]
+  },
+  { "name": "Bell/Agusta", "aircraft": ["BA609 Tiltrotor"] },
+  { "name": "Bell Boeing", "aircraft": ["V-22 Osprey", "Quad TiltRotor"] },
+  {
+    "name": "Bell Helicopter Textron",
+    "aircraft": [
+      "Bell 30",
+      "Bell 47",
+      "47J",
+      "Bell 48",
+      "Bell 61",
+      "Bell AH-1G",
+      "W",
+      "Z",
+      "Bell 201",
+      "Bell 204/205",
+      "Bell 206",
+      "Bell 207",
+      "Bell OH-58",
+      "Bell 212",
+      "Bell 214",
+      "214ST",
+      "Bell 222/230",
+      "Bell 309",
+      "Bell 360",
+      "Bell 407",
+      "Bell ARH-70",
+      "Bell ARH-70",
+      "Bell 409",
+      "Bell 412",
+      "Bell 427",
+      "Bell 429",
+      "Bell 430",
+      "Bell 505",
+      "Bell 525",
+      "Bell UH-1",
+      "Bell UH-1N",
+      "Y",
+      "Bell D-292",
+      "Bell V-247",
+      "Bell V-280",
+      "Bell XV-3",
+      "Bell XV-15",
+      "Bell X-22",
+      "Bell LHX"
+    ]
+  },
+  {
+    "name": "Bensen",
+    "aircraft": [
+      "Bensen B-6",
+      "Bensen B-8",
+      "Bensen Mid-Jet",
+      "Bensen B-9",
+      "Bensen B-10",
+      "Bensen B-12"
+    ]
+  },
+  { "name": "BJJR", "aircraft": ["BJJR Bulldog"] },
+  {
+    "name": "Boeing",
+    "aircraft": [
+      "AH-64 Apache",
+      "RAH-66 Comanche",
+      "CH-46 Sea Knight",
+      "CH-47 Chinook",
+      "XCH-62 HLH",
+      "Boeing Canard Rotor",
+      "Boeing Model 360",
+      "YUH-61 UTTAS"
+    ]
+  },
+  { "name": "Borgward", "aircraft": ["Borgward Kolibri"] },
+  {
+    "name": "Brantly",
+    "aircraft": ["Brantly B-1", "Brantly B-2", "Brantly 305"]
+  },
+  {
+    "name": "Bratukhin",
+    "aircraft": ["Bratukhin Omega", "Bratukhin B-5", "Bratukhin B-11"]
+  },
+  {
+    "name": "Breguet",
+    "aircraft": [
+      "Gyroplane Laboratoire",
+      "Breguet G.11E",
+      "Breguet-Richet Gyroplane"
+    ]
+  },
+  {
+    "name": "Bristol Aeroplane Company",
+    "aircraft": ["Bristol Sycamore", "Bristol Belvedere"]
+  },
+  { "name": "Buhl Aircraft Company", "aircraft": ["Buhl A-1 Autogyro"] },
+  { "name": "Calumet Motorsports", "aircraft": ["Calumet Snobird Explorer"] },
+  {
+    "name": "Canadian Home Rotors",
+    "aircraft": ["Canadian Home Rotors Safari"]
+  },
+  {
+    "name": "Celier Aviation",
+    "aircraft": [
+      "Celier Kiss",
+      "Celier Xenon 2",
+      "Celier Xenon 3",
+      "Celier Xenon 4"
+    ]
+  },
+  { "name": "Cessna", "aircraft": ["Cessna CH-1"] },
+  {
+    "name": "Changhe Aircraft Industries Corporation",
+    "aircraft": ["Changhe Z11", "Changhe WZ-9", "WZ-10", "Changhe Z-8", "CA109"]
+  },
+  { "name": "Chu", "aircraft": ["Chu Hummingbird", "Chu CJC-3"] },
+  {
+    "name": "Cicar\u00e9 Helic\u00f3pteros S.A.",
+    "aircraft": ["Cicar\u00e9 CK.1", "Cicar\u00e9 CH-7", "Cicar\u00e9 CH-14"]
+  },
+  {
+    "name": "Cierva Autogiro Company",
+    "aircraft": [
+      "Cierva C.1",
+      "Cierva C.2",
+      "Cierva C.3",
+      "Cierva C.4",
+      "Cierva C.6",
+      "Cierva C.8",
+      "Cierva C.9",
+      "Cierva C.12",
+      "Cierva C.17",
+      "Cierva C.19",
+      "Cierva C.24",
+      "Cierva C.29",
+      "Cierva C.30A",
+      "Cierva C.40",
+      "Cierva W.5",
+      "Cierva W.9",
+      "Cierva W.11 Air Horse",
+      "Cierva W.14 Skeeter",
+      "Cierva CR Twin"
+    ]
+  },
+  { "name": "Continental Copters", "aircraft": ["El Tomcat"] },
+  { "name": "Cornu", "aircraft": ["Cornu helicopter"] },
+  {
+    "name": "Council for Scientific and Industrial Research",
+    "aircraft": ["CSIR Experimental Autogyro II"]
+  },
+  { "name": "Craft Aerotech", "aircraft": ["Craft Aerotech 200"] },
+  {
+    "name": "Denel Aerospace Systems",
+    "aircraft": [
+      "Denel Oryx",
+      "Denel XH-1 Alpha",
+      "Denel XTP-1 Beta",
+      "Denel Rooivalk"
+    ]
+  },
+  { "name": "DF Helicopters", "aircraft": ["DF334"] },
+  { "name": "Doak", "aircraft": ["Doak VZ-4", "[4]"] },
+  { "name": "Doman", "aircraft": ["Doman LZ-1", "Doman LZ-5"] },
+  {
+    "name": "Dornier Flugzeugwerke",
+    "aircraft": ["Dornier Do 132", "Dornier Do 32"]
+  },
+  { "name": "DSH", "aircraft": ["DSH J-62"] },
+  { "name": "DTA sarl", "aircraft": ["DTA J-RO"] },
+  {
+    "name": "Dynali Helicopter",
+    "aircraft": ["Dynali H2S", "Dynali H3 Easyflyer"]
+  },
+  { "name": "Eagle", "aircraft": ["Eagle Helicycle"] },
+  { "name": "Eagle's Perch", "aircraft": ["Eagle's Perch"] },
+  { "name": "EDM Aerotec", "aircraft": ["EDM Aerotec CoAX 2D/2R"] },
+  {
+    "name": "ELA Aviaci\u00f3n",
+    "aircraft": ["ELA 07", "ELA 09 Junior", "ELA 10 Eclipse"]
+  },
+  { "name": "Engineering System", "aircraft": ["Engineering System Gen H-4"] },
+  {
+    "name": "Enstrom",
+    "aircraft": ["Enstrom F-28", "Enstrom 280", "Enstrom 480"]
+  },
+  { "name": "Erickson Air-Crane", "aircraft": ["Erickson S-64"] },
+  {
+    "name": "Eurocopter Group",
+    "aircraft": [
+      "Eurocopter UH-72 Lakota",
+      "Eurocopter BK-117",
+      "Eurocopter EC 130",
+      "Eurocopter EC 135",
+      "Eurocopter EC 145",
+      "Eurocopter EC 155",
+      "Eurocopter EC 175",
+      "Eurocopter EC 225",
+      "Eurocopter EC 635",
+      "Eurocopter EC 725",
+      "Eurocopter Colibri",
+      "Eurocopter Cougar",
+      "Eurocopter Dauphin",
+      "Eurocopter Ecureuil",
+      "Eurocopter Fennec",
+      "Eurocopter Panther",
+      "Eurocopter Super Puma",
+      "Eurocopter Tiger",
+      "Eurocopter X3"
+    ]
+  },
+  { "name": "Fairchild Hiller", "aircraft": ["Fairchild Hiller FH-1100"] },
+  {
+    "name": "Fairey Aviation",
+    "aircraft": [
+      "Gyrodyne",
+      "Jet Gyrodyne",
+      "Rotodyne",
+      "Fairey Ultra-light Helicopter"
+    ]
+  },
+  {
+    "name": "Farrington Aircraft",
+    "aircraft": ["Farrington Twinstar", "Farrington 18A"]
+  },
+  { "name": "Fiat", "aircraft": ["Fiat 7002"] },
+  { "name": "Filper", "aircraft": ["Filper Beta 200", "Filper Beta 400"] },
+  { "name": "Firestone Aircraft Company", "aircraft": ["Firestone 45"] },
+  {
+    "name": "Flettner",
+    "aircraft": [
+      "Flettner Fl 184",
+      "Flettner Fl 185",
+      "Flettner Fl 265",
+      "Flettner Fl 282"
+    ]
+  },
+  { "name": "Florine", "aircraft": ["[5]"] },
+  { "name": "Focke-Achgelis", "aircraft": ["Focke-Achgelis Fa 223"] },
+  { "name": "Focke-Wulf", "aircraft": ["Focke-Wulf Fw 61"] },
+  { "name": "Freewind Aviation", "aircraft": ["Freewind Bumble B"] },
+  { "name": "Gadfly Aircraft", "aircraft": ["Gadfly HDW.1"] },
+  { "name": "Gazda", "aircraft": ["Gazda Helicospeeder"] },
+  { "name": "GEN Corporation", "aircraft": ["GEN H-4"] },
+  { "name": "German Gyro Safety Aviation", "aircraft": ["German Gyro Matto"] },
+  {
+    "name": "Gluhareff",
+    "aircraft": ["[6]", "[6]", "[6]", "Gluhareff EMG-300"]
+  },
+  { "name": "GoFly Aeronatique", "aircraft": ["GoFly Gotar"] },
+  { "name": "Groen Brothers Aviation", "aircraft": ["Groen Hawk H4"] },
+  { "name": "Gu\u00e9pard II Team", "aircraft": ["Gu\u00e9pard II XJ01"] },
+  {
+    "name": "Gyrodyne Company of America",
+    "aircraft": ["Gyrodyne DSN", "Gyrodyne RON Rotorcycle"]
+  },
+  {
+    "name": "Hafner",
+    "aircraft": ["Hafner A.R.III Gyroplane", "Hafner Rotabuggy"]
+  },
+  {
+    "name": "Harbin Aircraft Manufacturing Corporation",
+    "aircraft": ["Harbin Z-5", "Harbin Z-9", "Harbin Z-19"]
+  },
+  {
+    "name": "Heli-Sport",
+    "aircraft": [
+      "Heli-Sport CH-7 Angel",
+      "Heli-Sport CH-7 Kompress",
+      "Heli-Sport CH-7 Kompress Charlie",
+      "Heli-Sport CH77 Ranabot"
+    ]
+  },
+  {
+    "name": "Helicopter Engineering Research Corporation",
+    "aircraft": ["Jovanovich JOV-3"]
+  },
+  {
+    "name": "H\u00e9licopt\u00e8res Guimbal",
+    "aircraft": ["Guimbal Cabri G2"]
+  },
+  { "name": "Helowerks", "aircraft": ["Helowerks HX-1 Wasp"] },
+  { "name": "Higgins", "aircraft": ["Higgins EB-1"] },
+  {
+    "name": "Hillberg Helicopters",
+    "aircraft": ["Hillberg EH1-01 RotorMouse", "Hillberg Turbine Exec"]
+  },
+  {
+    "name": "Hiller Aircraft Corporation",
+    "aircraft": [
+      "Hiller UH-12/OH-23",
+      "Hiller HJ-1/YH-32",
+      "Hiller X-18",
+      "Hiller Ten99",
+      "Hiller VZ-1 Pawnee",
+      "Hiller ROE Rotorcycle"
+    ]
+  },
+  {
+    "name": "Hindustan Aeronautics Limited",
+    "aircraft": [
+      "HAL Dhruv",
+      "HAL Light Utility Helicopter",
+      "HAL Light Combat Helicopter",
+      "HAL Cheetah",
+      "HAL Chetak",
+      "HAL Rudra"
+    ]
+  },
+  {
+    "name": "Hoppi-copter",
+    "aircraft": [
+      "Pentecost HX-1 Hoppi-Copter",
+      "Hoppi-copter 101",
+      "[7]",
+      "Hoppi-copter 102",
+      "[7]",
+      "Hoppi-copter Firefly",
+      "[7]"
+    ]
+  },
+  {
+    "name": "Hughes Helicopters",
+    "aircraft": [
+      "AH-64 Apache",
+      "OH-6 Cayuse",
+      "TH-55 Osage",
+      "Hughes XH-17 Flying Crane",
+      "XH-28",
+      "Hughes-McDonnell XV-9 \"Hot Cycle\""
+    ]
+  },
+  { "name": "Hungaro Copter Limited", "aircraft": ["Hungaro Copter"] },
+  {
+    "name": "Industria Aeronautic\u0103 Rom\u00e2n\u0103",
+    "aircraft": ["IAR 316", "IAR 330"]
+  },
+  {
+    "name": "Innovator Technologies",
+    "aircraft": ["Innovator Mosquito Air", "Innovator Mosquito XE"]
+  },
+  { "name": "Irkut", "aircraft": ["Irkut A-002"] },
+  {
+    "name": "Italian Rotors Industries",
+    "aircraft": ["IRI T22B", "IRI T250A"]
+  },
+  { "name": "KAI", "aircraft": ["Surion"] },
+  {
+    "name": "Kaman Aircraft",
+    "aircraft": [
+      "Kaman K 225",
+      "Kaman HH-43",
+      "Kaman K-16",
+      "Kaman K-1125 \"Huskie III\"",
+      "Kaman SH-2",
+      "Kaman KSA-100 SAVER",
+      "Kaman K1200 K-Max"
+    ]
+  },
+  {
+    "name": "Kamov",
+    "aircraft": [
+      "Kamov Ka-8",
+      "Kamov Ka-10",
+      "Kamov Ka-15",
+      "Kamov Ka-18",
+      "Kamov Ka-20",
+      "Kamov Ka-22",
+      "Kamov Ka-25",
+      "Kamov Ka-26",
+      "Kamov Ka-27/28/29/32",
+      "Kamov Ka-31",
+      "Kamov Ka-37",
+      "Kamov Ka-40",
+      "Kamov Ka-50/52",
+      "Kamov Ka-60",
+      "Kamov V-80",
+      "Kamov Ka-90",
+      "Kamov Ka-92",
+      "Kamov V-100",
+      "Kamov Ka-115",
+      "Kamov Ka-118",
+      "Kamov Ka-126",
+      "Kamov Ka-137",
+      "Kamov Ka-226"
+    ]
+  },
+  {
+    "name": "Kawasaki Heavy Industries",
+    "aircraft": ["Kawasaki KH-4", "Kawasaki BK 117", "Kawasaki OH-1"]
+  },
+  { "name": "Kayaba Industry", "aircraft": ["Kayaba Ka-1"] },
+  { "name": "Kazan Helicopter Plant", "aircraft": ["Kazan Ansat"] },
+  {
+    "name": "Kellett",
+    "aircraft": [
+      "[8]",
+      " Kellett K-2/3/4",
+      "Kellett KD-1",
+      "[8]",
+      "[8]",
+      "[8]",
+      "[8]",
+      "[8]",
+      "[8]",
+      "Kellett R-8",
+      "Kellett R-10"
+    ]
+  },
+  { "name": "Kharkiv Aviation Institute", "aircraft": ["KhAI-24"] },
+  { "name": "Kinney", "aircraft": ["Kinney HRH"] },
+  { "name": "Konner Srl", "aircraft": ["Konner K1"] },
+  { "name": "Lada Land", "aircraft": ["Lada Land VM-01"] },
+  { "name": "LAE Helicopters Cyprus", "aircraft": ["LAE Ultrasport 496T"] },
+  { "name": "Landgraf Helicopter Company", "aircraft": ["Landgraf H-2"] },
+  { "name": "Lecoin-Damblanc", "aircraft": ["[9]", "[10]", "[11]"] },
+  { "name": "L\u00e9ger", "aircraft": ["L\u00e9ger machine"] },
+  { "name": "Leineweber", "aircraft": ["Leineweber 1921 Helicopter", "[12]"] },
+  {
+    "name": "Little Wing Autogyros, Inc.",
+    "aircraft": ["Little Wing LW-1", "Little Wing Roto-Pup"]
+  },
+  {
+    "name": "Lockheed",
+    "aircraft": [
+      "Lockheed AH-56 Cheyenne",
+      "Lockheed CL-475",
+      "Lockheed XH-51",
+      "Lockheed Martin VH-71 Kestrel"
+    ]
+  },
+  { "name": "Manzolini", "aircraft": ["Manzolini Libellula"] },
+  { "name": "Marenco Swisshelicopter", "aircraft": ["SKYe SH09"] },
+  { "name": "MATRA", "aircraft": ["MATRA-Cantinieau MC-101", "[13]"] },
+  { "name": "McCulloch Autogyro", "aircraft": ["McCulloch J-2"] },
+  { "name": "McDonnell", "aircraft": ["McDonnell XV-1"] },
+  {
+    "name": "McDonnell Douglas",
+    "aircraft": [
+      "MH-6 Little Bird",
+      "MD 500",
+      "MD 500 Defender",
+      "MD 600",
+      "MD Explorer"
+    ]
+  },
+  {
+    "name": "Messerschmitt-B\u00f6lkow-Blohm",
+    "aircraft": [
+      "B\u00f6lkow Bo 46",
+      "B\u00f6lkow Bo 102 Heli Trainer",
+      "B\u00f6lkow Bo 103",
+      "MBB Bo 105",
+      "MBB/Kawasaki BK 117"
+    ]
+  },
+  {
+    "name": "Midwest Engineering & Design",
+    "aircraft": ["Midwest Hornet", "Midwest Zodiac Talon-Turbine"]
+  },
+  {
+    "name": "Mil Helicopters",
+    "aircraft": [
+      "Mil Mi-1",
+      "Mil Mi-2",
+      "Mil Mi-4",
+      "Mil Mi-6",
+      "Mil V-7",
+      "Mil Mi-8",
+      "Mil Mi-10",
+      "Mil Mi-12",
+      "Mil Mi-14",
+      "Mil V-16",
+      "Mil Mi-17",
+      "Mil Mi-24/25/35",
+      "Mil Mi-26",
+      "Mil Mi-28",
+      "Mil Mi-30",
+      "Mil Mi-34",
+      "Mil Mi-36",
+      "Mil Mi-38",
+      "Mil Mi-52",
+      "Mil Mi-X1 (Mi-Kh1)"
+    ]
+  },
+  { "name": "Millennium Helicopter", "aircraft": ["Millennium MH-1"] },
+  { "name": "Mitsubishi Heavy Industries", "aircraft": ["Mitsubishi MH2000"] },
+  { "name": "Nagler", "aircraft": ["Nagler NH-160"] },
+  { "name": "NASA/JPL", "aircraft": ["Mars Helicopter Ingenuity"] },
+  {
+    "name": "Nederlandse Helikopter Industrie",
+    "aircraft": ["NHI H-3 Kolibrie"]
+  },
+  { "name": "NHIndustries", "aircraft": ["NHI NH90"] },
+  {
+    "name": "Niki Rotor Aviation",
+    "aircraft": ["Niki 2004", "Niki Lightning", "Niki Kallithea"]
+  },
+  { "name": "Nord", "aircraft": ["Nord N.1700", "Nord N.1750 Norelfe"] },
+  { "name": "Northrop Grumman", "aircraft": ["MQ-8 Fire Scout"] },
+  { "name": "Nova Sp. z.o.o.", "aircraft": ["Nova Coden"] },
+  { "name": "Panha", "aircraft": ["Panha 2091"] },
+  { "name": "Pawnee Aviation", "aircraft": ["Pawnee Chief", "Pawnee Warrior"] },
+  { "name": "Pentecost", "aircraft": ["Pentecost HX-1 Hoppi-Copter"] },
+  {
+    "name": "Petr\u00f3czy-K\u00e1rm\u00e1n-\u017durovec",
+    "aircraft": ["PKZ-1", "[14]"]
+  },
+  {
+    "name": "Philippine Aerospace Development Corporation",
+    "aircraft": ["PADC Hummingbird"]
+  },
+  { "name": "Phoenix Rotorcraft", "aircraft": ["Phoenix Skyblazer"] },
+  {
+    "name": "Piasecki Helicopter",
+    "aircraft": [
+      "Piasecki HRP-1",
+      "Piasecki HRP-2",
+      "Piasecki PV-2",
+      "Piasecki HUP",
+      "Piasecki H-16 Pathfinder",
+      "Piasecki H-21",
+      "Piasecki H-25 Army Mule",
+      "Piasecki 59 Airgeep",
+      "Piasecki X-49",
+      "Piasecki PA-97"
+    ]
+  },
+  {
+    "name": "Pitcairn",
+    "aircraft": [
+      "Pitcairn PA-18",
+      "Pitcairn PA-19",
+      "Pitcairn PAA-1",
+      "Pitcairn PCA-2"
+    ]
+  },
+  { "name": "Platt-LePage Aircraft Co", "aircraft": ["Platt-LePage XR-1"] },
+  {
+    "name": "PZL",
+    "aircraft": [
+      "PZL W-3 Sok\u00f3\u0142",
+      "PZL SM-4 Latka",
+      "PZL SW-4",
+      "PZL Kania"
+    ]
+  },
+  {
+    "name": "Raven Rotorcraft",
+    "aircraft": ["Raven Explorer I", "Raven Explorer II"]
+  },
+  { "name": "Redback Aviation", "aircraft": ["Redback Buzzard"] },
+  {
+    "name": "Revolution Helicopter Corporation",
+    "aircraft": ["Revolution Mini-500"]
+  },
+  {
+    "name": "Robinson Helicopter",
+    "aircraft": ["Robinson R22", "Robinson R44", "Robinson R66"]
+  },
+  { "name": "Rotorcraft Ltd", "aircraft": ["Cierva CR-Twin"] },
+  { "name": "Rotorschmiede", "aircraft": ["Rotorschmiede VA115"] },
+  {
+    "name": "RotorSport UK Ltd",
+    "aircraft": ["RotorSport UK Calidus", "RotorSport UK MT-03"]
+  },
+  {
+    "name": "RotorWay International",
+    "aircraft": [
+      "[15]",
+      "RotorWay Exec 162F",
+      "RotorWay Scorpion",
+      "RotorWay A600 Talon",
+      "[16]",
+      "RotorWay 300T Eagle",
+      "[16]"
+    ]
+  },
+  { "name": "Rotorwing-Aero", "aircraft": ["Rotorwing-Aero 3D-RV"] },
+  {
+    "name": "Russian Gyroplanes",
+    "aircraft": [
+      "Russian Gyroplanes Gyros-1 Farmer",
+      "Russian Gyroplanes Gyros-2 Smartflier"
+    ]
+  },
+  { "name": "Santos-Dumont", "aircraft": ["Santos-Dumont helicopter"] },
+  { "name": "Saunders", "aircraft": ["Saunders Helicogyre"] },
+  { "name": "Saunders Roe", "aircraft": ["Saro Skeeter", "Saro P.531"] },
+  { "name": "Scheutzow", "aircraft": ["Scheutzow B"] },
+  {
+    "name": "Schweizer Aircraft Corporation",
+    "aircraft": ["Schweizer 300", "Schweizer 330/333"]
+  },
+  {
+    "name": "Shaanxi Baojii Special Vehicles Manufacturing Company",
+    "aircraft": ["Shaanxi Baojii Special Vehicles Lie Ying Falcon"]
+  },
+  {
+    "name": "Shahed Aviation Industries Research Center",
+    "aircraft": ["HESA Shahed 278", "HESA Shahed 285"]
+  },
+  { "name": "Showers-Aero", "aircraft": ["Showers Skytwister Choppy"] },
+  {
+    "name": "Sikorsky Aircraft Corporation",
+    "aircraft": [
+      "Vought-Sikorsky VS-300",
+      "Sikorsky R-4",
+      "Sikorsky R-5",
+      "Sikorsky R-6",
+      "Sikorsky H-19 (S-55)",
+      "Sikorsky CH-37 Mojave",
+      "Sikorsky H-34 (S-58)",
+      "Sikorsky XH-39",
+      "MH-53J Pave Low",
+      "Sikorsky S-60",
+      "Sikorsky UH-3 Sea King",
+      "Sikorsky S-62",
+      "Sikorsky CH-54 Tarhe",
+      "(S-64)",
+      "CH-53 Sea Stallion",
+      "Sikorsky S-67",
+      "Sikorsky S-69",
+      "Sikorsky S-70",
+      "UH-60",
+      "HH-60",
+      "SH-60",
+      "Sikorsky S-72",
+      "Sikorsky S-75",
+      "Sikorsky S-76",
+      "CH-53E Super Stallion",
+      "Sikorsky S-92",
+      "CH-148 Cyclone",
+      "CH-148 Cyclone",
+      "Sikorsky S-97 Raider",
+      "RAH-66 Comanche",
+      "Sikorsky X2",
+      "Sikorsky Cypher"
+    ]
+  },
+  { "name": "Silvercraft Italiana", "aircraft": ["Silvercraft SH-4"] },
+  { "name": "SKT Swiss Kopter Technology SA", "aircraft": ["SKT Skyrider 06"] },
+  {
+    "name": "SkyCruiser Autogyro",
+    "aircraft": ["SkyCruiser Autogyro SkyCruiser"]
+  },
+  { "name": "SNCAC", "aircraft": ["SNCAC NC.2001"] },
+  { "name": "SNCASE", "aircraft": ["SNCASE SE-3110"] },
+  { "name": "SNCASO", "aircraft": ["Sud-Ouest Ariel", "Sud-Ouest Djinn"] },
+  {
+    "name": "Spitfire Helicopter Company",
+    "aircraft": [
+      "Spitfire Helicopters Spitfire Mk.I",
+      "Spitfire Helicopters Spitfire Mk.II Tigershark"
+    ]
+  },
+  {
+    "name": "Star Aviation Inc|Star Aviation",
+    "aircraft": ["Star Aviation LoneStar Sport Helicopter"]
+  },
+  { "name": "Sznycer", "aircraft": ["Sznycer SG-VI-D", "Sznycer Omega BS-12"] },
+  { "name": "Titanium Auto Gyro", "aircraft": ["Titanium Explorer"] },
+  { "name": "Thruxton", "aircraft": ["Thruxton Gadfly E.S.102"] },
+  {
+    "name": "Transcendental Aircraft Corporation",
+    "aircraft": ["Transcendental 1-G"]
+  },
+  { "name": "Trendak", "aircraft": ["Trendak Tercel"] },
+  {
+    "name": "Trixy Aviation Products",
+    "aircraft": [
+      "Trixy G 4-2 R",
+      "Trixy Liberty",
+      "Trixy Princess",
+      "Trixy Trixformer"
+    ]
+  },
+  { "name": "TsAGI", "aircraft": ["TsAGI A-4", "[17]"] },
+  {
+    "name": "Turkish Aerospace Industries",
+    "aircraft": ["TAI/AgustaWestland T-129", "TAI T-625"]
+  },
+  { "name": "Vertical", "aircraft": ["Vertical Hummingbird"] },
+  {
+    "name": "Vertol Aircraft Corporation",
+    "aircraft": [
+      "CH-46 Sea Knight",
+      "CH-47 Chinook",
+      "H-21 Shawnee",
+      "H-25 Retriever"
+    ]
+  },
+  { "name": "Villamil", "aircraft": ["Villamil Lib\u00e9lula Viblandi"] },
+  { "name": "Volocopter", "aircraft": ["Volocopter VC2", "Volocopter 2X"] },
+  {
+    "name": "Vortech",
+    "aircraft": [
+      "Vortech A/W 95",
+      "Vortech Choppy",
+      "Vortech G-1",
+      "Vortech Hot Rod",
+      "Vortech Kestrel Jet",
+      "Vortech Meg-2XH Strap-On",
+      "Vortech Skylark",
+      "Vortech Shadow",
+      "Vortech Sparrow"
+    ]
+  },
+  { "name": "Wagner", "aircraft": ["Wagner Aerocar"] },
+  {
+    "name": "Westland Helicopters",
+    "aircraft": [
+      "Westland Apache",
+      "Westland Dragonfly",
+      "Westland Gazelle",
+      "Westland Lynx",
+      "Westland Sea King",
+      "Westland Scout",
+      "Westland Wasp",
+      "Westland Wessex",
+      "Westland Westminster",
+      "Westland Whirlwind",
+      "Westland Widgeon"
+    ]
+  },
+  { "name": "Windspire Inc.", "aircraft": ["Windspire Aeros"] },
+  { "name": "Winner SBS", "aircraft": ["Winner B150"] },
+  { "name": "Wombat Gyrocopters", "aircraft": ["Wombat Gyrocopters Wombat"] },
+  {
+    "name": "Yakovlev",
+    "aircraft": [
+      "Yakovlev EG",
+      "Yakovlev Yak-24",
+      "Yakovlev Yak-60",
+      "Yakovlev Yak-100",
+      "Yakovlev VVP-6"
+    ]
+  },
+  { "name": "Youngcopter", "aircraft": ["Youngcopter Neo"] },
+  { "name": "Zafar Aircraft", "aircraft": ["Zafar 300"] }
+]

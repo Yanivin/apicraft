@@ -1,0 +1,6815 @@
+[
+  {
+    "name": "AEG G.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "AEG G.II",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "20 ca."
+  },
+  {
+    "name": "AEG G.III",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "25"
+  },
+  {
+    "name": "AEG G.IV",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "320"
+  },
+  {
+    "name": "AEG G.V",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "151"
+  },
+  {
+    "name": "AEG N.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "37"
+  },
+  {
+    "name": "AEG R.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Aermacchi MB-326",
+    "country": "Italy",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1957",
+    "status": "Operational",
+    "amount": "650"
+  },
+  {
+    "name": "Aermacchi MB-339",
+    "country": "Italy",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1976",
+    "status": "Operational",
+    "amount": "213+"
+  },
+  {
+    "name": "Aero A.100",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "44"
+  },
+  {
+    "name": "Aero A.101",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "143"
+  },
+  {
+    "name": "Aero A.11",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1925",
+    "status": "Operational",
+    "amount": "440"
+  },
+  {
+    "name": "Aero A.12",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1923",
+    "status": "Operational",
+    "amount": "93"
+  },
+  {
+    "name": "Aero A.24",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Bomber",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Aero A.30",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Light bomber",
+    "date": "1927",
+    "status": "Operational",
+    "amount": "20"
+  },
+  {
+    "name": "Aero A.304",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "19"
+  },
+  {
+    "name": "Aero A.42",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Bomber",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Aero L-159 Alca",
+    "country": "Czech Republic",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1997",
+    "status": "Operational",
+    "amount": "72"
+  },
+  {
+    "name": "Aichi B7A",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo/dive bomber",
+    "date": "1942",
+    "status": "Operational",
+    "amount": "114"
+  },
+  {
+    "name": "Aichi D1A",
+    "country": "Japan",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "590"
+  },
+  {
+    "name": "Aichi D3A",
+    "country": "Japan",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1938",
+    "status": "Operational",
+    "amount": "1,486"
+  },
+  {
+    "name": "Aichi M6A",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1943",
+    "status": "Operational",
+    "amount": "28"
+  },
+  {
+    "name": "Airco DH.10 Amiens",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "258"
+  },
+  {
+    "name": "Airco DH.11",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber",
+    "date": "1919",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Airco DH.3",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Airco DH.4",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "6,295"
+  },
+  {
+    "name": "Airco DH.9",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "4,091"
+  },
+  {
+    "name": "Airco DH.9A",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "1,997"
+  },
+  {
+    "name": "Airspeed Oxford",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber/trainer",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "8,586"
+  },
+  {
+    "name": "Albatros C.III",
+    "country": "Germany",
+    "class": "",
+    "role": "Light bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "2,271"
+  },
+  {
+    "name": "Albatros C.VII/N.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "600+"
+  },
+  {
+    "name": "Albatros G.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Albatros G.II",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Albatros G.III",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "45"
+  },
+  {
+    "name": "Amiot 143M",
+    "country": "France",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "138"
+  },
+  {
+    "name": "Amiot 354",
+    "country": "France",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "86 ca."
+  },
+  {
+    "name": "ANBO VIII",
+    "country": "Lithuania",
+    "class": "",
+    "role": "Light bomber",
+    "date": "1939",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "ANF Les Mureaux 110",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "285"
+  },
+  {
+    "name": "Arado Ar 234",
+    "country": "Germany",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1943",
+    "status": "Operational",
+    "amount": "210"
+  },
+  {
+    "name": "Archangelski Ar-2",
+    "country": "USSR",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "190"
+  },
+  {
+    "name": "Armstrong Whitworth A.W.19",
+    "country": "UK",
+    "class": "",
+    "role": "Multi-role bomber",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Armstrong Whitworth Albemarle",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "602"
+  },
+  {
+    "name": "Armstrong Whitworth Atlas",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1925",
+    "status": "Operational",
+    "amount": "478"
+  },
+  {
+    "name": "Armstrong Whitworth AW.23",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1935",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Armstrong Whitworth F.K.8",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "1,650"
+  },
+  {
+    "name": "Armstrong Whitworth Whitley",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber/maritime patrol",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "1,814"
+  },
+  {
+    "name": "Avro 504",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber/trainer",
+    "date": "1913",
+    "status": "Operational",
+    "amount": "8,970"
+  },
+  {
+    "name": "Avro 523 Pike",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Avro 529",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Avro 533 Manchester",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Avro 549 Aldershot",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1921",
+    "status": "Operational",
+    "amount": "17"
+  },
+  {
+    "name": "Avro 604 Antelope",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1928",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Avro Anson",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "11,020"
+  },
+  {
+    "name": "Avro Lancaster",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber/maritime patrol",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "7,377"
+  },
+  {
+    "name": "Avro Lincoln",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1944",
+    "status": "Operational",
+    "amount": "604"
+  },
+  {
+    "name": "Avro Manchester",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "209"
+  },
+  {
+    "name": "Avro Shackleton",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1949",
+    "status": "Operational 1990",
+    "amount": "185"
+  },
+  {
+    "name": "Avro Vulcan",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Heavy bomber",
+    "date": "1952",
+    "status": "Operational",
+    "amount": "136"
+  },
+  {
+    "name": "BAC Jet Provost",
+    "country": "UK",
+    "class": "Jet",
+    "role": "trainer/attack",
+    "date": "1954",
+    "status": "Operational",
+    "amount": "741"
+  },
+  {
+    "name": "BAC Strikemaster",
+    "country": "UK",
+    "class": "Jet",
+    "role": "trainer/attack",
+    "date": "1967",
+    "status": "Operational",
+    "amount": "146"
+  },
+  {
+    "name": "BAC TSR-2",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Reconnaissance bomber",
+    "date": "1964",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Beardmore W.B.1",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Beardmore W.B.VI",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "n/a",
+    "status": "cancelled project",
+    "amount": "0"
+  },
+  {
+    "name": "Beechcraft XA-38 Grizzly",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Bellanca 77-140",
+    "country": "US",
+    "class": "",
+    "role": "Bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "4"
+  },
+  {
+    "name": "Beriev Be-10",
+    "country": "USSR",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1956",
+    "status": "Operational",
+    "amount": "28"
+  },
+  {
+    "name": "Beriev Be-12",
+    "country": "USSR",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1960",
+    "status": "Operational",
+    "amount": "143"
+  },
+  {
+    "name": "Beriev Be-4",
+    "country": "USSR",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "47"
+  },
+  {
+    "name": "Beriev Be-6",
+    "country": "USSR",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1949",
+    "status": "Operational",
+    "amount": "123"
+  },
+  {
+    "name": "Beriev MBR-2",
+    "country": "USSR",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "1,365"
+  },
+  {
+    "name": "Blackburn B-3",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Blackburn B-48 Firecrest",
+    "country": "UK",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Blackburn B-7",
+    "country": "UK",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Blackburn Baffin",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "97"
+  },
+  {
+    "name": "Blackburn Beagle",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1928",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Blackburn Blackburd",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Blackburn Botha",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1938",
+    "status": "Operational",
+    "amount": "580"
+  },
+  {
+    "name": "Blackburn Buccaneer",
+    "country": "UK",
+    "class": "",
+    "role": "Attack",
+    "date": "1958",
+    "status": "Operational",
+    "amount": "206"
+  },
+  {
+    "name": "Blackburn Cubaroo",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Blackburn Dart",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1921",
+    "status": "Operational",
+    "amount": "126"
+  },
+  {
+    "name": "Blackburn Firebrand",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber/fighter",
+    "date": "1942",
+    "status": "Operational",
+    "amount": "193"
+  },
+  {
+    "name": "Blackburn Iris",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1926",
+    "status": "Operational",
+    "amount": "5"
+  },
+  {
+    "name": "Blackburn Kangaroo",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol/heavy bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "20"
+  },
+  {
+    "name": "Blackburn Perth",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "4"
+  },
+  {
+    "name": "Blackburn Ripon",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1926",
+    "status": "Operational",
+    "amount": "92"
+  },
+  {
+    "name": "Blackburn Shark",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "269"
+  },
+  {
+    "name": "Blackburn Skua",
+    "country": "UK",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "192"
+  },
+  {
+    "name": "Blackburn Velos",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1925",
+    "status": "Operational",
+    "amount": "22"
+  },
+  {
+    "name": "Bl\u00e9riot 127",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1926",
+    "status": "Operational",
+    "amount": "44"
+  },
+  {
+    "name": "Bleriot XI",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1909",
+    "status": "Operational",
+    "amount": "100+"
+  },
+  {
+    "name": "Bloch MB.131",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "143"
+  },
+  {
+    "name": "Bloch MB.174",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "225+"
+  },
+  {
+    "name": "Bloch MB.200",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "332"
+  },
+  {
+    "name": "Boeing B-17 Flying Fortress",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "12,731"
+  },
+  {
+    "name": "Boeing B-29 Superfortress/Washington",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1942",
+    "status": "Operational",
+    "amount": "3,970"
+  },
+  {
+    "name": "Boeing B-47 Stratojet",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1947",
+    "status": "Operational",
+    "amount": "2,032"
+  },
+  {
+    "name": "Boeing B-50 Superfortress",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1947",
+    "status": "Operational",
+    "amount": "370"
+  },
+  {
+    "name": "Boeing B-52 Stratofortress",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1952",
+    "status": "Operational",
+    "amount": "744"
+  },
+  {
+    "name": "Boeing XB-54",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1948",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Boeing Model 306",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1935",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Boeing P-8 Poseidon",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "2009",
+    "status": "Operational",
+    "amount": "150+"
+  },
+  {
+    "name": "Boeing XB-15",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Boeing XB-38 Flying Fortress",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1943",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Boeing XB-39 Superfortress",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Boeing XB-56",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1950",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Boeing XB-59",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1952",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Boeing XF8B",
+    "country": "US",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Boeing XPBB Sea Ranger",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1942",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Boeing YB-9",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "7"
+  },
+  {
+    "name": "Bolkhovitinov DB-A",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "14"
+  },
+  {
+    "name": "Boulton & Paul Bolton",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1922",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Boulton & Paul Bugle",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1923",
+    "status": "Operational",
+    "amount": "7"
+  },
+  {
+    "name": "Boulton Paul Bodmin",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Boulton Paul Bourges",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1919",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Boulton Paul Overstrand",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "28"
+  },
+  {
+    "name": "Boulton Paul P.32",
+    "country": "UK",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Boulton Paul Sidestrand",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1926",
+    "status": "Operational",
+    "amount": "20"
+  },
+  {
+    "name": "Breda A.14",
+    "country": "Italy",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1928",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Breda A.8",
+    "country": "Italy",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Breda Ba.46",
+    "country": "Italy",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Breda Ba.64",
+    "country": "Italy",
+    "class": "",
+    "role": "Attack",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "42"
+  },
+  {
+    "name": "Breda Ba.65",
+    "country": "Italy",
+    "class": "",
+    "role": "Attack",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "218"
+  },
+  {
+    "name": "Breda Ba.88",
+    "country": "Italy",
+    "class": "",
+    "role": "Attack",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "149"
+  },
+  {
+    "name": "Breguet 14",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "7,800"
+  },
+  {
+    "name": "Breguet 16",
+    "country": "France",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "200 ca."
+  },
+  {
+    "name": "Breguet 19",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1922",
+    "status": "Operational",
+    "amount": "2,700+"
+  },
+  {
+    "name": "Breguet 270 Series",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1929",
+    "status": "Operational",
+    "amount": "227+"
+  },
+  {
+    "name": "Br\u00e9guet 410",
+    "country": "France",
+    "class": "",
+    "role": "Bomber",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "8"
+  },
+  {
+    "name": "Br\u00e9guet 460 Vultur",
+    "country": "France",
+    "class": "",
+    "role": "Bomber",
+    "date": "1935",
+    "status": "Prototype",
+    "amount": "5"
+  },
+  {
+    "name": "Breguet 521",
+    "country": "France",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "34"
+  },
+  {
+    "name": "Breguet 693",
+    "country": "France",
+    "class": "",
+    "role": "Attack",
+    "date": "1938",
+    "status": "Operational",
+    "amount": "230"
+  },
+  {
+    "name": "Breguet Aliz\u00e9",
+    "country": "France",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1956",
+    "status": "Operational 2000",
+    "amount": "89"
+  },
+  {
+    "name": "Breguet Atlantique",
+    "country": "France",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1961",
+    "status": "Operational",
+    "amount": "115"
+  },
+  {
+    "name": "Breguet Bre.4",
+    "country": "France",
+    "class": "",
+    "role": "Bomber",
+    "date": "1914",
+    "status": "Operational",
+    "amount": "100 ca."
+  },
+  {
+    "name": "Breguet Bre.5 & 6",
+    "country": "France",
+    "class": "",
+    "role": "Bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "50+"
+  },
+  {
+    "name": "Breguet Taon",
+    "country": "France",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1957",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Breguet Vultur",
+    "country": "France",
+    "class": "",
+    "role": "Attack",
+    "date": "1951",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Brewster SB2A Buccaneer",
+    "country": "US",
+    "class": "",
+    "role": "Bomber",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "771"
+  },
+  {
+    "name": "Bristol Beaufighter",
+    "country": "UK",
+    "class": "",
+    "role": "Fighter bomber/torpedo bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "5,928"
+  },
+  {
+    "name": "Bristol Beaufort",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1938",
+    "status": "Operational",
+    "amount": "2,129"
+  },
+  {
+    "name": "Bristol Berkeley",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1925",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Bristol Blenheim",
+    "country": "UK",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "4,422"
+  },
+  {
+    "name": "Bristol Bombay",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber/transport",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "50"
+  },
+  {
+    "name": "Bristol Braemar",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Bristol Buckingham",
+    "country": "UK",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1943",
+    "status": "Operational",
+    "amount": "119"
+  },
+  {
+    "name": "Bristol TB.8",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber",
+    "date": "1913",
+    "status": "Operational",
+    "amount": "54"
+  },
+  {
+    "name": "Bristol Type 148",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "British Aerospace Harrier II",
+    "country": "UK",
+    "class": "",
+    "role": "Attack",
+    "date": "1985",
+    "status": "Operational",
+    "amount": "143"
+  },
+  {
+    "name": "CAC Woomera",
+    "country": "Australia",
+    "class": "",
+    "role": "Attack",
+    "date": "1941",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "CAMS 33",
+    "country": "France",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1923",
+    "status": "Operational",
+    "amount": "20"
+  },
+  {
+    "name": "CAMS 37",
+    "country": "France",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1926",
+    "status": "Operational",
+    "amount": "332"
+  },
+  {
+    "name": "CAMS 55",
+    "country": "France",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1928",
+    "status": "Operational",
+    "amount": "112"
+  },
+  {
+    "name": "Canadair CL-41 Tebuan",
+    "country": "Canada",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1960",
+    "status": "Operational 1986",
+    "amount": "20"
+  },
+  {
+    "name": "Canadair CP-107 Argus",
+    "country": "Canada",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1957",
+    "status": "Operational 1982",
+    "amount": "33"
+  },
+  {
+    "name": "CANSA FC.20bis",
+    "country": "Italy",
+    "class": "",
+    "role": "Bomber",
+    "date": "1941",
+    "status": "Prototype",
+    "amount": "6 ca."
+  },
+  {
+    "name": "CANT Z.1007",
+    "country": "Italy",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "660"
+  },
+  {
+    "name": "CANT Z.1018",
+    "country": "Italy",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1939",
+    "status": "Prototype",
+    "amount": "15"
+  },
+  {
+    "name": "CANT Z.501",
+    "country": "Italy",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "200+"
+  },
+  {
+    "name": "CANT Z.506",
+    "country": "Italy",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "325+"
+  },
+  {
+    "name": "Caproni A.P.1",
+    "country": "Italy",
+    "class": "",
+    "role": "Attack",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "56 ca."
+  },
+  {
+    "name": "Caproni Ca.1",
+    "country": "Italy",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1914",
+    "status": "Operational",
+    "amount": "162"
+  },
+  {
+    "name": "Caproni Ca.101",
+    "country": "Italy",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1928",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Caproni Ca.111",
+    "country": "Italy",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "148"
+  },
+  {
+    "name": "Caproni Ca.2",
+    "country": "Italy",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "9"
+  },
+  {
+    "name": "Caproni Ca.3",
+    "country": "Italy",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "509"
+  },
+  {
+    "name": "Caproni Ca.310",
+    "country": "Italy",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "312"
+  },
+  {
+    "name": "Caproni Ca.311",
+    "country": "Italy",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "335"
+  },
+  {
+    "name": "Caproni Ca.313",
+    "country": "Italy",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "271"
+  },
+  {
+    "name": "Caproni Ca.314",
+    "country": "Italy",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "407"
+  },
+  {
+    "name": "Caproni Ca.316",
+    "country": "Italy",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "14"
+  },
+  {
+    "name": "Caproni Ca.355",
+    "country": "Italy",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1941",
+    "status": "Project",
+    "amount": "1"
+  },
+  {
+    "name": "Caproni Ca.4",
+    "country": "Italy",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "38"
+  },
+  {
+    "name": "Caproni Ca.5",
+    "country": "Italy",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "664"
+  },
+  {
+    "name": "Caproni Ca.73",
+    "country": "Italy",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1924",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Caproni Ca.90",
+    "country": "Italy",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "CASA CN-235MPA",
+    "country": "Spain",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1983",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Caudron G.4",
+    "country": "France",
+    "class": "",
+    "role": "Bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "1,421"
+  },
+  {
+    "name": "Caudron R.4",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "249"
+  },
+  {
+    "name": "Cessna A-37 Dragonfly",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1963",
+    "status": "Operational",
+    "amount": "577"
+  },
+  {
+    "name": "Chyetverikov ARK-3",
+    "country": "USSR",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1936",
+    "status": "Prototype",
+    "amount": "7"
+  },
+  {
+    "name": "Chyetverikov MDR-3",
+    "country": "USSR",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Chyetverikov MDR-6",
+    "country": "USSR",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "27"
+  },
+  {
+    "name": "Consolidated B-24 Liberator",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "18,482"
+  },
+  {
+    "name": "Consolidated B-32 Dominator",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1942",
+    "status": "Operational",
+    "amount": "118"
+  },
+  {
+    "name": "Consolidated P2Y",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1929",
+    "status": "Operational",
+    "amount": "78"
+  },
+  {
+    "name": "Consolidated PB2Y Coronado",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "217"
+  },
+  {
+    "name": "Consolidated PB4Y-2 Privateer",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1943",
+    "status": "Operational",
+    "amount": "739"
+  },
+  {
+    "name": "Consolidated PBY Catalina",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol flying boat/amphibian",
+    "date": "1935",
+    "status": "Operationals",
+    "amount": "4,051 ca."
+  },
+  {
+    "name": "Vought TBU/Consolidated TBY Sea Wolf",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "180"
+  },
+  {
+    "name": "Consolidated XP4Y Corregidor",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1939",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Convair B-36",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1946",
+    "status": "Operational",
+    "amount": "384"
+  },
+  {
+    "name": "Convair B-58 Hustler",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1956",
+    "status": "Operational",
+    "amount": "116"
+  },
+  {
+    "name": "Convair XB-46",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Convair YB-60",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1952",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Curtiss A-12 Shrike",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "46"
+  },
+  {
+    "name": "Curtiss A-18 Shrike",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "13"
+  },
+  {
+    "name": "Curtiss A-8",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "13"
+  },
+  {
+    "name": "Curtiss B-2 Condor",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1929",
+    "status": "Operational",
+    "amount": "13"
+  },
+  {
+    "name": "Curtiss BF2C Goshawk",
+    "country": "US",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "166"
+  },
+  {
+    "name": "Curtiss CS",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1923",
+    "status": "Operational",
+    "amount": "83"
+  },
+  {
+    "name": "Curtiss F5L",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "227"
+  },
+  {
+    "name": "Curtiss A-3/A-4 Falcon",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1924",
+    "status": "Operational",
+    "amount": "155"
+  },
+  {
+    "name": "Curtiss HS",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "1,178"
+  },
+  {
+    "name": "Curtiss Model H",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "478"
+  },
+  {
+    "name": "Curtiss SB2C Helldiver/A-25 Shrike",
+    "country": "US",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "7,140"
+  },
+  {
+    "name": "Curtiss SBC Helldiver",
+    "country": "US",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "257"
+  },
+  {
+    "name": "Curtiss T-32 Condor II",
+    "country": "US",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "45"
+  },
+  {
+    "name": "Curtiss XA-14",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1935",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Curtiss XBTC",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Curtiss XSB3C",
+    "country": "US",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1941",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Curtiss YA-10 Shrike",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "DAR 10",
+    "country": "Bulgaria",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1941",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Dassault Mirage 2000N/2000D",
+    "country": "France",
+    "class": "",
+    "role": "nuclear strike/strike",
+    "date": "1986",
+    "status": "Operational",
+    "amount": "161"
+  },
+  {
+    "name": "Dassault Mirage IV",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1959",
+    "status": "Operational 2005",
+    "amount": "66"
+  },
+  {
+    "name": "Dassault Ouragan",
+    "country": "France",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1949",
+    "status": "Operational",
+    "amount": "567"
+  },
+  {
+    "name": "Dassault-Breguet Super \u00c9tendard",
+    "country": "France",
+    "class": "",
+    "role": "Attack",
+    "date": "1974",
+    "status": "Operational",
+    "amount": "85"
+  },
+  {
+    "name": "Dassault/Dornier Alpha Jet",
+    "country": "France/Germany",
+    "class": "",
+    "role": "Attack",
+    "date": "1973",
+    "status": "Operational 1997",
+    "amount": "480"
+  },
+  {
+    "name": "De Havilland DH.100 Vampire",
+    "country": "UK",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1943",
+    "status": "Operational",
+    "amount": "3,268"
+  },
+  {
+    "name": "de Havilland DH.14 Okapi",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1919",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "de Havilland DH.27 Derby",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1922",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "de Havilland DH.65 Hound",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1926",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "de Havilland DH.72",
+    "country": "UK",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "De Havilland DH.98 Mosquito",
+    "country": "UK",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1940",
+    "status": "Operationals",
+    "amount": "7,781"
+  },
+  {
+    "name": "de Havilland Venom",
+    "country": "UK",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1949",
+    "status": "Operational",
+    "amount": "1,431"
+  },
+  {
+    "name": "DFW R.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "DFW R.II",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "DFW R.III",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "n/a",
+    "status": "cancelled project",
+    "amount": "0"
+  },
+  {
+    "name": "Dornier Do P",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1930",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Dornier Do Y",
+    "country": "Germany",
+    "class": "",
+    "role": "Bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "4"
+  },
+  {
+    "name": "Dornier Do 11",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "372"
+  },
+  {
+    "name": "Dornier Do 17",
+    "country": "Germany",
+    "class": "",
+    "role": "Bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "2,139"
+  },
+  {
+    "name": "Dornier Do 19",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy Bomber",
+    "date": "1936",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Dornier Do 215",
+    "country": "Germany",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1938",
+    "status": "Operational",
+    "amount": "105"
+  },
+  {
+    "name": "Dornier Do 217",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1938",
+    "status": "Operational",
+    "amount": "1,925"
+  },
+  {
+    "name": "Dornier Do 22",
+    "country": "Germany",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "30 ca."
+  },
+  {
+    "name": "Dornier 228",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1981",
+    "status": "Operational",
+    "amount": "270"
+  },
+  {
+    "name": "Dornier Do 23",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "282"
+  },
+  {
+    "name": "Dornier Do 24",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "279"
+  },
+  {
+    "name": "Dornier Do 28",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1959",
+    "status": "Operational",
+    "amount": "10"
+  },
+  {
+    "name": "Dornier Do 317",
+    "country": "Germany",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1943",
+    "status": "Prototype",
+    "amount": "6"
+  },
+  {
+    "name": "Douglas A-1 Skyraider",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1945",
+    "status": "Operational",
+    "amount": "3,180"
+  },
+  {
+    "name": "Douglas A-20 Havoc",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "7,478"
+  },
+  {
+    "name": "Douglas A-26 Invader",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1942",
+    "status": "Operational",
+    "amount": "2,452"
+  },
+  {
+    "name": "Douglas A-3 Skywarrior",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1956",
+    "status": "Operational",
+    "amount": "282"
+  },
+  {
+    "name": "Douglas A-4 Skyhawk",
+    "country": "US",
+    "class": "",
+    "role": "Attack aircraft",
+    "date": "1954",
+    "status": "Operational",
+    "amount": "2,960"
+  },
+  {
+    "name": "Douglas A2D Skyshark",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1950",
+    "status": "Prototype",
+    "amount": "8"
+  },
+  {
+    "name": "Douglas B-18 Bolo",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol/medium bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "350"
+  },
+  {
+    "name": "Douglas B-23 Dragon",
+    "country": "US",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "38"
+  },
+  {
+    "name": "Douglas B-66 Destroyer",
+    "country": "US",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1954",
+    "status": "Operational",
+    "amount": "72"
+  },
+  {
+    "name": "Douglas BTD Destroyer",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo/dive bomber",
+    "date": "1943",
+    "status": "Operational",
+    "amount": "30"
+  },
+  {
+    "name": "Douglas DT",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1921",
+    "status": "Operational",
+    "amount": "90"
+  },
+  {
+    "name": "Douglas SBD Dauntless",
+    "country": "US",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "5,936"
+  },
+  {
+    "name": "Douglas TBD Devastator",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "130"
+  },
+  {
+    "name": "Douglas XB-19",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1941",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Douglas XB-22",
+    "country": "US",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Douglas XTB2D Skypirate",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Douglas Y1B-7",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "8"
+  },
+  {
+    "name": "EADS-CASA C295MP",
+    "country": "Spain",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1997",
+    "status": "Operational",
+    "amount": "86"
+  },
+  {
+    "name": "Embraer EMB 312 Tucano",
+    "country": "Brazil",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1980",
+    "status": "Operational",
+    "amount": "624"
+  },
+  {
+    "name": "Embraer EMB 314 Super Tucano",
+    "country": "Brazil",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1999",
+    "status": "Operational",
+    "amount": "158"
+  },
+  {
+    "name": "English Electric Canberra",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1949",
+    "status": "Operational",
+    "amount": "949"
+  },
+  {
+    "name": "Fairchild Republic A-10 Thunderbolt II",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1972",
+    "status": "Operational",
+    "amount": "716"
+  },
+  {
+    "name": "Fairey Albacore",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1938",
+    "status": "Operational",
+    "amount": "800"
+  },
+  {
+    "name": "Fairey Barracuda",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo/dive bomber",
+    "date": "1940",
+    "status": "Operationals",
+    "amount": "2,607"
+  },
+  {
+    "name": "Fairey Battle",
+    "country": "UK",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "2,185"
+  },
+  {
+    "name": "Fairey Campania",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "62"
+  },
+  {
+    "name": "Fairey Fawn",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1923",
+    "status": "Operational",
+    "amount": "75"
+  },
+  {
+    "name": "Fairey Ferret",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1925",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Fairey Fox",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1925",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Fairey G.4/31",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Fairey Gannet",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1949",
+    "status": "Operational 1978",
+    "amount": "348"
+  },
+  {
+    "name": "Fairey Gordon",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "186"
+  },
+  {
+    "name": "Fairey Hendon",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1930",
+    "status": "Operational",
+    "amount": "15"
+  },
+  {
+    "name": "Fairey III",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "964"
+  },
+  {
+    "name": "Fairey P.4/34",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Fairey Seal",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1930",
+    "status": "Operational",
+    "amount": "91"
+  },
+  {
+    "name": "Fairey Swordfish",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "2,391"
+  },
+  {
+    "name": "Farman F.140 Super Goliath",
+    "country": "France",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1924",
+    "status": "Operational",
+    "amount": "9"
+  },
+  {
+    "name": "Farman F.150",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1926",
+    "status": "Prototype",
+    "amount": "1+"
+  },
+  {
+    "name": "Farman F.160",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1928",
+    "status": "Operational",
+    "amount": "250"
+  },
+  {
+    "name": "Farman F.220",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "80 ca."
+  },
+  {
+    "name": "Farman F.50",
+    "country": "France",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "100+"
+  },
+  {
+    "name": "Farman F.60 Goliath",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1919",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Felixstowe F.2",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "175"
+  },
+  {
+    "name": "Felixstowe F.3",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "182"
+  },
+  {
+    "name": "Felixstowe F.5",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "53"
+  },
+  {
+    "name": "Felixstowe Fury",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Fiat Br.20",
+    "country": "Italy",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "500+"
+  },
+  {
+    "name": "Fiat BR",
+    "country": "Italy",
+    "class": "",
+    "role": "Bomber",
+    "date": "1919",
+    "status": "Operational",
+    "amount": "250+"
+  },
+  {
+    "name": "Fiat BRG",
+    "country": "Italy",
+    "class": "",
+    "role": "Bomber",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Fiat G.91",
+    "country": "Italy",
+    "class": "",
+    "role": "Attack",
+    "date": "1956",
+    "status": "Operational 1995",
+    "amount": "770"
+  },
+  {
+    "name": "Fiat G.91Y",
+    "country": "Italy",
+    "class": "",
+    "role": "Attack",
+    "date": "1966",
+    "status": "Operational 1998",
+    "amount": "67"
+  },
+  {
+    "name": "Fiat RS.14",
+    "country": "Italy",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "188"
+  },
+  {
+    "name": "Fieseler Fi 167",
+    "country": "Germany",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "14"
+  },
+  {
+    "name": "Fieseler Fi 98",
+    "country": "Germany",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1935",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "FMA AeMB.2",
+    "country": "Argentina",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "16"
+  },
+  {
+    "name": "FMA IA 58 Pucar\u00e1",
+    "country": "Argentina",
+    "class": "",
+    "role": "Attack",
+    "date": "1969",
+    "status": "Operational",
+    "amount": "150+"
+  },
+  {
+    "name": "Focke-Wulf Fw 200 Condor",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol/transport",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "276"
+  },
+  {
+    "name": "Focke-Wulf Fw 300",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1941",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Focke-Wulf Fw 42",
+    "country": "Germany",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Focke-Wulf Ta 400",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1943",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Fokker C.V",
+    "country": "Netherlands",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1924",
+    "status": "Operational",
+    "amount": "955"
+  },
+  {
+    "name": "Fokker C.X",
+    "country": "Netherlands",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "71"
+  },
+  {
+    "name": "Fokker F-27 maritime",
+    "country": "Netherlands",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1955",
+    "status": "Operational",
+    "amount": ""
+  },
+  {
+    "name": "Fokker K.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Bomber",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Fokker T.IV",
+    "country": "Netherlands",
+    "class": "",
+    "role": "Maritime patrol torpedo bomber",
+    "date": "1927",
+    "status": "Operational",
+    "amount": "33"
+  },
+  {
+    "name": "Fokker T.V",
+    "country": "Netherlands",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "16"
+  },
+  {
+    "name": "Fokker T.VIII",
+    "country": "Netherlands",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1938",
+    "status": "Operational",
+    "amount": "36"
+  },
+  {
+    "name": "Fokker XB-8",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "7"
+  },
+  {
+    "name": "Fouga CM.170 Magister",
+    "country": "France",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1952",
+    "status": "Operational",
+    "amount": "929"
+  },
+  {
+    "name": "Friedrichshafen FF.41",
+    "country": "Germany",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "9"
+  },
+  {
+    "name": "Friedrichshafen G.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Friedrichshafen G.II",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "35"
+  },
+  {
+    "name": "Friedrichshafen G.III",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "338"
+  },
+  {
+    "name": "Friedrichshafen G.IV",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Friedrichshafen G.V",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "General Dynamics F-111",
+    "country": "US",
+    "class": "",
+    "role": "Bomber",
+    "date": "1967",
+    "status": "Operational 2010",
+    "amount": "563"
+  },
+  {
+    "name": "Gloster Goral",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Gloster TSR.38",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Gotha G.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "20"
+  },
+  {
+    "name": "Gotha G.II",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "11"
+  },
+  {
+    "name": "Gotha G.III",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "25"
+  },
+  {
+    "name": "Gotha G.IV",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "230"
+  },
+  {
+    "name": "Gotha G.IX",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "90 ca."
+  },
+  {
+    "name": "Gotha G.V",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "205"
+  },
+  {
+    "name": "Gotha G.VI",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Gotha GL.VII",
+    "country": "Germany",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "20 ca."
+  },
+  {
+    "name": "Gotha G.VIII",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Gotha G.X",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Grahame-White Ganymede",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1919",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Great Lakes BG",
+    "country": "US",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "61"
+  },
+  {
+    "name": "Grigorovich TB-5",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Grumman A-6 Intruder",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1960",
+    "status": "Operational 1997",
+    "amount": "693"
+  },
+  {
+    "name": "Grumman AF Guardian",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1945",
+    "status": "Operational",
+    "amount": "389"
+  },
+  {
+    "name": "Grumman F9F Panther",
+    "country": "US",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1947",
+    "status": "Operational",
+    "amount": "1,382"
+  },
+  {
+    "name": "Grumman OV-1 Mohawk",
+    "country": "US",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1959",
+    "status": "Operational",
+    "amount": "380"
+  },
+  {
+    "name": "Grumman S-2 Tracker",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1952",
+    "status": "Operational",
+    "amount": "1,284"
+  },
+  {
+    "name": "Grumman TBF Avenger",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "9,839"
+  },
+  {
+    "name": "Grumman XTB2F",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1944",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "HAL HF-24 Marut",
+    "country": "India",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1961",
+    "status": "Operational",
+    "amount": "147"
+  },
+  {
+    "name": "HAL HJT-16 Kiran",
+    "country": "India",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1964",
+    "status": "Operational",
+    "amount": "190"
+  },
+  {
+    "name": "Hall XPTBH",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Handley Page H.P.19 Hanley",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1922",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Handley Page H.P.24 Hyderabad",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1925",
+    "status": "Operational",
+    "amount": "44"
+  },
+  {
+    "name": "Handley Page H.P.25 Hendon",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "6"
+  },
+  {
+    "name": "Handley Page H.P.28 Handcross",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Handley Page H.P.31 Harrow",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1926",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Handley Page H.P.33 Hinaidi",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1927",
+    "status": "Operational",
+    "amount": "36"
+  },
+  {
+    "name": "Handley Page H.P.34 Hare",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber",
+    "date": "1928",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Handley Page H.P.43",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Handley Page H.P.46",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Handley Page H.P.47",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Handley Page H.P.50 Heyford",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1930",
+    "status": "Operational",
+    "amount": "125"
+  },
+  {
+    "name": "Handley Page H.P.51",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1935",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Handley Page Harrow",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "100"
+  },
+  {
+    "name": "Handley Page Halifax",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "6,178"
+  },
+  {
+    "name": "Handley Page Hampden/Hereford",
+    "country": "UK",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "1,430"
+  },
+  {
+    "name": "Handley Page Type O",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "600"
+  },
+  {
+    "name": "Handley Page V/1500",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "41"
+  },
+  {
+    "name": "Handley Page Victor",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Heavy bomber",
+    "date": "1952",
+    "status": "Operational",
+    "amount": "86"
+  },
+  {
+    "name": "Harbin H-5",
+    "country": "USSR/China",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1948",
+    "status": "Operational",
+    "amount": "319+"
+  },
+  {
+    "name": "Harbin H-7",
+    "country": "China",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1965",
+    "status": "Project",
+    "amount": ""
+  },
+  {
+    "name": "Harbin SH-5",
+    "country": "China",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1976",
+    "status": "Operational",
+    "amount": "6"
+  },
+  {
+    "name": "Hawker Audax",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "700+"
+  },
+  {
+    "name": "Hawker Dantorp",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "2"
+  },
+  {
+    "name": "Hawker Hardy",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "48"
+  },
+  {
+    "name": "Hawker Hart",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1928",
+    "status": "Operational",
+    "amount": "992"
+  },
+  {
+    "name": "Hawker Hector",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "179"
+  },
+  {
+    "name": "Hawker Henley",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "200"
+  },
+  {
+    "name": "Hawker Hind",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "528"
+  },
+  {
+    "name": "Hawker Horsley",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1925",
+    "status": "Operational",
+    "amount": "122"
+  },
+  {
+    "name": "Hawker Hunter",
+    "country": "UK",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1951",
+    "status": "Operational",
+    "amount": "278"
+  },
+  {
+    "name": "Hawker Siddeley Harrier",
+    "country": "UK",
+    "class": "",
+    "role": "Attack",
+    "date": "1974",
+    "status": "Operational",
+    "amount": "900"
+  },
+  {
+    "name": "Hawker Typhoon",
+    "country": "UK",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "3,317"
+  },
+  {
+    "name": "Hawker-Siddeley Hawk",
+    "country": "UK",
+    "class": "",
+    "role": "Attack",
+    "date": "1974",
+    "status": "Operational",
+    "amount": "900+"
+  },
+  {
+    "name": "Hawker-Siddeley Nimrod",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1967",
+    "status": "Operational",
+    "amount": "51"
+  },
+  {
+    "name": "Heinkel He 111",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "6,508"
+  },
+  {
+    "name": "Heinkel He 115",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "138"
+  },
+  {
+    "name": "Heinkel He 177",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "1,169"
+  },
+  {
+    "name": "Heinkel He 274",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Heinkel He 277",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1943",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Heinkel He 45",
+    "country": "Germany",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "512"
+  },
+  {
+    "name": "Heinkel He 50",
+    "country": "Germany",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "78"
+  },
+  {
+    "name": "Heinkel He 59",
+    "country": "Germany",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "142"
+  },
+  {
+    "name": "Heinkel He 70",
+    "country": "Germany",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "324"
+  },
+  {
+    "name": "Henschel Hs 123",
+    "country": "Germany",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "250 ca."
+  },
+  {
+    "name": "Henschel Hs 129",
+    "country": "Germany",
+    "class": "",
+    "role": "Attack",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "865"
+  },
+  {
+    "name": "Hiro G2H",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "8"
+  },
+  {
+    "name": "Hiro H1H",
+    "country": "Japan",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1927",
+    "status": "Operational",
+    "amount": "65"
+  },
+  {
+    "name": "Hiro H2H",
+    "country": "Japan",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1930",
+    "status": "Operational",
+    "amount": "17"
+  },
+  {
+    "name": "Hiro H4H",
+    "country": "Japan",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "47"
+  },
+  {
+    "name": "Hispano HA-200",
+    "country": "Spain",
+    "class": "",
+    "role": "Attack",
+    "date": "1955",
+    "status": "Operational",
+    "amount": "200"
+  },
+  {
+    "name": "Huff-Daland XB-1",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "I.Ae. 24 Calquin",
+    "country": "Argentina",
+    "class": "",
+    "role": "Bomber",
+    "date": "1946",
+    "status": "Operational",
+    "amount": "101"
+  },
+  {
+    "name": "Ilyushin DB-3",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "1,528"
+  },
+  {
+    "name": "Ilyushin Il-10 & Avia B-33",
+    "country": "USSR",
+    "class": "",
+    "role": "Attack",
+    "date": "1944",
+    "status": "Operational",
+    "amount": "6,166"
+  },
+  {
+    "name": "Ilyushin Il-102",
+    "country": "USSR",
+    "class": "",
+    "role": "Attack",
+    "date": "1982",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Ilyushin Il-2",
+    "country": "USSR",
+    "class": "",
+    "role": "Attack",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "36,183"
+  },
+  {
+    "name": "Ilyushin Il-28",
+    "country": "USSR",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1948",
+    "status": "Operational",
+    "amount": "6,316"
+  },
+  {
+    "name": "Ilyushin Il-38",
+    "country": "USSR",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1967",
+    "status": "Operational",
+    "amount": "58"
+  },
+  {
+    "name": "Ilyushin Il-4",
+    "country": "USSR",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1936",
+    "status": "Operational ca.",
+    "amount": "5,256"
+  },
+  {
+    "name": "Ilyushin Il-40",
+    "country": "USSR",
+    "class": "",
+    "role": "Attack",
+    "date": "1953",
+    "status": "Prototype",
+    "amount": "7"
+  },
+  {
+    "name": "Ilyushin Il-54",
+    "country": "USSR",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1955",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Ilyushin Il-6",
+    "country": "USSR",
+    "class": "",
+    "role": "Bomber",
+    "date": "1943",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Ilyushin Il-8",
+    "country": "USSR",
+    "class": "",
+    "role": "Attack",
+    "date": "1943",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Junkers A 35",
+    "country": "Germany",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1926",
+    "status": "Prototype",
+    "amount": "186"
+  },
+  {
+    "name": "Junkers R 42/JuG-1",
+    "country": "Germany",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1924",
+    "status": "Operational",
+    "amount": "52"
+  },
+  {
+    "name": "Junkers Ju 188",
+    "country": "Germany",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "1,234"
+  },
+  {
+    "name": "Junkers Ju 287",
+    "country": "Germany",
+    "class": "",
+    "role": "Bomber",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Junkers Ju 288",
+    "country": "Germany",
+    "class": "",
+    "role": "Bomber",
+    "date": "1940",
+    "status": "Prototypes",
+    "amount": "22"
+  },
+  {
+    "name": "Junkers Ju 290",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol/heavy bomber",
+    "date": "1942",
+    "status": "Operational",
+    "amount": "65"
+  },
+  {
+    "name": "Junkers Ju 388",
+    "country": "Germany",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1943",
+    "status": "Operational",
+    "amount": "100 ca."
+  },
+  {
+    "name": "Junkers Ju 390",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol/transport",
+    "date": "1943",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Junkers Ju 488",
+    "country": "Germany",
+    "class": "",
+    "role": "Bomber",
+    "date": "n/a",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Junkers Ju 52",
+    "country": "Germany",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1930",
+    "status": "Operational 1982",
+    "amount": "4,845"
+  },
+  {
+    "name": "Junkers Ju 86",
+    "country": "Germany",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "900 ca."
+  },
+  {
+    "name": "Junkers Ju 87",
+    "country": "Germany",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "6,500 ca."
+  },
+  {
+    "name": "Junkers Ju 88",
+    "country": "Germany",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "15,000 ca."
+  },
+  {
+    "name": "Junkers Ju 89",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Junkers K 37",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Junkers K 43",
+    "country": "Germany",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1926",
+    "status": "Prototype",
+    "amount": "2,000+"
+  },
+  {
+    "name": "Junkers K 47",
+    "country": "Germany",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1929",
+    "status": "Operational",
+    "amount": "23"
+  },
+  {
+    "name": "Kaiser-Fleetwings XBTK",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo/dive bomber",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "5"
+  },
+  {
+    "name": "Kalinin K-7",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Kawanishi E7K",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "533"
+  },
+  {
+    "name": "Kawanishi H6K",
+    "country": "Japan",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "215"
+  },
+  {
+    "name": "Kawanishi H8K",
+    "country": "Japan",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "167"
+  },
+  {
+    "name": "Dornier Do N",
+    "country": "Germany",
+    "class": "",
+    "role": "Bomber",
+    "date": "1928",
+    "status": "Operational",
+    "amount": "26"
+  },
+  {
+    "name": "Kawasaki Ki-102",
+    "country": "Japan",
+    "class": "",
+    "role": "Attack",
+    "date": "1944",
+    "status": "Operational",
+    "amount": "238"
+  },
+  {
+    "name": "Kawasaki Ki-3",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "243"
+  },
+  {
+    "name": "Kawasaki Ki-32",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "854"
+  },
+  {
+    "name": "Kawasaki Ki-48",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "1,997"
+  },
+  {
+    "name": "Kawasaki P-1",
+    "country": "Japan",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "2007",
+    "status": "Operational",
+    "amount": "60+"
+  },
+  {
+    "name": "Kennedy Giant",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Keystone B-3",
+    "country": "US",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1929",
+    "status": "Operational",
+    "amount": "36"
+  },
+  {
+    "name": "Keystone B-4",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1930",
+    "status": "Operational",
+    "amount": "30"
+  },
+  {
+    "name": "Keystone B-5",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1929",
+    "status": "Operational",
+    "amount": "30"
+  },
+  {
+    "name": "Keystone B-6",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "44"
+  },
+  {
+    "name": "Kharkov KhAI-5",
+    "country": "USSR",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "500+"
+  },
+  {
+    "name": "Kyushu Q1W",
+    "country": "Japan",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1943",
+    "status": "Operational",
+    "amount": "153"
+  },
+  {
+    "name": "LACAB GR.8",
+    "country": "Belgium",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1936",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 290",
+    "country": "France",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "35"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 298",
+    "country": "France",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "121"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 302",
+    "country": "France",
+    "class": "",
+    "role": "Torpedo bomber flying boat",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 381",
+    "country": "France",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1930",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 521 & 523",
+    "country": "France",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1935",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 550",
+    "country": "France",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 570",
+    "country": "France",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1939",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 582",
+    "country": "France",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1935",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 611",
+    "country": "France",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1939",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Letov \u0160-16",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1926",
+    "status": "Operational",
+    "amount": "89"
+  },
+  {
+    "name": "Letov \u0160-28, 128, 228, 328, 428 & 528",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1929",
+    "status": "Operational",
+    "amount": "470"
+  },
+  {
+    "name": "Letov \u0160-33",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1930",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Letov \u0160-6",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1923",
+    "status": "Operational",
+    "amount": "35"
+  },
+  {
+    "name": "Levasseur PL.107",
+    "country": "France",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Levasseur PL.14",
+    "country": "France",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1929",
+    "status": "Operational",
+    "amount": "30"
+  },
+  {
+    "name": "Levasseur PL.15",
+    "country": "France",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "17"
+  },
+  {
+    "name": "Levasseur PL.2",
+    "country": "France",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1922",
+    "status": "Operational",
+    "amount": "11"
+  },
+  {
+    "name": "Levasseur PL.7",
+    "country": "France",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1928",
+    "status": "Operational",
+    "amount": "46"
+  },
+  {
+    "name": "Linke-Hofmann R.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Linke-Hofmann R.II",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1919",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO 20",
+    "country": "France",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1927",
+    "status": "Operational",
+    "amount": "363 ca."
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO 25",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1928",
+    "status": "Operational",
+    "amount": "97"
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO 45",
+    "country": "France",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "561"
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-13",
+    "country": "France",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1922",
+    "status": "Operational",
+    "amount": "30"
+  },
+  {
+    "name": "Lockheed F-117 Nighthawk",
+    "country": "US",
+    "class": "",
+    "role": "Bomber (stealth)",
+    "date": "1981",
+    "status": "Operational",
+    "amount": "64"
+  },
+  {
+    "name": "Lockheed Hudson",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1938",
+    "status": "Operational",
+    "amount": "2,941"
+  },
+  {
+    "name": "Lockheed P-3 Orion/CP-140 Aurora/Arcturus",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1959",
+    "status": "Operational",
+    "amount": "757"
+  },
+  {
+    "name": "Lockheed P2V Neptune",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1945",
+    "status": "Operational",
+    "amount": "1,132"
+  },
+  {
+    "name": "Lockheed S-3 Viking",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1972",
+    "status": "Operational",
+    "amount": "188"
+  },
+  {
+    "name": "Lockheed Ventura/Harpoon",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "3,010"
+  },
+  {
+    "name": "Lockheed XB-30",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber - project",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Loire 70",
+    "country": "France",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "8"
+  },
+  {
+    "name": "LTV A-7 Corsair II",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1965",
+    "status": "Operational",
+    "amount": "1,569"
+  },
+  {
+    "name": "LWS-6 Zubr",
+    "country": "Poland",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "17"
+  },
+  {
+    "name": "Macchi M.C.99",
+    "country": "Italy",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Martin AM Mauler",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1944",
+    "status": "Operational",
+    "amount": "151"
+  },
+  {
+    "name": "Martin B-10 & related",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "342"
+  },
+  {
+    "name": "Martin B-26 Marauder",
+    "country": "US",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "5,288"
+  },
+  {
+    "name": "Martin B-57 Canberra",
+    "country": "US",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1953",
+    "status": "Operational",
+    "amount": "403"
+  },
+  {
+    "name": "Martin Baltimore",
+    "country": "US",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "1,575"
+  },
+  {
+    "name": "Martin Maryland",
+    "country": "US",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "450"
+  },
+  {
+    "name": "Martin MBT/MT",
+    "country": "US",
+    "class": "",
+    "role": "Bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "20"
+  },
+  {
+    "name": "Martin NBS-1",
+    "country": "US",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1920",
+    "status": "Operational",
+    "amount": "130"
+  },
+  {
+    "name": "Martin P4M Mercator",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1946",
+    "status": "Operational",
+    "amount": "21"
+  },
+  {
+    "name": "Martin P5M Marlin",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1948",
+    "status": "Operational",
+    "amount": "285"
+  },
+  {
+    "name": "Martin P6M SeaMaster",
+    "country": "US",
+    "class": "Jet",
+    "role": "Heavy bomber",
+    "date": "1955",
+    "status": "Operational",
+    "amount": "12"
+  },
+  {
+    "name": "Martin PBM Mariner",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "1,285"
+  },
+  {
+    "name": "Martin T3M",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1926",
+    "status": "Operational",
+    "amount": "124"
+  },
+  {
+    "name": "Martin T4M",
+    "country": "US",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1927",
+    "status": "Operational",
+    "amount": "155"
+  },
+  {
+    "name": "Martin XB-27",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Martin XB-33 Super Marauder",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Martin XB-48",
+    "country": "US",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Martin XB-51",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1949",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Martinsyde G.100 and 102 Elephant",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "271"
+  },
+  {
+    "name": "McDonnell Douglas A-12 Avenger II",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1983",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "McDonnell Douglas AV-8B Harrier II",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1978",
+    "status": "Operational",
+    "amount": "323"
+  },
+  {
+    "name": "McDonnell Douglas F-4 Phantom II",
+    "country": "US",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1958",
+    "status": "Operational",
+    "amount": "5,195"
+  },
+  {
+    "name": "McDonnell Douglas F/A-18 Hornet",
+    "country": "US",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1978",
+    "status": "Operational",
+    "amount": "1,480"
+  },
+  {
+    "name": "Messerschmitt Me 262",
+    "country": "Germany",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1942",
+    "status": "Operational",
+    "amount": "1,430"
+  },
+  {
+    "name": "Messerschmitt Me 264",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol/heavy bomber",
+    "date": "1942",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Mikoyan MiG-27",
+    "country": "USSR",
+    "class": "",
+    "role": "Attack",
+    "date": "1970",
+    "status": "Operational",
+    "amount": "1,075"
+  },
+  {
+    "name": "Mitsubishi 1MT",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1922",
+    "status": "Operational",
+    "amount": "20"
+  },
+  {
+    "name": "Mitsubishi 2MB1",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1926",
+    "status": "Operational",
+    "amount": "48"
+  },
+  {
+    "name": "Mitsubishi 3MT5",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "11"
+  },
+  {
+    "name": "Mitsubishi B1M",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1923",
+    "status": "Operational",
+    "amount": "443"
+  },
+  {
+    "name": "Mitsubishi B2M",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1929",
+    "status": "Operational",
+    "amount": "206"
+  },
+  {
+    "name": "Mitsubishi B5M",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "125 ca."
+  },
+  {
+    "name": "Mitsubishi G1M",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Mitsubishi G3M",
+    "country": "Japan",
+    "class": "",
+    "role": "Attack",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "1,048"
+  },
+  {
+    "name": "Mitsubishi G4M",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "2,435"
+  },
+  {
+    "name": "Mitsubishi Ki-1",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "118"
+  },
+  {
+    "name": "Mitsubishi Ki-2",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "187"
+  },
+  {
+    "name": "Mitsubishi Ki-20",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "6"
+  },
+  {
+    "name": "Mitsubishi Ki-21",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "2,064"
+  },
+  {
+    "name": "Mitsubishi Ki-30",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "704"
+  },
+  {
+    "name": "Mitsubishi Ki-51",
+    "country": "Japan",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "2,385"
+  },
+  {
+    "name": "Mitsubishi Ki-67",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "767"
+  },
+  {
+    "name": "Morane-Saulnier Epervier",
+    "country": "France",
+    "class": "",
+    "role": "Attack",
+    "date": "1958",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Morane-Saulnier S",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Morane-Saulnier T",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "90"
+  },
+  {
+    "name": "Morane-Saulnier TRK",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Myasishchev M-4",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1953",
+    "status": "Operational",
+    "amount": "93"
+  },
+  {
+    "name": "Myasishchev M-50",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1959",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Nakajima B5N",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "1,150 ca."
+  },
+  {
+    "name": "Nakajima B6N",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "1,268"
+  },
+  {
+    "name": "Nakajima E4N",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1930",
+    "status": "Operational",
+    "amount": "153"
+  },
+  {
+    "name": "Nakajima E8N",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "755"
+  },
+  {
+    "name": "Nakajima G10N",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1943",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Nakajima G5N",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1941",
+    "status": "Prototype",
+    "amount": "6"
+  },
+  {
+    "name": "Nakajima G8N",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Nakajima Ki-19",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Nakajima Ki-4",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "516"
+  },
+  {
+    "name": "Nakajima Ki-49",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "819"
+  },
+  {
+    "name": "Nakajima LB-2",
+    "country": "Japan",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1936",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Nanchang Q-5",
+    "country": "China",
+    "class": "",
+    "role": "Attack",
+    "date": "1965",
+    "status": "Operational",
+    "amount": "1,300"
+  },
+  {
+    "name": "Nanchang Q-6",
+    "country": "China",
+    "class": "",
+    "role": "Attack",
+    "date": "1979",
+    "status": "Project",
+    "amount": ""
+  },
+  {
+    "name": "Naval Aircraft Factory SBN",
+    "country": "US",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "31"
+  },
+  {
+    "name": "Nieuport 15",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Nieuport 18 and 19",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "n/a",
+    "status": "cancelled project",
+    "amount": "0"
+  },
+  {
+    "name": "Nieuport London",
+    "country": "UK",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1920",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Nieuport-Delage NiD 30B",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Norman Thompson N.T.4",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "26"
+  },
+  {
+    "name": "North American A-27",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "10"
+  },
+  {
+    "name": "North American A-5 Vigilante",
+    "country": "US",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1958",
+    "status": "Operational",
+    "amount": "156"
+  },
+  {
+    "name": "North American AJ/A-2 Savage",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1948",
+    "status": "Operational",
+    "amount": "143"
+  },
+  {
+    "name": "North American B-25 Mitchell",
+    "country": "US",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "9,984"
+  },
+  {
+    "name": "North American B-45 Tornado",
+    "country": "US",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1947",
+    "status": "Operational",
+    "amount": "143"
+  },
+  {
+    "name": "North American Rockwell OV-10 Bronco",
+    "country": "US",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1965",
+    "status": "Operational",
+    "amount": "370"
+  },
+  {
+    "name": "North American T-28 Trojan",
+    "country": "US",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1949",
+    "status": "Operational",
+    "amount": "1,948"
+  },
+  {
+    "name": "North American T-6 Texan",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "15,495"
+  },
+  {
+    "name": "North American XA2J Super Savage",
+    "country": "US",
+    "class": "",
+    "role": "Bomber",
+    "date": "1952",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "North American XB-21",
+    "country": "US",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1936",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "North American XB-28",
+    "country": "US",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1942",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "North American XB-70 Valkyrie",
+    "country": "US",
+    "class": "Jet",
+    "role": "Heavy bomber",
+    "date": "1964",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Northrop A-17",
+    "country": "US",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "446"
+  },
+  {
+    "name": "Northrop BT",
+    "country": "US",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "55"
+  },
+  {
+    "name": "Northrop Grumman B-2 Spirit",
+    "country": "US",
+    "class": "Jet",
+    "role": "Bomber (stealth)",
+    "date": "1989",
+    "status": "Operational",
+    "amount": "21"
+  },
+  {
+    "name": "Northrop N-3PB",
+    "country": "US",
+    "class": "",
+    "role": "Maritime patrol bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "24"
+  },
+  {
+    "name": "Northrop YA-9",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1972",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Northrop YB-35",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1946",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Northrop YB-49",
+    "country": "US",
+    "class": "Jet",
+    "role": "Heavy bomber",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "OKB-1 140",
+    "country": "USSR",
+    "class": "",
+    "role": "Bomber",
+    "date": "1948",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "OKB-1 EF 131",
+    "country": "USSR",
+    "class": "",
+    "role": "Bomber",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "PAK DA",
+    "country": "Russia",
+    "class": "",
+    "role": "Attack",
+    "date": "n/a",
+    "status": "project",
+    "amount": "0"
+  },
+  {
+    "name": "Panavia Tornado",
+    "country": "Germany/Italy/UK",
+    "class": "Jet",
+    "role": "Fighter bomber",
+    "date": "1974",
+    "status": "Operational",
+    "amount": "992"
+  },
+  {
+    "name": "Parnall G.4/31",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1935",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Parnall Pike",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Parnall Possum",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1923",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Paul Schmitt PS.6",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1914",
+    "status": "Operational",
+    "amount": "10 ca."
+  },
+  {
+    "name": "Paul Schmitt PS.7",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "150 ca."
+  },
+  {
+    "name": "Percival Provost",
+    "country": "UK",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1950",
+    "status": "Operational",
+    "amount": "461"
+  },
+  {
+    "name": "Petlyakov Pe-2",
+    "country": "USSR",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "11,400"
+  },
+  {
+    "name": "Petlyakov Pe-8",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1936",
+    "status": "Operationals",
+    "amount": "93"
+  },
+  {
+    "name": "Piaggio P.108",
+    "country": "Italy",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "35 ca."
+  },
+  {
+    "name": "Piaggio P.133",
+    "country": "Italy",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1943",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Piper PA-48 Enforcer",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1971",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Polikarpov R-5",
+    "country": "USSR",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1928",
+    "status": "Operational",
+    "amount": "5,170+"
+  },
+  {
+    "name": "Polikarpov R-Z",
+    "country": "USSR",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "1,031"
+  },
+  {
+    "name": "Polikarpov TB-2",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1930",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Potez 15",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1921",
+    "status": "Operational",
+    "amount": "545"
+  },
+  {
+    "name": "Potez 25",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1924",
+    "status": "Operational",
+    "amount": "4,000 ca."
+  },
+  {
+    "name": "Potez 540",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "271"
+  },
+  {
+    "name": "Potez 633",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "60 ca."
+  },
+  {
+    "name": "PZL I-22 Iryda",
+    "country": "Poland",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1985",
+    "status": "Operational",
+    "amount": "17"
+  },
+  {
+    "name": "PZL.23 Kara\u015b",
+    "country": "Poland",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "253"
+  },
+  {
+    "name": "PZL.37 Los",
+    "country": "Poland",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "120+"
+  },
+  {
+    "name": "PZL.43 Kara\u015b",
+    "country": "Poland",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "52"
+  },
+  {
+    "name": "Republic AP-100",
+    "country": "US",
+    "class": "",
+    "role": "Strike fighter",
+    "date": "(1957)",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Republic F-105 Thunderchief",
+    "country": "US",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1955",
+    "status": "Operational",
+    "amount": "833"
+  },
+  {
+    "name": "Republic F-84 Thunderjet",
+    "country": "US",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1946",
+    "status": "Operational",
+    "amount": "7,524"
+  },
+  {
+    "name": "Republic F-84F Thunderstreak",
+    "country": "US",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1954",
+    "status": "Operational",
+    "amount": "3,428"
+  },
+  {
+    "name": "Republic P-47",
+    "country": "US",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "15,678"
+  },
+  {
+    "name": "Rockwell B-1 Lancer",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1974",
+    "status": "Operational",
+    "amount": "104"
+  },
+  {
+    "name": "Royal Aircraft Factory B.E.2",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1912",
+    "status": "Operational",
+    "amount": "3,500 ca."
+  },
+  {
+    "name": "Royal Aircraft Factory F.E.2",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1914",
+    "status": "Operational",
+    "amount": "1,939"
+  },
+  {
+    "name": "Royal Aircraft Factory R.E.5",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1914",
+    "status": "Operational",
+    "amount": "24"
+  },
+  {
+    "name": "Royal Aircraft Factory R.E.7",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "230"
+  },
+  {
+    "name": "Royal Aircraft Factory R.E.8",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "4,077"
+  },
+  {
+    "name": "Rumpler G.I, II & III",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "220"
+  },
+  {
+    "name": "Rumpler Taube",
+    "country": "Germany",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1910",
+    "status": "Operational",
+    "amount": "263+"
+  },
+  {
+    "name": "Saab 105",
+    "country": "Sweden",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1963",
+    "status": "Operational",
+    "amount": "192"
+  },
+  {
+    "name": "Saab 17",
+    "country": "Sweden",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "323"
+  },
+  {
+    "name": "Saab 18",
+    "country": "Sweden",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1942",
+    "status": "Operational",
+    "amount": "245"
+  },
+  {
+    "name": "Saab Safari",
+    "country": "Sweden",
+    "class": "",
+    "role": "trainer/attack",
+    "date": "1969",
+    "status": "Operational",
+    "amount": "462 ca."
+  },
+  {
+    "name": "SAB AB-20",
+    "country": "France",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "SAB AB-80",
+    "country": "France",
+    "class": "",
+    "role": "Bomber",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Sablatnig N.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Saro A.33",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1938",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Saro Lerwick",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1938",
+    "status": "Operational",
+    "amount": "21"
+  },
+  {
+    "name": "Saro London",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "31"
+  },
+  {
+    "name": "Saunders Severn",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1930",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Saunders Valkyrie",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1926",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Savoia-Marchetti S.55",
+    "country": "Italy",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1924",
+    "status": "Operational",
+    "amount": "200+"
+  },
+  {
+    "name": "Savoia-Marchetti S.59",
+    "country": "Italy",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1925",
+    "status": "Operational",
+    "amount": "240+"
+  },
+  {
+    "name": "Savoia-Marchetti SM.78",
+    "country": "Italy",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1932",
+    "status": "Operational",
+    "amount": "49"
+  },
+  {
+    "name": "Savoia-Marchetti SM.79",
+    "country": "Italy",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "1,350"
+  },
+  {
+    "name": "Savoia-Marchetti SM.81",
+    "country": "Italy",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "535"
+  },
+  {
+    "name": "Savoia-Marchetti SM.82",
+    "country": "Italy",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "720"
+  },
+  {
+    "name": "Savoia-Marchetti SM.84",
+    "country": "Italy",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "300+"
+  },
+  {
+    "name": "SEPECAT Jaguar",
+    "country": "UK/France",
+    "class": "",
+    "role": "Attack",
+    "date": "1968",
+    "status": "Operational",
+    "amount": "543"
+  },
+  {
+    "name": "Shin Meiwa PS-1",
+    "country": "Japan",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1967",
+    "status": "Operational",
+    "amount": "21"
+  },
+  {
+    "name": "Short Type 166",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "26"
+  },
+  {
+    "name": "Short Type 81",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1913",
+    "status": "Operational",
+    "amount": "9"
+  },
+  {
+    "name": "Short Bomber",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "83"
+  },
+  {
+    "name": "Short Empire",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol/transport flying boat",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "42"
+  },
+  {
+    "name": "Short Knuckleduster",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Short N.2B",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Short Rangoon",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1930",
+    "status": "Operational",
+    "amount": "6"
+  },
+  {
+    "name": "Short Sarafand",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Short Seaford",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1944",
+    "status": "Operational",
+    "amount": "10"
+  },
+  {
+    "name": "Short Seamew",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1953",
+    "status": "Operational",
+    "amount": "26"
+  },
+  {
+    "name": "Short Shetland",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Short Shirl",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Short Singapore",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1926",
+    "status": "Operational",
+    "amount": "37"
+  },
+  {
+    "name": "Short Sperrin",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1951",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Short Stirling",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "2,383"
+  },
+  {
+    "name": "Short Sturgeon",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1946",
+    "status": "Prototypes",
+    "amount": "28"
+  },
+  {
+    "name": "Short Sunderland",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "777"
+  },
+  {
+    "name": "Short Type 184",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "936"
+  },
+  {
+    "name": "Short Type 320",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "127"
+  },
+  {
+    "name": "Short Type 827 & 830",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1914",
+    "status": "Operational",
+    "amount": "136"
+  },
+  {
+    "name": "SIAI S.16",
+    "country": "Italy",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1919",
+    "status": "Operational",
+    "amount": "242 ca."
+  },
+  {
+    "name": "Siddeley-Deasy Siniai",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1921",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Siemens-Schuckert R.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Siemens-Schuckert R.II",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Siemens-Schuckert R.III",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Siemens-Schuckert R.IV",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Siemens-Schuckert R.IX",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "n/a",
+    "status": "cancelled project",
+    "amount": "0"
+  },
+  {
+    "name": "Siemens-Schuckert R.V",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Siemens-Schuckert R.VI",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Siemens-Schuckert R.VII",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Siemens-Schuckert R.VIII",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "n/a",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Sikorsky Ilya Muromets",
+    "country": "Russia",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1913",
+    "status": "Operational",
+    "amount": "85+"
+  },
+  {
+    "name": "SNCASE Baroudeur",
+    "country": "France",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1953",
+    "status": "Prototype",
+    "amount": "5"
+  },
+  {
+    "name": "Soko G-4 Super Galeb",
+    "country": "Yugoslavia",
+    "class": "",
+    "role": "Attack",
+    "date": "1978",
+    "status": "Operational",
+    "amount": "91"
+  },
+  {
+    "name": "Soko J-22 Orao & IAR-93",
+    "country": "Yugoslavia/Romania",
+    "class": "",
+    "role": "Attack",
+    "date": "1974",
+    "status": "Operational",
+    "amount": "410"
+  },
+  {
+    "name": "Sopwith 1\u00bd Strutter",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "5,639"
+  },
+  {
+    "name": "Sopwith B.1",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Sopwith Cuckoo",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "232"
+  },
+  {
+    "name": "Sopwith Rhino",
+    "country": "UK",
+    "class": "",
+    "role": "Attack",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Sopwith Special torpedo seaplane Type C",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1914",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Sopwith Type 860",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1914",
+    "status": "Operational",
+    "amount": "22"
+  },
+  {
+    "name": "SPCA 30",
+    "country": "France",
+    "class": "",
+    "role": "Light bomber",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Sud Aviation Vautour",
+    "country": "France",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1958",
+    "status": "Operational",
+    "amount": "149"
+  },
+  {
+    "name": "Sukhoi Su-17",
+    "country": "USSR",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1966",
+    "status": "Operational",
+    "amount": "2,867"
+  },
+  {
+    "name": "Sukhoi Su-2",
+    "country": "USSR",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "910"
+  },
+  {
+    "name": "Sukhoi Su-24",
+    "country": "USSR",
+    "class": "",
+    "role": "Attack",
+    "date": "1967",
+    "status": "Operational",
+    "amount": "1,400 ca."
+  },
+  {
+    "name": "Sukhoi Su-25",
+    "country": "USSR",
+    "class": "",
+    "role": "Attack",
+    "date": "1975",
+    "status": "Operational",
+    "amount": "1,024"
+  },
+  {
+    "name": "Sukhoi Su-34",
+    "country": "USSR",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1990",
+    "status": "Operational",
+    "amount": "100"
+  },
+  {
+    "name": "Sukhoi Su-6",
+    "country": "USSR",
+    "class": "",
+    "role": "Attack",
+    "date": "1941",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Sukhoi Su-7",
+    "country": "USSR",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1955",
+    "status": "Operational",
+    "amount": "1,847"
+  },
+  {
+    "name": "Sukhoi Su-8",
+    "country": "USSR",
+    "class": "",
+    "role": "Attack",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Sukhoi T-4",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1972",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Supermarine B.12/36",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "n/a",
+    "status": "prototype destroyed",
+    "amount": "0"
+  },
+  {
+    "name": "Supermarine Nanok",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber flying boat",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Supermarine Scapa",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Supermarine Southampton",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1925",
+    "status": "Operational",
+    "amount": "84"
+  },
+  {
+    "name": "Supermarine Stranraer",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "57"
+  },
+  {
+    "name": "Supermarine Type 322",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo/dive bomber",
+    "date": "1943",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Tachikawa Ki-36",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1938",
+    "status": "Operationals",
+    "amount": "1,334"
+  },
+  {
+    "name": "Tachikawa Ki-74",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "16"
+  },
+  {
+    "name": "Tarrant Tabor",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1919",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Tupolev SB",
+    "country": "USSR",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "6,945"
+  },
+  {
+    "name": "Tupolev TB-1",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1925",
+    "status": "Operational",
+    "amount": "218"
+  },
+  {
+    "name": "Tupolev TB-3",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1930",
+    "status": "Operational",
+    "amount": "819"
+  },
+  {
+    "name": "Tupolev TB-4",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Tupolev TB-6",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Tupolev Tu-14",
+    "country": "USSR",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1949",
+    "status": "Operational",
+    "amount": "150 ca."
+  },
+  {
+    "name": "Tupolev Tu-142",
+    "country": "USSR",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1968",
+    "status": "Operational",
+    "amount": "100"
+  },
+  {
+    "name": "Tupolev Tu-16",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1952",
+    "status": "Operational",
+    "amount": "1,509"
+  },
+  {
+    "name": "Tupolev Tu-160",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1981",
+    "status": "Operational",
+    "amount": "35"
+  },
+  {
+    "name": "Tupolev Tu-2",
+    "country": "USSR",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1941",
+    "status": "Operationals",
+    "amount": "2,257"
+  },
+  {
+    "name": "Tupolev Tu-22",
+    "country": "USSR",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1962",
+    "status": "Operational",
+    "amount": "311"
+  },
+  {
+    "name": "Tupolev Tu-22M",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1969",
+    "status": "Operational",
+    "amount": "497"
+  },
+  {
+    "name": "Tupolev Tu-4",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1947",
+    "status": "Operational",
+    "amount": "847"
+  },
+  {
+    "name": "Tupolev Tu-85",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1951",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Tupolev Tu-95",
+    "country": "USSR",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1952",
+    "status": "Operational",
+    "amount": "500+"
+  },
+  {
+    "name": "Vickers Valiant",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Vickers Type 207",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Vickers Type 253",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Vickers Valentia",
+    "country": "UK",
+    "class": "",
+    "role": "Bomber/transport",
+    "date": "1934",
+    "status": "Operational",
+    "amount": "82"
+  },
+  {
+    "name": "Vickers Valiant",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Heavy bomber",
+    "date": "1951",
+    "status": "Operational",
+    "amount": "107"
+  },
+  {
+    "name": "Vickers Valparaiso",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1923",
+    "status": "Operational",
+    "amount": "28"
+  },
+  {
+    "name": "Vickers Vanox",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Vickers Vincent and Vildebeest",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1928",
+    "status": "Operational",
+    "amount": "406"
+  },
+  {
+    "name": "Vickers Vimy",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "239"
+  },
+  {
+    "name": "Vickers Virginia",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1922",
+    "status": "Operational",
+    "amount": "124"
+  },
+  {
+    "name": "Vickers Vixen",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1923",
+    "status": "Operational",
+    "amount": "20"
+  },
+  {
+    "name": "Vickers Warwick",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1939",
+    "status": "Operational",
+    "amount": "842"
+  },
+  {
+    "name": "Vickers Wellesley",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "177"
+  },
+  {
+    "name": "Vickers Wellington",
+    "country": "UK",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "11,464"
+  },
+  {
+    "name": "Vickers Windsor",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1943",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Vickers Victory Bomber",
+    "country": "UK",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "n/a",
+    "status": "cancelled 1941 project",
+    "amount": "0"
+  },
+  {
+    "name": "Voisin III",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1914",
+    "status": "Operational",
+    "amount": "800+"
+  },
+  {
+    "name": "Voisin V",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "350 ca."
+  },
+  {
+    "name": "Voisin VIII",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "1,100 ca."
+  },
+  {
+    "name": "Voisin X",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1917",
+    "status": "Operational",
+    "amount": "900 ca."
+  },
+  {
+    "name": "Voisin XI",
+    "country": "France",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1918",
+    "status": "Operational",
+    "amount": "10 ca."
+  },
+  {
+    "name": "Voisin XII",
+    "country": "France",
+    "class": "",
+    "role": "Night bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Vought F4U Corsair",
+    "country": "US",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "12,571"
+  },
+  {
+    "name": "Vought SB2U Vindicator/Chesapeake",
+    "country": "US",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "260"
+  },
+  {
+    "name": "Vultee Vengeance",
+    "country": "US",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1941",
+    "status": "Operational",
+    "amount": "1,528"
+  },
+  {
+    "name": "Vultee V-11",
+    "country": "US",
+    "class": "",
+    "role": "Attack",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "224"
+  },
+  {
+    "name": "Weiss WM-21 S\u00f3lyom",
+    "country": "Hungary",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1937",
+    "status": "Operational",
+    "amount": "128"
+  },
+  {
+    "name": "Westland Lysander",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1936",
+    "status": "Operational",
+    "amount": "1,786"
+  },
+  {
+    "name": "Westland PV-3",
+    "country": "UK",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Westland Wallace",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1931",
+    "status": "Operational",
+    "amount": "172"
+  },
+  {
+    "name": "Westland Wapiti",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1927",
+    "status": "Operational",
+    "amount": "585"
+  },
+  {
+    "name": "Westland Witch",
+    "country": "UK",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1928",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Wight Seaplane",
+    "country": "UK",
+    "class": "",
+    "role": "Maritime patrol",
+    "date": "1915",
+    "status": "Operational",
+    "amount": "52"
+  },
+  {
+    "name": "Witteman-Lewis XNBL-1 (Barling Bomber)",
+    "country": "US",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1923",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Xian H-6",
+    "country": "China",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1959",
+    "status": "Operational",
+    "amount": "162+"
+  },
+  {
+    "name": "Xian H-8",
+    "country": "China",
+    "class": "",
+    "role": "Bomber",
+    "date": "1978",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Xian JH-7",
+    "country": "China",
+    "class": "",
+    "role": "Fighter bomber",
+    "date": "1988",
+    "status": "Operational",
+    "amount": "114+"
+  },
+  {
+    "name": "Yakovlev Yak-26",
+    "country": "USSR",
+    "class": "",
+    "role": "tactical bomber",
+    "date": "1956",
+    "status": "Prototype",
+    "amount": "10"
+  },
+  {
+    "name": "Yakovlev Yak-28",
+    "country": "USSR",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1958",
+    "status": "Operational",
+    "amount": "1,180"
+  },
+  {
+    "name": "Yermolayev Yer-2",
+    "country": "USSR",
+    "class": "",
+    "role": "Medium bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "365 ca."
+  },
+  {
+    "name": "Yokosuka B3Y",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1933",
+    "status": "Operational",
+    "amount": "129"
+  },
+  {
+    "name": "Yokosuka B4Y",
+    "country": "Japan",
+    "class": "",
+    "role": "Torpedo bomber",
+    "date": "1935",
+    "status": "Operational",
+    "amount": "205"
+  },
+  {
+    "name": "Yokosuka D4Y",
+    "country": "Japan",
+    "class": "",
+    "role": "Dive bomber",
+    "date": "1940",
+    "status": "Operational",
+    "amount": "2,038"
+  },
+  {
+    "name": "Yokosuka E1Y",
+    "country": "Japan",
+    "class": "",
+    "role": "Reconnaissance bomber",
+    "date": "1923",
+    "status": "Operational",
+    "amount": "320"
+  },
+  {
+    "name": "Yokosuka P1Y",
+    "country": "Japan",
+    "class": "",
+    "role": "Bomber",
+    "date": "1943",
+    "status": "Operational",
+    "amount": "1,102"
+  },
+  {
+    "name": "Zeppelin-Lindau Rs.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "n/a",
+    "status": "prototype destroyed",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Lindau Rs.II",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Lindau Rs.III",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Lindau Rs.IV",
+    "country": "Germany",
+    "class": "",
+    "role": "Maritime patrol flying boat",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Staaken R.IV",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Staaken R.V",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Staaken R.VI",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1916",
+    "status": "Operational",
+    "amount": "18"
+  },
+  {
+    "name": "Zeppelin-Staaken R.VII",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Staaken R.XIV",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1919",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Zeppelin-Staaken R.XV",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Zeppelin-Staaken R.XVI",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Zeppelin-Staaken VGO.I",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "crashed 1915",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Staaken VGO.II",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Staaken VGO.III/R.III",
+    "country": "Germany",
+    "class": "",
+    "role": "Heavy bomber",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  }
+]

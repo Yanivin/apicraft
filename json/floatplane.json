@@ -1,0 +1,9092 @@
+[
+  {
+    "name": "3I Sky Arrow",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Private",
+    "date": "1992",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "A41 Factory VNS-41",
+    "country": "Vietnam",
+    "class": "Amphibian",
+    "role": "Trainer",
+    "date": "2005",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "AAC SeaStar",
+    "country": "Canada",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1998",
+    "status": "Homebuilt",
+    "amount": "91"
+  },
+  {
+    "name": "AAC Seastar Sealoon",
+    "country": "Canada",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "",
+    "status": "Homebuilt",
+    "amount": "1"
+  },
+  {
+    "name": "AD Flying Boat",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "Production",
+    "amount": "27"
+  },
+  {
+    "name": "AD Navyplane",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "AD Seaplane Type 1000",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Attack",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "AEA Loon",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Experimental",
+    "date": "1908",
+    "status": "Experimental",
+    "amount": "1"
+  },
+  {
+    "name": "AEG Flugboot",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Aero 2H",
+    "country": "Yugoslavia",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1946",
+    "status": "production",
+    "amount": "248"
+  },
+  {
+    "name": "Aero A.29",
+    "country": "Czechoslovakia",
+    "class": "Floatplane",
+    "role": "Target tug",
+    "date": "1927",
+    "status": "Production",
+    "amount": "9"
+  },
+  {
+    "name": "Aero Gare Sea Hawk & Sea Hawker",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1982",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Aeromarine 39",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1917",
+    "status": "Production",
+    "amount": "150"
+  },
+  {
+    "name": "Aeromarine 40",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1918",
+    "status": "Production",
+    "amount": "50"
+  },
+  {
+    "name": "Aeromarine 50",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1919",
+    "status": "Production",
+    "amount": "unk."
+  },
+  {
+    "name": "Aeromarine 75",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1920",
+    "status": "",
+    "amount": "8"
+  },
+  {
+    "name": "Aeromarine 80 Aerial Cruiser",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1920",
+    "status": "Prototype",
+    "amount": "unk."
+  },
+  {
+    "name": "Aeromarine 700",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Aeromarine AMC",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1923",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Aeromarine AS",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1920",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Aeromarine EO",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Aeronca Chief family",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1937",
+    "status": "production",
+    "amount": "13700"
+  },
+  {
+    "name": "Aeroprakt A-24 Viking",
+    "country": "Ukraine",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "AGO C.I-W",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "production",
+    "amount": "64"
+  },
+  {
+    "name": "Aichi AB-6",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Aichi E8A",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Aichi E11A",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "Production",
+    "amount": "17"
+  },
+  {
+    "name": "Aichi E13A",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1938",
+    "status": "Production",
+    "amount": "1418"
+  },
+  {
+    "name": "Aichi E16A Zuiun",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1942",
+    "status": "Production",
+    "amount": "256"
+  },
+  {
+    "name": "Aichi H9A",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1940",
+    "status": "Production",
+    "amount": "31"
+  },
+  {
+    "name": "Aichi M6A Seiran",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Attack",
+    "date": "1943",
+    "status": "Production",
+    "amount": "26"
+  },
+  {
+    "name": "AirMax SeaMax",
+    "country": "Brazil",
+    "class": "Flying\u00a0boat",
+    "role": "",
+    "date": "2001",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Airspeed Queen Wasp",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Target drone",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Airtime Aircraft Cygnet",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "2009",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Albatros L102W",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Albatros W.1",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Albatros W.2",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Albatros W.3",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1916",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Albatros W.4",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Albatros W.8",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "American Champion/Bellanca Citabria",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Private",
+    "date": "1964",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Anderson Kingfisher",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1969",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Ansaldo SVA Idro",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Production",
+    "amount": "50"
+  },
+  {
+    "name": "Aquaflight Aqua I",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1946",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Arado Ar 66b",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Arado Ar 95W",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "Production",
+    "amount": "42"
+  },
+  {
+    "name": "Arado Ar 196",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "Production",
+    "amount": "541"
+  },
+  {
+    "name": "Arado Ar 199",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1939",
+    "status": "Production",
+    "amount": "31"
+  },
+  {
+    "name": "Arado Ar 231",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1941",
+    "status": "",
+    "amount": "6"
+  },
+  {
+    "name": "Arado SSD I",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Arado W II",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Argonaut Pirate",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1935",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Armstrong Whitworth Atlas",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "ATOL 495",
+    "country": "Finland",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1989",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "ATOL 650",
+    "country": "Finland",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "2011",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Aviat Husky",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1986",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "AVIC TA-600/AG600",
+    "country": "China",
+    "class": "Amphibian",
+    "role": "",
+    "date": "2017",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Avro Type D",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1911",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Avro H, 501 & 503",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1913",
+    "status": "",
+    "amount": "5"
+  },
+  {
+    "name": "Avro 552 Viper/Wright",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Trainer/Patrol",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Avro 534A Water Baby",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Avro type 554 Antarctic Baby",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Avro 605 Avian",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Avro 643 Cadet",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Barkley-Grow T8P-1",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1937",
+    "status": "Production",
+    "amount": "11"
+  },
+  {
+    "name": "Bastianelli P.R.B.",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1921",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Beardmore Inverness/Rohrbach Ro IV",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1925",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Beechcraft Model 17 Staggerwing",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1932",
+    "status": "Production",
+    "amount": "785"
+  },
+  {
+    "name": "Beechcraft Model 18",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1937",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Bellanca 31-40 & 31-42 Senior Pacemaker",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": "33"
+  },
+  {
+    "name": "Bellanca 77-320",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Bomber/transport",
+    "date": "1934",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Bellanca Aircruiser",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1930",
+    "status": "Production",
+    "amount": "23"
+  },
+  {
+    "name": "Bellanca CH-300 Pacemaker",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1929",
+    "status": "Production",
+    "amount": "35"
+  },
+  {
+    "name": "Bellanca CH-400 Skyrocket",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1930",
+    "status": "Production",
+    "amount": "32"
+  },
+  {
+    "name": "Bellanger-Denhaut 22 (HB.3)",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Benoist XIV Air-Boat",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1913",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Beriev Be-6",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1949",
+    "status": "Production",
+    "amount": "123"
+  },
+  {
+    "name": "Beriev Be-8",
+    "country": "USSR",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Beriev Be-10",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1956",
+    "status": "Production",
+    "amount": "28"
+  },
+  {
+    "name": "Beriev Be-12 Chaika",
+    "country": "USSR",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1960",
+    "status": "Production",
+    "amount": "150"
+  },
+  {
+    "name": "Beriev Be-40/A-40 Albatross",
+    "country": "USSR",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1986",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Beriev Be-103",
+    "country": "Russia",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1997",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Beriev Be-200",
+    "country": "Russia",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1998",
+    "status": "Production",
+    "amount": "17"
+  },
+  {
+    "name": "Beriev KOR-1 (Be-2)",
+    "country": "USSR",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "Production",
+    "amount": "12"
+  },
+  {
+    "name": "Beriev KOR-2 (Be-4)",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1940",
+    "status": "Production",
+    "amount": "47"
+  },
+  {
+    "name": "Beriev MBR-2",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "Production",
+    "amount": "1365"
+  },
+  {
+    "name": "Beriev MBR-7",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": ""
+  },
+  {
+    "name": "Beriev MDR-5",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Beriev R-1",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1952",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Bernard H.52",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bernard H.110",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bernard H.V.40",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bernard H.V.41",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1929",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Bernard H.V.42",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1931",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Bernard H.V.120",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bernard H.V.220",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Besson H-3",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1920",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Besson H-5",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1922",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Besson H-6",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1921",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Besson LB",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Besson MB.26",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Besson MB.35",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Besson MB.36",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Besson MB.410 & 411",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn B-20",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Dart",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Iris",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Nautilus",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter/patrol",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Pellet",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1923",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Blackburn Perth",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Ripon",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Roc",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Shark",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Sprat",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Sydney",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Twin Blackburn",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Type L",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blackburn Velos",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blanchard BB-1",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blanchard Brd.1",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bl\u00e9riot 290",
+    "country": "France",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bl\u00e9riot 5190",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bl\u00e9riot-SPAD S.XIV",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blohm & Voss BV 138",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blohm & Voss BV 222",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport/Patrol",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blohm & Voss BV 238",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Blohm & Voss Ha 139",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Blohm & Voss Ha 140",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing 314 Clipper",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing L-15 Scout",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1946",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing Model 1",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing Model 2",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing Model 3",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing Model 5",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing Model 6",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing Model 6D",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing Model 7",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing Model 204",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1929",
+    "status": "",
+    "amount": "7"
+  },
+  {
+    "name": "Boeing XPB",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing XPBB Sea Ranger",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1942",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Boeing-Canada A-213 Totem",
+    "country": "Canada",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bombardier CL-415",
+    "country": "Canada",
+    "class": "Amphibian",
+    "role": "Waterbomber",
+    "date": "1993",
+    "status": "Production",
+    "amount": "95"
+  },
+  {
+    "name": "Borel hydro-monoplane",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Borel Type Bo.11",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1911",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Borel-Odier Type Bo-C/B.O.20",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1919",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Borel-Odier Type Bo-T/B.O.2",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber/Transport",
+    "date": "1916",
+    "status": "Production",
+    "amount": "92"
+  },
+  {
+    "name": "Breda A.4 Idro",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1926",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Breda A.7 Idro",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1929",
+    "status": "Production",
+    "amount": "14"
+  },
+  {
+    "name": "Breda Ba.15H",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Private",
+    "date": "1928",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Breda Ba.25-I",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1931",
+    "status": "Production",
+    "amount": "766"
+  },
+  {
+    "name": "Breguet 521 & 522 Bizerte",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Breguet 530 Saigon",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Breguet 730 & 731",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Breguet 790 Nautilus",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Breguet S.8/2 Calcutta",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Breguet Type V",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bristol Bolingbroke Mk.III",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Bristol XLRQ",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1943",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Brun-Cottan Patrol Flying Boat",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Brunner-Winkle Bird",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1928",
+    "status": "Production",
+    "amount": "240"
+  },
+  {
+    "name": "Budd BB-1 Pioneer",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Experimental",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Buhl CA-6 Airsedan",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport/Patrol",
+    "date": "1935",
+    "status": "Production",
+    "amount": "4"
+  },
+  {
+    "name": "Burgess-Dunne Hydro",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Burgess HT-2 Speed Scout",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": "8"
+  },
+  {
+    "name": "Burgess Model I",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1913",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Burgess Model K",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1913",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Burgess Model L & S",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": ""
+  },
+  {
+    "name": "Burgess Model U/U-2/NU-2",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1917",
+    "status": "",
+    "amount": "13"
+  },
+  {
+    "name": "CAMS 30",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1922",
+    "status": "Production",
+    "amount": "31"
+  },
+  {
+    "name": "CAMS 31",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1922",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "CAMS 33",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol/Transport",
+    "date": "1923",
+    "status": "Production",
+    "amount": "21"
+  },
+  {
+    "name": "CAMS 36",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1922",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "CAMS 37",
+    "country": "France",
+    "class": "Amphibian",
+    "role": "Patrol/Transport",
+    "date": "1926",
+    "status": "Production",
+    "amount": "332"
+  },
+  {
+    "name": "CAMS 38",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1923",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "CAMS 46",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1926",
+    "status": "Production",
+    "amount": "15"
+  },
+  {
+    "name": "CAMS 53",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1928",
+    "status": "Production",
+    "amount": "30 ca."
+  },
+  {
+    "name": "CAMS 55",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1927",
+    "status": "Production",
+    "amount": "112"
+  },
+  {
+    "name": "CAMS 58",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Canadair CL-215",
+    "country": "Canada",
+    "class": "Amphibian",
+    "role": "Waterbomber",
+    "date": "1967",
+    "status": "Production",
+    "amount": "125"
+  },
+  {
+    "name": "Canadian Vickers Vancouver",
+    "country": "Canada",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1929",
+    "status": "Production",
+    "amount": "6"
+  },
+  {
+    "name": "Canadian Vickers Vanessa",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Canadian Vickers Varuna",
+    "country": "Canada",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1927",
+    "status": "Production",
+    "amount": "8"
+  },
+  {
+    "name": "Canadian Vickers Vedette",
+    "country": "Canada",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1924",
+    "status": "Production",
+    "amount": "60"
+  },
+  {
+    "name": "Canadian Vickers Velos",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1928",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Canadian Vickers Vista",
+    "country": "Canada",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Ca\u00f1ete Pirata",
+    "country": "Spain",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "CANT 6",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1925",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "CANT 7",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1924",
+    "status": "Production",
+    "amount": "34"
+  },
+  {
+    "name": "CANT 10",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1925",
+    "status": "Production",
+    "amount": "18"
+  },
+  {
+    "name": "CANT 18",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1926",
+    "status": "Production",
+    "amount": "29"
+  },
+  {
+    "name": "CANT 21",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "CANT 22",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1927",
+    "status": "Production",
+    "amount": "10"
+  },
+  {
+    "name": "CANT 25",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Production",
+    "amount": "37"
+  },
+  {
+    "name": "CANT Z.501 Gabbiano",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "Production",
+    "amount": "454"
+  },
+  {
+    "name": "CANT Z.504",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "CANT Z.505",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1935",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "CANT Z.506",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Transport/Patrol",
+    "date": "1935",
+    "status": "Production",
+    "amount": "356"
+  },
+  {
+    "name": "CANT Z.508",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Bomber",
+    "date": "1936",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "CANT Z.509",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "CANT Z.511",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1940",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "CANT Z.515",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "Production",
+    "amount": "11"
+  },
+  {
+    "name": "Caproni Ca.39",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "late 1910s",
+    "status": "Prototype",
+    "amount": ""
+  },
+  {
+    "name": "Caproni Ca.43",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": ""
+  },
+  {
+    "name": "Caproni Ca.47",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "late 1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Caproni Ca.60",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Caproni Ca.310 Idro",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Caproni Ca.316",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1940",
+    "status": "Prototypes",
+    "amount": "14"
+  },
+  {
+    "name": "Caspar U.1",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Caudron G.3",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1913",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Caudron G.4",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1913",
+    "status": "Production",
+    "amount": "8"
+  },
+  {
+    "name": "Cessna 150",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1967",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna 170",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1948",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna 172",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1956",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna 180 Skywagon",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1952",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna 182 Skylane",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1956",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna 185 Skywagon",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1960",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna 190",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1945",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna 206",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1962",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna 208 Caravan",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1982",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Cessna AT-17 Bobcat",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Chetverikov MDR-6 (Che-2)",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Chetverikov OSGA-101",
+    "country": "USSR",
+    "class": "Amphibian",
+    "role": "Experimental",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Chetverikov SPL",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Chetverikov TA-1",
+    "country": "USSR",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1947",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Claude Dornier Sea Star",
+    "country": "Germany",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1986",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Colonial Skimmer C-1 and C-2",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1960s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Consolidated Commodore",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1929",
+    "status": "Production",
+    "amount": "14"
+  },
+  {
+    "name": "Consolidated NY",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1926",
+    "status": "Production",
+    "amount": "302"
+  },
+  {
+    "name": "Consolidated P2Y",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1929",
+    "status": "Production",
+    "amount": "78"
+  },
+  {
+    "name": "Consolidated PB2Y Coronado",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "Production",
+    "amount": "217"
+  },
+  {
+    "name": "Consolidated PBY Catalina",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "Production",
+    "amount": "3308"
+  },
+  {
+    "name": "Consolidated XP4Y Corregidor",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Consolidated XPY-1 Admiral",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Convair F2Y Sea Dart",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1953",
+    "status": "Prototype",
+    "amount": "5"
+  },
+  {
+    "name": "Convair R3Y Tradewind",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1950",
+    "status": "Production",
+    "amount": "13"
+  },
+  {
+    "name": "Coutant RMC 17",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss CR-3 & 4",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss CT-1",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss H-12",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss H-16",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss HS",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss Model 2",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss Model E",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1911",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss Model F",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss Model K",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss N-9",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss NC",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Experimental",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss SC Seahawk",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1944",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss SO3C Seamew",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss SOC Seagull",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss-Wright CA-1 Commuter",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Curtiss-Wright CW-3 Duckling",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dayton-Wright FP.2",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1921",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "de Havilland Canada DHC-2 Beaver",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1947",
+    "status": "Production",
+    "amount": "1657"
+  },
+  {
+    "name": "de Havilland Canada DHC-3 Otter",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1951",
+    "status": "Production",
+    "amount": "466"
+  },
+  {
+    "name": "de Havilland Canada DHC-6 Twin Otter",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1965",
+    "status": "Production",
+    "amount": "985"
+  },
+  {
+    "name": "de Havilland DH.50",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "de Havilland DH.60 Moth",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Private",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "de Havilland DH.61 Giant Moth",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1927",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "de Havilland DH.83 Fox Moth",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "de Havilland DH.89 Dragon Rapide",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "de Havilland DH.90 Dragonfly",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "de Havilland Hornet Moth",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Deperdussin Monocoque",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dewoitine HD.730",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dewoitine HD.780",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "DFS Seeadler",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Sailplane",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Donnet-Denhaut D.D.1",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Donnet-Denhaut D.D.2",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "Production",
+    "amount": "401"
+  },
+  {
+    "name": "Donnet-Denhaut D.D.8",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Production",
+    "amount": "500+"
+  },
+  {
+    "name": "Donnet-Denhaut D.D.9",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "Production",
+    "amount": "100"
+  },
+  {
+    "name": "Donnet-Denhaut D.D.10",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "Production",
+    "amount": "30"
+  },
+  {
+    "name": "Donnet-Denhaut P.10",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Donnet-Denhaut P.15",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol/Transport",
+    "date": "1919",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Donnet-L\u00e9v\u00eaque Type A",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Donnet-L\u00e9v\u00eaque Type B",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Donnet-L\u00e9v\u00eaque Type C",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do 12",
+    "country": "Germany",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do 14",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Experimental",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do 16 Wal",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do 18",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do 22",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do 24 & Do 318",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do 26",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do 212",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Experimental",
+    "date": "1942",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do A Libelle",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do D",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do E",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do J Wal",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport/Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do L Delphin",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do R Super Wal",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do S",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Do X",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier S-Ray 007",
+    "country": "Germany",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "2007",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Dornier Seastar",
+    "country": "Germany",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1985",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Douglas DF",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Douglas Dolphin",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Douglas DT",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Douglas World Cruiser",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Experimental",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Douglas PD",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Douglas Sinbad",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Douglas T2D",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Douglas YOA-5",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "EAF L.33 Chel\u00f3na",
+    "country": "Greece",
+    "class": "Floatplane",
+    "role": "Multi-role",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Eastman E-2 Sea Rover",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Edo OSE-1",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1946",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "EDRA Aeronautica Super P\u00e9trel",
+    "country": "Brazil",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "2002",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Eklund TE-1",
+    "country": "Finland",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1949",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Elias EM",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Elias EO",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Ellison-Mahon Gweduck",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "2009",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "English Electric Ayr",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "English Electric Kingston",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA 10",
+    "country": "France",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA 11",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA 12",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA 13",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA 16",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA 17",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA 19",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Bomber",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA 21",
+    "country": "France",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA 290",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA 310",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA Type A",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA Type B",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA Type C",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA Type H",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FBA Type S",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fabre Hydravion",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Experimental",
+    "date": "1910",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairchild 24",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairchild 45-80 Sekani",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Fairchild 71",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairchild 82",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairchild 91",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairchild F-11 Husky",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1946",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairchild FB-3",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairchild FC-2",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairchild KR-34",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairchild Sekani",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairchild Super 71",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairey Campania",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Production",
+    "amount": "62"
+  },
+  {
+    "name": "Fairey Flycatcher",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1922",
+    "status": "Production",
+    "amount": "196"
+  },
+  {
+    "name": "Fairey Fremantle",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1924",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Fairey Hamble Baby",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Production",
+    "amount": "180"
+  },
+  {
+    "name": "Fairey III",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "Production",
+    "amount": "964"
+  },
+  {
+    "name": "Fairey N.4",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Fairey N.9",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "experimental",
+    "date": "1918",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Fairey N.10",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairey Pintail",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "Fighter/Patrol",
+    "date": "1920",
+    "status": "",
+    "amount": "6"
+  },
+  {
+    "name": "Fairey S.9/30",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairey Seafox",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "Production",
+    "amount": "66"
+  },
+  {
+    "name": "Fairey Seal",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fairey Swordfish",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Farman F.50",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Farman F.51",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Farman F.60 Torp",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Farman F.166, 167 & 168",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Farman F.271",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Farman HF.22",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1913",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Farman HF.23",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1913",
+    "status": "Production",
+    "amount": "16"
+  },
+  {
+    "name": "Farman NC.470 & 471",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Felixstowe F.1",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Felixstowe F.2",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Felixstowe F.3",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Felixstowe F.4 Fury",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Felixstowe F.5",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Felixstowe Porte Baby",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fiat C.29",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fiat CR.20 Idro",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fiat RS.14",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fizir AF-2",
+    "country": "Yugoslavia",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fizir F1M",
+    "country": "Yugoslavia",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fizir FN-H",
+    "country": "Yugoslavia",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fleet 50 Freighter",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fleet 80 Canuck",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1945",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fleetwings Seabird",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Flygfabriken LN-3 Seagull",
+    "country": "Sweden",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "2008",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "FlyNano Nano",
+    "country": "Finland",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "2012",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Focke-Wulf FW 58W",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Focke-Wulf Fw 62",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker B.I & B.III",
+    "country": "Netherlands",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker B.II",
+    "country": "Netherlands",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker B.IV",
+    "country": "Netherlands",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": "6"
+  },
+  {
+    "name": "Fokker C.VII-W",
+    "country": "Netherlands",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker C.VIII-W",
+    "country": "Netherlands",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker C.XI-W",
+    "country": "Netherlands",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker C.XIV-W",
+    "country": "Netherlands",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker F.VII",
+    "country": "Netherlands",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker Super Universal",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker T.II",
+    "country": "Netherlands",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker T.III",
+    "country": "Netherlands",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker T.IV",
+    "country": "Netherlands",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker T.VIII-W",
+    "country": "Netherlands",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker Universal",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Fokker W.3",
+    "country": "Netherlands",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Ford Trimotor",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Found Centennial",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1967",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Found FBA-1",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1949",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Found FBA-2",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1960",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Friedrichshafen FF.29",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "Production",
+    "amount": "44"
+  },
+  {
+    "name": "Friedrichshafen FF.31",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Friedrichshafen FF.33",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Friedrichshafen FF.34",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Friedrichshafen FF.35",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Friedrichshafen FF.37",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Friedrichshafen FF.39",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Friedrichshafen FF.40",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1916",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Friedrichshafen FF.41",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Friedrichshafen FF.43",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1916",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Friedrichshafen FF.44",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Friedrichshafen FF.48",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1917",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Friedrichshafen FF.49",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Production",
+    "amount": "240"
+  },
+  {
+    "name": "Friedrichshafen FF.53",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1918",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Friedrichshafen FF.59",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "Production",
+    "amount": "315"
+  },
+  {
+    "name": "GAF Nomad",
+    "country": "Australia",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1971",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gallaudet D-4",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "General Aeroplane Verville",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "General Aeroplane Gamma S",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "General Aviation PJ",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gidroplan Che-22 Korvet",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Homebuilt",
+    "date": "1993",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gloster Goring",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Gloster II",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gloster III",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gloster IV",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gloster VI",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Goodyear Drake",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1950",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Goodyear GA-2 Duck",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1944",
+    "status": "Production",
+    "amount": "19"
+  },
+  {
+    "name": "Gotha WD.1",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.2",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.3",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.5",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.7",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.9",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.11",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.12",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.13",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.14",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.15",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.20",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.22",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gotha WD.27",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gourdou-Leseurre LGL.32",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1930s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gourdou 120 HY",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1930s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gourdou-Leseurre GL.710",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gourdou-Leseurre GL-832 HY",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1930s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gourdou-Leseurre L.2 & GL.810",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Gourdou-Leseurre M.2",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Great Lakes XSG",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich GASN",
+    "country": "Russia",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-1",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "1913",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Grigorovich M-2",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-3",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-4",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-5, M-6 M-7 & M-8",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-9",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-10",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-11",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-12",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-15",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-16",
+    "country": "Russia",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-19",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-20",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-23 & M-23bis",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich M-24 & M-24bis",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grigorovich MK-1",
+    "country": "Russia",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Grumman Albatross",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1947",
+    "status": "Production",
+    "amount": "466"
+  },
+  {
+    "name": "Grumman JF & J2F Duck",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1933",
+    "status": "Production",
+    "amount": "632"
+  },
+  {
+    "name": "Grumman Goose",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1937",
+    "status": "",
+    "amount": "345"
+  },
+  {
+    "name": "Grumman Mallard",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1946",
+    "status": "Production",
+    "amount": "59"
+  },
+  {
+    "name": "Grumman Tadpole",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Grumman Widgeon",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1940",
+    "status": "Production",
+    "amount": "317"
+  },
+  {
+    "name": "Hall Air Yacht",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "1923",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Hall PH",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "Production",
+    "amount": "24"
+  },
+  {
+    "name": "Hall XP2H",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Hall XPTBH",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Hamble River H.L.1 Seaplane",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1914",
+    "status": "Prototype",
+    "amount": ""
+  },
+  {
+    "name": "Hamilton H-47",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1928",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Handley Page HP.14 or R/200",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Hanriot HD.2",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hansa-Brandenburg CC",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Fghter",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hansa-Brandenburg GDW",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hansa-Brandenburg GNW",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hansa-Brandenburg GW",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hansa-Brandenburg KDW",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1916",
+    "status": "Production",
+    "amount": "58"
+  },
+  {
+    "name": "Hansa-Brandenburg NW",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "Production",
+    "amount": "77"
+  },
+  {
+    "name": "Hansa-Brandenburg W",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hansa-Brandenburg W.11",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Hansa-Brandenburg W.12",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Production",
+    "amount": "181"
+  },
+  {
+    "name": "Hansa-Brandenburg W.13",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Bomber",
+    "date": "1917",
+    "status": "Production",
+    "amount": "130"
+  },
+  {
+    "name": "Hansa-Brandenburg W.19",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1918",
+    "status": "Production",
+    "amount": "55"
+  },
+  {
+    "name": "Hansa-Brandenburg W.20",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "Prototype",
+    "amount": ""
+  },
+  {
+    "name": "Hansa-Brandenburg W.25",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Hansa-Brandenburg W.27",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Hansa-Brandenburg W.29",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1918",
+    "status": "Production",
+    "amount": "78"
+  },
+  {
+    "name": "Hansa-Brandenburg W.32",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Hansa-Brandenburg W.33",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1918",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Harbin SH-5",
+    "country": "China",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1976",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hawker Dantorp",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hawker Hind",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hawker Osprey",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter-Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HD 9",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HD 14",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HD 16",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HD 18",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 1",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 2",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 3",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Private",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 4",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 5",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 8",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 12",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 24",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 25",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 26",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 31",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel HE 42",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 50",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 51",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 55",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 56",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 57",
+    "country": "Germany",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 58",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 59",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 60",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 62",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 114",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 115",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Heinkel He 119",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Helio Courier",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1949",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hiro H1H",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hiro H2H",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hiro H4H",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hopfner HA-11/33",
+    "country": "Austria",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Howard DGA-15",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Huff-Daland HN",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Hughes H-4 Hercules",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "IAR-818H",
+    "country": "Romania",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1964",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "ICON A5",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "",
+    "date": "2008",
+    "status": "Private",
+    "amount": ""
+  },
+  {
+    "name": "Ikarus IM",
+    "country": "Yugoslavia",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Ikarus IO",
+    "country": "Yugoslavia",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Ikarus Kurir H",
+    "country": "Yugoslavia",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1957",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Ikarus \u0160M",
+    "country": "Yugoslavia",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1924",
+    "status": "Production",
+    "amount": "42"
+  },
+  {
+    "name": "IMAM Ro.43",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "Production",
+    "amount": "193"
+  },
+  {
+    "name": "IMAM Ro.44",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1936",
+    "status": "Production",
+    "amount": "35"
+  },
+  {
+    "name": "Independent Aircraft Sea Dragon",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Ireland Neptune",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1927",
+    "status": "Production",
+    "amount": "56"
+  },
+  {
+    "name": "Ireland Privateer",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1930",
+    "status": "Production",
+    "amount": "18"
+  },
+  {
+    "name": "Island X-199 Spectra",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "1969",
+    "status": "Prototype",
+    "amount": ""
+  },
+  {
+    "name": "IVL A.22 Hansa",
+    "country": "Finland",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": "120"
+  },
+  {
+    "name": "Junkers A 20 / Ju\u00a020",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Junkers F.13",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Junkers G 24",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Junkers Ju 46",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Junkers Ju 52",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport/Bomber",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Junkers W 33",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Junkers W 34",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Kawanishi E5K",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "20"
+  },
+  {
+    "name": "Kawanishi E7K",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Kawanishi E15K Shiun",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1941",
+    "status": "",
+    "amount": "15"
+  },
+  {
+    "name": "Kawanishi H3K",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Kawanishi H6K",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Patrol/transport",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Kawanishi H8K",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Patrol/transport",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Kawanishi K-7",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Kawanishi K8K",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Kawanishi N1K1 Kyofu",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1942",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Keystone Air Yacht",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Keystone PK",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Kirkham-Williams X",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1927",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Klemm Kl 35bW",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "LFG Stralsund V 19 Putbus",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "LFG W1 or W",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "LFG WD or W",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lake LA-4 Amphibian, Buccaneer and EP",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "",
+    "date": "",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lakes Hydro-monoplane",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lakes Seabird",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lakes Waterbird",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1911",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lakes Waterhen",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 15",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 21",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 21",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 32",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 34",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 44",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 50",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 225",
+    "country": "France",
+    "class": "Single seat amphibian ultralight",
+    "role": "",
+    "date": "1984",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 290, 293, 294 & 296",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 298",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 300, 301 & 302",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 380 & 381",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 501",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 521",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 522",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": "\n"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 523",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 550",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 582",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 611",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Bomber",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 631",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1942",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Latham 42",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Bomber",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Latham 43",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Latham 45",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Latham 47",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Latham 230",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1928",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Latham C.1",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Bomber",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Latham HB.5",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Latham L.1",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Latham L.2",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Letov \u0160-328.v",
+    "country": "Czechoslovakia",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "",
+    "amount": "4"
+  },
+  {
+    "name": "Levasseur PL.14",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Levasseur PL.15",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Levasseur PL.200",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Levy G.L.40",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-242",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-10",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-13",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-18",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-22",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-23",
+    "country": "France",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-24",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO 25",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-27",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-43",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-46",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-47",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-190",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lior\u00e9 et Olivier LeO H-246",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "LISA Akoya",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "2011",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lockwood Aircam",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Private",
+    "date": "1995",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Loening 1911",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1911",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loening Amphibian",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loening C-1",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": "8"
+  },
+  {
+    "name": "Loening C-2 Air yacht",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Keystone-Loening Air Yacht",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Loening C-5",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Keystone\u2013Loening Commuter",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1929",
+    "status": "Production",
+    "amount": "31"
+  },
+  {
+    "name": "Loening Duckling",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Experimental",
+    "date": "1918",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Loening M-2 Kitten",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "Prototypes",
+    "amount": "3"
+  },
+  {
+    "name": "Loening M-3",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Loening M-81-S and LS",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loening Model 23 Air yacht",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loening Monoduck",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Loening OL & variants",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loening S-1 Air Yacht",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loening SL",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Loening XS2L",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Lohner E",
+    "country": "Austria-Hungary",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lohner L & S",
+    "country": "Austria-Hungary",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lohner R",
+    "country": "Austria-Hungary",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loire 50",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loire 60",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loire 70",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loire 102 Bretagne",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loire 130",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loire 210",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Loire-Nieuport LN.10",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "L\u00fcbeck-Travem\u00fcnde F.1",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "L\u00fcbeck-Travem\u00fcnde F.2",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "L\u00fcbeck-Travem\u00fcnde F.4",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Lublin R-VIII",
+    "country": "Poland",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1930s",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Lublin R-XIII",
+    "country": "Poland",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1930s",
+    "status": "",
+    "amount": "20"
+  },
+  {
+    "name": "Macchi L.1",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi L.2",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": "10"
+  },
+  {
+    "name": "Macchi L.3/M.3",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": "200"
+  },
+  {
+    "name": "Macchi M.4",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Macchi M.5",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Production",
+    "amount": "244"
+  },
+  {
+    "name": "Macchi M.6",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Macchi M.7",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1918",
+    "status": "Production",
+    "amount": "100+"
+  },
+  {
+    "name": "Macchi M.8",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Production",
+    "amount": "57"
+  },
+  {
+    "name": "Macchi M.9",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "Production",
+    "amount": "30 ca."
+  },
+  {
+    "name": "Macchi M.12",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Bomber",
+    "date": "1918",
+    "status": "Production",
+    "amount": "10 ca."
+  },
+  {
+    "name": "Macchi M.17",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.18",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.19",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.24",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.26",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.33",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.39",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.40",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.41",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.52",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.53",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.67",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.70",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Private",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.71",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.C.72",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.C.73 Idro",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.C.77",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.C.94",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.C.99",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Macchi M.C.100",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Mann Egerton Type B",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "Production",
+    "amount": "15"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.1",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1915",
+    "status": "Production",
+    "amount": "5"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.2",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "Production",
+    "amount": "3"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.3",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Production",
+    "amount": "4"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.4",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1918",
+    "status": "Production",
+    "amount": "6"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.5",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1919",
+    "status": "Production",
+    "amount": "9"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.6",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1921",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.7",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1923",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.8",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1924",
+    "status": "Production",
+    "amount": "8"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.9",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1925",
+    "status": "Production",
+    "amount": "10"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.10",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1929",
+    "status": "Production",
+    "amount": "4"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.11",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1932",
+    "status": "Production",
+    "amount": "29"
+  },
+  {
+    "name": "Marinens Flyvebaatfabrikk M.F.12",
+    "country": "Norway",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1939",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Martin 130",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1935",
+    "status": "Production",
+    "amount": "3"
+  },
+  {
+    "name": "Martin 156",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Martin Mars",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1942",
+    "status": "Production",
+    "amount": "7"
+  },
+  {
+    "name": "Martin MO",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1924",
+    "status": "Production",
+    "amount": "36"
+  },
+  {
+    "name": "Martin P2M",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1929",
+    "status": "",
+    "amount": "78"
+  },
+  {
+    "name": "Martin P3M",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Martin P5M Marlin",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1948",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Martin P6M SeaMaster",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport/Patrol",
+    "date": "1955",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Martin PBM Mariner",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Martinsyde F6",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Maule M-1",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Microleve Corsario",
+    "country": "Brazil",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1988",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Militi M.B.1",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "1967",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Militi M.B.2 Leonardo",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1970",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Mitsubishi F1M",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Morane-Saulnier G",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Murphy Moose",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1990",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Murphy Rebel",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1990",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nakajima A6M2-N",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1942",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nakajima E2N",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nakajima E4N",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nakajima E8N",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nardi F.N.333 Riviera",
+    "country": "Italy",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1952",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Naval Air Establishment Chiang Hung",
+    "country": "China",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Naval Aircraft Factory N3N Canary",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Naval Aircraft Factory PN",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Naval Aircraft Factory PT",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Naval Aircraft Factory TF",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Naval Aircraft Factory TG",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Naval Aircraft Factory TR-2",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Naval Aircraft Factory TS",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1922",
+    "status": "",
+    "amount": "46"
+  },
+  {
+    "name": "Navy-Wright NW-2",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1923",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Nieuport IV.H",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1912",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport VI.H",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer/Patrol",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport X.H",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport-Delage Ni-D 29 H",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nieuport-Delage NiD 43",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Nieuport-Delage NiD 450, 650, 651 and 652",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Noorduyn Norseman",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nord 1400, 1401 and 1402 Noroit",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1949",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Nordic Omsider",
+    "country": "Norway",
+    "class": "Amphibian",
+    "role": "",
+    "date": "2010s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Norman Thompson N.1B",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": ""
+  },
+  {
+    "name": "Norman Thompson N.2C",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Norman Thompson N.T.2B",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Norman Thompson N.T.4",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": "72"
+  },
+  {
+    "name": "Norsk Flyindustri Finnmark 5A",
+    "country": "Norway",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1949",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Northrop Delta",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol/Transport",
+    "date": "1933",
+    "status": "Production",
+    "amount": "32"
+  },
+  {
+    "name": "Northrop Gamma",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1932",
+    "status": "Production",
+    "amount": "60"
+  },
+  {
+    "name": "Northrop N-3PB",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Oeffag G",
+    "country": "Austria-Hungary",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Oertz FB 3",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "1913",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Oertz W 4",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Oertz W 5",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": "5"
+  },
+  {
+    "name": "Oertz W 6 Flugschoner",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Oertz W 7",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Oertz W 8",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Osprey Osprey 2",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1973",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Osprey Osprey I",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1970",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Parnall Perch",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1926",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Parnall Peto",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1926",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Parnall Pike",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1927",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Parnall Pipit",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1928",
+    "status": "2",
+    "amount": "[19][notes 1]\n"
+  },
+  {
+    "name": "Parnall Plover",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "Fighter",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Parnall Prawn",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1930",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Parnall Puffin",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "Fighter-Patrol",
+    "date": "1920",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Percheron 18",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Percival Proctor 6",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1946",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Phoenix Cork",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Piaggio P.6",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Piaggio P.7",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Piaggio P.8",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Piaggio P.136",
+    "country": "Italy",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1948",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Piper J-3 Cub",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Piper PA-12 Super Cruiser",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1944",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Piper PA-18 Super Cub",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1949",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Piper PA-20 Pacer",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1949",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Piper PA-23 Apache",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1952",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Polaris AM-FIB",
+    "country": "Italy",
+    "class": "Amphibian",
+    "role": "Privates",
+    "date": "1986",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Polikarpov MR-1",
+    "country": "USSR",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Port Victoria P.V.1",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Port Victoria P.V.2",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Port Victoria P.V.4",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Port Victoria P.V.5",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Port Victoria P.V.9",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Potez 450",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Potez-CAMS 141",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Potez-CAMS 161",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Privateer Industries Privateer",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "2018",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Progressive Aerodyne Searey",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1990s",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Progressive Aerodyne Stingray",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1990s",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Quest Kodiak",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "2010",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "RAS-1 Getta",
+    "country": "Romania",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Republic RC-3 Seabee",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1945",
+    "status": "",
+    "amount": "1060"
+  },
+  {
+    "name": "Rocheville/EMSCO Arctic Tern",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Exploration",
+    "date": "1932",
+    "status": "Experimental",
+    "amount": "1"
+  },
+  {
+    "name": "Rogo\u017earski PVT",
+    "country": "Yugoslavia",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rogo\u017earski SIM-XII-H",
+    "country": "Yugoslavia",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rogo\u017earski SIM-XIV-H",
+    "country": "Yugoslavia",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rohrbach Ro II",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rohrbach Ro III",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rohrbach Ro IV",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rohrbach Ro V Rocco",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rohrbach Ro VII Robbe",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport/Patrol",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rohrbach Ro X Romar",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Royal Aircraft Factory C.E.1",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rumpler 4B 11",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Rumpler 4B 12",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saab S 17BS",
+    "country": "Sweden",
+    "class": "Floatplane",
+    "role": "Reconnaissance",
+    "date": "1940",
+    "status": "Production",
+    "amount": "38"
+  },
+  {
+    "name": "Sablatnig SF-1",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sablatnig SF-2",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sablatnig SF-3",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sablatnig SF-4",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sablatnig SF-5",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sablatnig SF-7",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sablatnig SF-8",
+    "country": "Germany",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sage Type 4",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Saro A.17 Cutty Sark",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saro A.19 Cloud",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saro A.33",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saro Lerwick",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saro London",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saro Shrimp",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Experimental",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saro Windhover",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saunders A.7 Severn",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saunders A.14",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Experimental",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saunders A.3 Valkyrie",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saunders A.4 Medina",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saunders Kittiwake",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saunders-Roe Princess",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1952",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Saunders-Roe SR.A/1",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1947",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia-Marchetti S.55",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Transport/Bomber",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia-Marchetti S.56",
+    "country": "Italy",
+    "class": "Amphibian",
+    "role": "Trainer",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia-Marchetti S.57",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia-Marchetti S.59",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol/bomber",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia-Marchetti S.65",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia-Marchetti S.66",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia-Marchetti SM.62",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol/bomber",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Savoia-Marchetti SM.87",
+    "country": "Italy",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SCAN 20",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1945",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Seawind 300C",
+    "country": "Canada",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1982",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SET 7H",
+    "country": "Romania",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Shavrov Sh-1 & Sh-2",
+    "country": "USSR",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Shavrov Sh-3",
+    "country": "USSR",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Shavrov Sh-5",
+    "country": "USSR",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Shavrov Sh-7",
+    "country": "USSR",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Shin Meiwa PS-1",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1967",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Shin Meiwa UF-XS",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Experimental",
+    "date": "1962",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Shin Meiwa US-1A",
+    "country": "Japan",
+    "class": "Amphibian",
+    "role": "Search & rescue",
+    "date": "1974",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "ShinMaywa US-2",
+    "country": "Japan",
+    "class": "Amphibian",
+    "role": "Search & rescue",
+    "date": "2007",
+    "status": "Production",
+    "amount": "6"
+  },
+  {
+    "name": "Short Admiralty Type 74",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": "7"
+  },
+  {
+    "name": "Short Admiralty Type 135",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Admiralty Type 166",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Admiralty Type 827",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Admiralty Type 830",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Gurnard",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter/Patrol",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Short Kent",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Knuckleduster",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1933",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Mayo Composite",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "",
+    "date": "",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short N.2A",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short N.2B",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short N.3 Cromarty",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Rangoon",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short S.1 Cockle",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Experimental",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short S.5 Singapore I",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short S.6 Sturgeon",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Experimental",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short S.7 Mussel",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Private",
+    "date": "1926",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Short S.8 Calcutta",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short S.12 Singapore II",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short S.15",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": ""
+  },
+  {
+    "name": "Short S.19 Singapore III",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short S.20 Mercury",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1938",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Short S.21 Maia",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1938",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Short S.23, S.30 & S.33 Empire C-Class",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short S.26 G-Class",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1936",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Short S.80",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1913",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Short S.81",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Sandringham",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1943",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Sarafand",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1932",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Scion Senior",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Seaford",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Sealand",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1947",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Shetland",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol/Transport",
+    "date": "1944",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Solent",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1946",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Sunderland",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Type 184",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Type 310",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short Valetta",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Short-Bristow Crusader",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.8",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.9",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.12",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.13",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.16",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "bomber/Transport",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.17",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.19",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.21",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.22",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.51",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.58",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SIAI S.67",
+    "country": "Italy",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sikorsky S-34",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sikorsky S-36",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sikorsky S-38",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sikorsky S-39",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1920s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sikorsky S-40",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sikorsky S-41",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sikorsky S-42",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sikorsky S-43",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sikorsky VS-44 Excalibur & PBS",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Singular Aircraft SA03",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "",
+    "date": "2012",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SNCAC NC.4-10",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SNCAO 30",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SNCASE SE-400",
+    "country": "France",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SNCASE SE-1210",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Experimental",
+    "date": "1949",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sopwith Baby",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sopwith Bat Boat",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1913",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sopwith Schneider ",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sopwith Tabloid",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "SPCA M\u00e9t\u00e9ore 63",
+    "country": "France",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Spectrum RX 650 Beaver",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "Privates",
+    "date": "1991",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Spencer Air Car",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1945",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sperry Land and Sea Triplane",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Standard Twin Hydro",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Stearman XOSS",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Stinson L-1 Vigilant",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1940",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Stinson L-13",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1945",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Sun Lake Aircraft",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Air Yacht",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Baby",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Channel",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine S.4",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1925",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Supermarine S.5",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1927",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Supermarine S.6",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1931",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Supermarine S.6B",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Racer",
+    "date": "1931",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Supermarine Scapa",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1935",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Scarab",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1924",
+    "status": "Production",
+    "amount": "12"
+  },
+  {
+    "name": "Supermarine Sea Eagle",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Supermarine Sea King",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Fighter",
+    "date": "1920",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Supermarine Sea Lion I",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Sea Lion II",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Racer",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Sea Otter",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1938",
+    "status": "Production",
+    "amount": "292"
+  },
+  {
+    "name": "Supermarine Seagull",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "Production",
+    "amount": "3"
+  },
+  {
+    "name": "Supermarine Seagull ASR-1",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1948",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Supermarine Seal II",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1921",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Southampton",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1925",
+    "status": "Production",
+    "amount": "83"
+  },
+  {
+    "name": "Supermarine Spitfire",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1940\u201342",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Stranraer",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Swan",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Supermarine Walrus",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Taylor Coot",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1969",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Thurston Teal",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1960s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Trident TR-1 Trigull",
+    "country": "Canada",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1973",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Tupolev ANT-4",
+    "country": "USSR",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Tupolev ANT-8",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Tupolev ANT-22",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Tupolev MP-6",
+    "country": "USSR",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "Production",
+    "amount": "411"
+  },
+  {
+    "name": "Tupolev MTB-1",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Tupolev MTB-2",
+    "country": "USSR",
+    "class": "Flying boat",
+    "role": "Bomber/Transport",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Tupolev TB-1P",
+    "country": "USSR",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Utva 66H",
+    "country": "Yugoslavia",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1960s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vickers Aircraft Wave",
+    "country": "New Zealand",
+    "class": "Flying boat",
+    "role": "Private",
+    "date": "2011",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Vickers Valentia",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "Transport",
+    "date": "1918",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vickers Vanellus",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vickers Vendace\n",
+    "country": "UK\n",
+    "class": "Floatplane\n",
+    "role": "Trainer\n",
+    "date": "1926\n",
+    "status": "\n",
+    "amount": "5\n"
+  },
+  {
+    "name": "Vickers Viking",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vickers Vildebeest",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vickers Vulture",
+    "country": "UK",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "VL S\u00e4\u00e4ski",
+    "country": "Finland",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1928",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Volmer VJ-22 Sportsman",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Private",
+    "date": "1958",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vought O2U Corsair",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1926",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vought O3U Corsair",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vought O5U",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vought OS2U Kingfisher",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vought UO",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vought VE-9H",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1922",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vought VE-10 Batboat",
+    "country": "US",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1919",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vought XSB2U-3 Vindicator",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vought XSO2U",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Vultee V-1AS",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1933",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Vultee V-11GB2F",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1935",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Wackett Widgeon",
+    "country": "Australia",
+    "class": "Amphibian",
+    "role": "",
+    "date": "1925",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Waco Standard Cabin series",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1931",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Waco ZQC-6",
+    "country": "US",
+    "class": "Floatplane",
+    "role": "Transport",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Walsh Brothers Flying Boats",
+    "country": "New Zealand",
+    "class": "Flying boat",
+    "role": "Trainer",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Watanabe E9W",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1934",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Watanabe K6W",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1937",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Watanabe K8W",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Watanabe WS-103S",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1938",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Westland Wapiti",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1927",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "White and Thompson No. 3",
+    "country": "UK",
+    "class": "Flying boat",
+    "role": "",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wight Baby",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Fighter",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wight Converted Seaplane",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "Bomber",
+    "date": "1916",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wight Pusher Seaplane",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1914",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wight Seaplane",
+    "country": "UK",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1915",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Wilson Global Explorer",
+    "country": "US",
+    "class": "Amphibian",
+    "role": "Transport",
+    "date": "1991",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Yokosuka E1Y",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1923",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Yokosuka E6Y",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1929",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Yokosuka E14Y",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1939",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Yokosuka H5Y",
+    "country": "Japan",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1936",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Yokosuka Igo-Ko",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1920",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Yokosuka K1Y",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1924",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Yokosuka K4Y",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1930",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Yokosuka K5Y1",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Trainer",
+    "date": "1930s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Yokosuka Ro-go Ko-gata",
+    "country": "Japan",
+    "class": "Floatplane",
+    "role": "Patrol",
+    "date": "1910s",
+    "status": "",
+    "amount": ""
+  },
+  {
+    "name": "Zenith STOL CH 701",
+    "country": "Canada",
+    "class": "Floatplane",
+    "role": "",
+    "date": "1986",
+    "status": "Homebuilt",
+    "amount": ""
+  },
+  {
+    "name": "Zeppelin-Lindau Rs.I",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Lindau Rs.II",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1916",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Lindau Rs.III",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Zeppelin-Lindau Rs.IV",
+    "country": "Germany",
+    "class": "Flying boat",
+    "role": "Patrol",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "1"
+  }
+]

@@ -1,0 +1,3593 @@
+[
+  {
+    "name": "Aeromarine 39",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1922",
+    "status": "Temporary",
+    "amount": "1+"
+  },
+  {
+    "name": "A\u00e9rospatiale Alouette III",
+    "country": "France",
+    "class": "Helicopter",
+    "role": "",
+    "date": "1959",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "A\u00e9rospatiale SA 330 Puma",
+    "country": "France",
+    "class": "Helicopter",
+    "role": "",
+    "date": "1965",
+    "status": "Production",
+    "amount": "697"
+  },
+  {
+    "name": "A\u00e9rospatiale Super Frelon",
+    "country": "France",
+    "class": "Helicopter",
+    "role": "",
+    "date": "1962",
+    "status": "Production",
+    "amount": "99"
+  },
+  {
+    "name": "Agusta-Bell AB.212ASW",
+    "country": "Italy",
+    "class": "Helicopter",
+    "role": "ASW",
+    "date": "1969",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "AgustaWestland AW101/EH101/Merlin",
+    "country": "Italy/UK",
+    "class": "Helicopter",
+    "role": "",
+    "date": "1987",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "AgustaWestland AW159 Wildcat",
+    "country": "UK/Italy",
+    "class": "Helicopter",
+    "role": "Multirole",
+    "date": "2009",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Aichi B7A",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1942",
+    "status": "Production",
+    "amount": "114"
+  },
+  {
+    "name": "Aichi D1A",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1934",
+    "status": "Production",
+    "amount": "590"
+  },
+  {
+    "name": "Aichi D3A",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1938",
+    "status": "Production",
+    "amount": "1,495"
+  },
+  {
+    "name": "Airspeed Fleet Shadower",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1940",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Arado Ar 195",
+    "country": "Germany",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Arado Ar 197",
+    "country": "Germany",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Armstrong Whitworth A.W.16",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1930",
+    "status": "Prototype",
+    "amount": "18"
+  },
+  {
+    "name": "Armstrong Whitworth Starling",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Arsenal VG 90",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1949",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Avro Avocet",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Avro Bison",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1921",
+    "status": "Production",
+    "amount": "55"
+  },
+  {
+    "name": "Avro Buffalo",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1926",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Beardmore W.B.III",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Production",
+    "amount": "100"
+  },
+  {
+    "name": "Beardmore W.B.IV",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Beardmore W.B.V",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Beardmore W.B.VI",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "n/a",
+    "status": "Prototype",
+    "amount": "0"
+  },
+  {
+    "name": "Beardmore W.B.VI",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Bell Airacobra I",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1945",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Bell AH-1 SuperCobra",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "",
+    "date": "1969",
+    "status": "Production",
+    "amount": "1,271+"
+  },
+  {
+    "name": "Bell Boeing V-22 Osprey",
+    "country": "US",
+    "class": "Rotorcraft",
+    "role": "",
+    "date": "1989",
+    "status": "Production",
+    "amount": "160"
+  },
+  {
+    "name": "Bell XFL Airabonita",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1940",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Berliner-Joyce F2J",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Berliner-Joyce OJ",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1931",
+    "status": "Production",
+    "amount": "39"
+  },
+  {
+    "name": "Berliner-Joyce XF3J",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1934",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Berliner-Joyce XFJ",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Blackburn Airedale",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Blackburn B-3",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Blackburn B-54",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "ASW",
+    "date": "1949",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Blackburn Baffin",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Production",
+    "amount": "92"
+  },
+  {
+    "name": "Blackburn Blackburd",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Blackburn Blackburn",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1922",
+    "status": "Production",
+    "amount": "62"
+  },
+  {
+    "name": "Blackburn Buccaneer",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Bomber",
+    "date": "1958",
+    "status": "Production",
+    "amount": "144"
+  },
+  {
+    "name": "Blackburn Dart",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1921",
+    "status": "Production",
+    "amount": "127"
+  },
+  {
+    "name": "Blackburn Firebrand",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter/torpedo bomber",
+    "date": "1942",
+    "status": "Production",
+    "amount": "225"
+  },
+  {
+    "name": "Blackburn Firecrest",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "3~"
+  },
+  {
+    "name": "Blackburn Nautilus",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Blackburn Ripon",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1926",
+    "status": "Production",
+    "amount": "96"
+  },
+  {
+    "name": "Blackburn Roc",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1938",
+    "status": "Production",
+    "amount": "136"
+  },
+  {
+    "name": "Blackburn Shark",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1933",
+    "status": "Production",
+    "amount": "238"
+  },
+  {
+    "name": "Blackburn Skua",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter/dive bomber",
+    "date": "1937",
+    "status": "Production",
+    "amount": "190"
+  },
+  {
+    "name": "Blackburn Sprat",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Trainer",
+    "date": "1926",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Blackburn Swift",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1920",
+    "status": "Production",
+    "amount": "8"
+  },
+  {
+    "name": "Boeing CH-47 Chinook",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport",
+    "date": "1961",
+    "status": "Production",
+    "amount": "1,179+"
+  },
+  {
+    "name": "Boeing EA-18G Growler",
+    "country": "US",
+    "class": "Jet",
+    "role": "Electronic Warfare",
+    "date": "2006",
+    "status": "Production",
+    "amount": "85~"
+  },
+  {
+    "name": "Boeing F/A-18E/F Super Hornet",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1995",
+    "status": "Production",
+    "amount": "500~"
+  },
+  {
+    "name": "Boeing F2B",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1926",
+    "status": "Production",
+    "amount": "33"
+  },
+  {
+    "name": "Boeing F3B",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter-bomber",
+    "date": "1927",
+    "status": "Production",
+    "amount": "74"
+  },
+  {
+    "name": "Boeing F4B",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1928",
+    "status": "Production",
+    "amount": "189"
+  },
+  {
+    "name": "Boeing FB",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1923",
+    "status": "Production",
+    "amount": "29"
+  },
+  {
+    "name": "Boeing Vertol CH-46 Sea Knight",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport",
+    "date": "1962",
+    "status": "Production",
+    "amount": "524"
+  },
+  {
+    "name": "Boeing XF5B",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1930",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Boeing XF6B",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter-bomber",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Boeing XF7B",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Boeing XF8B",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Boulton Paul Sea Balliol",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Trainer",
+    "date": "1952",
+    "status": "Production",
+    "amount": "30"
+  },
+  {
+    "name": "Breguet Aliz\u00e9",
+    "country": "France",
+    "class": "Propeller",
+    "role": "ASW",
+    "date": "1956",
+    "status": "Production",
+    "amount": "89"
+  },
+  {
+    "name": "Breguet Vultur",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1951",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Brewster Buffalo",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1937",
+    "status": "Production",
+    "amount": "503"
+  },
+  {
+    "name": "Brewster SB2A Buccaneer",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1941",
+    "status": "Production",
+    "amount": "771"
+  },
+  {
+    "name": "Bristol Scout",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1916",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "British Aerospace P.125",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Fighter-bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "British Aerospace Sea Harrier",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1978",
+    "status": "Production",
+    "amount": "115"
+  },
+  {
+    "name": "Britten-Norman Islander",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1968",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Caudron Luciole",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1940",
+    "status": "Temporary",
+    "amount": "2"
+  },
+  {
+    "name": "Cessna O-1E Bird Dog",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1962-1975",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Chengdu J-20 B/C",
+    "country": "PRC",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "2016",
+    "status": "Prototype",
+    "amount": "10"
+  },
+  {
+    "name": "Common Support Aircraft",
+    "country": "US",
+    "class": "Jet",
+    "role": "Multirole",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Consolidated N2Y",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Trainer",
+    "date": "1929",
+    "status": "Production",
+    "amount": "7"
+  },
+  {
+    "name": "Consolidated TBY Sea Wolf",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1941",
+    "status": "Production",
+    "amount": "180"
+  },
+  {
+    "name": "Consolidated XB2Y",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Consolidated XBY",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Curtiss BF2C Goshawk",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter-bomber",
+    "date": "1933",
+    "status": "Production",
+    "amount": "166"
+  },
+  {
+    "name": "Curtiss F11C Goshawk",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter-bomber",
+    "date": "1932",
+    "status": "Production",
+    "amount": "30"
+  },
+  {
+    "name": "Curtiss F6C Hawk",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1925",
+    "status": "Production",
+    "amount": "75"
+  },
+  {
+    "name": "Curtiss F7C Seahawk",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Production",
+    "amount": "17"
+  },
+  {
+    "name": "Curtiss F8C/O2C Falcon/Helldiver",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter/dive bomber",
+    "date": "1924",
+    "status": "Production",
+    "amount": "150"
+  },
+  {
+    "name": "Curtiss Model D",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1910",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Curtiss P-36 Hawk",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1941",
+    "status": "Temporary",
+    "amount": "31"
+  },
+  {
+    "name": "Curtiss P-40F Warhawk",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1942",
+    "status": "Temporary",
+    "amount": "109"
+  },
+  {
+    "name": "Curtiss SB2C Helldiver",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1940",
+    "status": "Production",
+    "amount": "7,200"
+  },
+  {
+    "name": "Curtiss SBC Helldiver",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1935",
+    "status": "Production",
+    "amount": "257"
+  },
+  {
+    "name": "Curtiss SO3C Seamew",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1939",
+    "status": "Production",
+    "amount": "259"
+  },
+  {
+    "name": "Curtiss SOC Seagull",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1934",
+    "status": "Production",
+    "amount": "322"
+  },
+  {
+    "name": "Curtiss XBT2C",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "9"
+  },
+  {
+    "name": "Curtiss XBTC",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Curtiss XF14C",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Curtiss XF15C",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Curtiss XSB3C",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Dassault \u00c9tendard IV",
+    "country": "France",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1958",
+    "status": "Production",
+    "amount": "90"
+  },
+  {
+    "name": "Dassault Rafale M",
+    "country": "France",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1986",
+    "status": "Production",
+    "amount": "115"
+  },
+  {
+    "name": "Dassault-Breguet Super \u00c9tendard",
+    "country": "France",
+    "class": "Jet",
+    "role": "Fighter-bomber",
+    "date": "1974",
+    "status": "Production",
+    "amount": "85"
+  },
+  {
+    "name": "de Havilland Canada DHC-3 Otter",
+    "country": "Canada",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1957",
+    "status": "Temporary",
+    "amount": "4"
+  },
+  {
+    "name": "de Havilland Canada DHC-5 Buffalo",
+    "country": "Canada",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1980",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "de Havilland Canada L-20 Beaver",
+    "country": "Canada",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1958",
+    "status": "Temporary",
+    "amount": "2"
+  },
+  {
+    "name": "de Havilland Sea Hornet",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1944",
+    "status": "Production",
+    "amount": "174"
+  },
+  {
+    "name": "de Havilland Sea Mosquito",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber/trainer",
+    "date": "1944",
+    "status": "Production",
+    "amount": "66"
+  },
+  {
+    "name": "de Havilland Sea Vampire",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1944",
+    "status": "Production",
+    "amount": "98"
+  },
+  {
+    "name": "de Havilland Sea Venom",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1951",
+    "status": "Production",
+    "amount": "298"
+  },
+  {
+    "name": "de Havilland Sea Vixen",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1951",
+    "status": "Production",
+    "amount": "145"
+  },
+  {
+    "name": "Dewoitine D.1ter",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1922",
+    "status": "Production",
+    "amount": "30"
+  },
+  {
+    "name": "Dewoitine D.373 & 376",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1931",
+    "status": "Production",
+    "amount": "45"
+  },
+  {
+    "name": "Douglas A-3 Skywarrior",
+    "country": "US",
+    "class": "Jet",
+    "role": "Bomber",
+    "date": "1952",
+    "status": "Production",
+    "amount": "282"
+  },
+  {
+    "name": "Douglas A-4 Skyhawk",
+    "country": "US",
+    "class": "Jet",
+    "role": "Bomber",
+    "date": "1954",
+    "status": "Production",
+    "amount": "2,960"
+  },
+  {
+    "name": "Douglas A2D Skyshark",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1950",
+    "status": "Prototype",
+    "amount": "12"
+  },
+  {
+    "name": "Douglas AD Skyraider",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1945",
+    "status": "Production",
+    "amount": "3,180"
+  },
+  {
+    "name": "Douglas BTD Destroyer",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1943",
+    "status": "Production",
+    "amount": "30"
+  },
+  {
+    "name": "Douglas DT",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1921",
+    "status": "Production",
+    "amount": "90"
+  },
+  {
+    "name": "Douglas F3D Skynight",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1948",
+    "status": "Production",
+    "amount": "268"
+  },
+  {
+    "name": "Douglas F4D Skyray",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1951",
+    "status": "Production",
+    "amount": "422"
+  },
+  {
+    "name": "Douglas F5D Skylancer",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1956",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Douglas F6D Missileer",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Douglas R4D-5",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1947",
+    "status": "Temporary",
+    "amount": "6"
+  },
+  {
+    "name": "Douglas SBD Dauntless",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1938",
+    "status": "Production",
+    "amount": "5,356"
+  },
+  {
+    "name": "Douglas T2D",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1927",
+    "status": "Production",
+    "amount": "31"
+  },
+  {
+    "name": "Douglas TBD Devastator",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1935",
+    "status": "Production",
+    "amount": "130"
+  },
+  {
+    "name": "Douglas XT3D",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Douglas XTB2D Skypirate",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Eberhart F2G",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1928",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Eberhart FG",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Eurocopter AS332 Super Puma",
+    "country": "France",
+    "class": "Helicopter",
+    "role": "",
+    "date": "1978",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Eurocopter AS365 Dauphin",
+    "country": "France",
+    "class": "Helicopter",
+    "role": "",
+    "date": "1975",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Eurocopter Fennec",
+    "country": "France",
+    "class": "Helicopter",
+    "role": "ASW/Transport",
+    "date": "1990",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Fairey Albacore",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo/dive bomber",
+    "date": "1938",
+    "status": "Production",
+    "amount": "800"
+  },
+  {
+    "name": "Fairey Barracuda",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo/dive bomber",
+    "date": "1940",
+    "status": "Production",
+    "amount": "2,582"
+  },
+  {
+    "name": "Fairey Firefly III/IIIM",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Fairey Firefly",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter-bomber",
+    "date": "1941",
+    "status": "Production",
+    "amount": "1,702"
+  },
+  {
+    "name": "Fairey Fleetwing",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Fairey Flycatcher",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1922",
+    "status": "Production",
+    "amount": "196"
+  },
+  {
+    "name": "Fairey Fox Mk.IA",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1926",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Fairey Fulmar",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1937",
+    "status": "Production",
+    "amount": "600"
+  },
+  {
+    "name": "Fairey Gannet",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "ASW/AEW",
+    "date": "1949",
+    "status": "Production",
+    "amount": "348"
+  },
+  {
+    "name": "Fairey III",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1917",
+    "status": "Production",
+    "amount": "964"
+  },
+  {
+    "name": "Fairey Seal",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1930",
+    "status": "Production",
+    "amount": "91"
+  },
+  {
+    "name": "Fairey Spearfish",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo/dive bomber",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "5"
+  },
+  {
+    "name": "Fairey Swordfish",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1934",
+    "status": "Production",
+    "amount": "2,391"
+  },
+  {
+    "name": "Fiat G.50 bis/A Freccia",
+    "country": "Italy",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1942",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Fieseler Fi 167",
+    "country": "Germany",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1938",
+    "status": "Production",
+    "amount": "14"
+  },
+  {
+    "name": "Fouga CM.175 Z\u00e9phyr M",
+    "country": "France",
+    "class": "Jet",
+    "role": "Trainer",
+    "date": "1956",
+    "status": "Production",
+    "amount": "32"
+  },
+  {
+    "name": "General Aircraft Fleet Shadower",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1940",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "General Dynamics-Grumman F-111B",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1965",
+    "status": "Prototype",
+    "amount": "7"
+  },
+  {
+    "name": "Gloster Gambet",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Gloster Gladiator II",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1940",
+    "status": "Temporary",
+    "amount": "18"
+  },
+  {
+    "name": "Gloster Gnatsnapper",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Gloster Meteor F.3 (Derwent 5)",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Trials",
+    "date": "1948\u20131949",
+    "status": "Temporary",
+    "amount": "2"
+  },
+  {
+    "name": "Gloster Nightjar",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1921",
+    "status": "Production",
+    "amount": "22"
+  },
+  {
+    "name": "Gloster Sea Gladiator",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1937",
+    "status": "Production",
+    "amount": "98"
+  },
+  {
+    "name": "Gloster Sparrowhawk III",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1921",
+    "status": "Production",
+    "amount": "10"
+  },
+  {
+    "name": "Gloster TSR.38",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Goodyear F2G Corsair",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "10"
+  },
+  {
+    "name": "Gourdou-Leseurre GL.22",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Trainer",
+    "date": "1918",
+    "status": "Production",
+    "amount": "20"
+  },
+  {
+    "name": "Great Lakes BG",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1933",
+    "status": "Production",
+    "amount": "61"
+  },
+  {
+    "name": "Great Lakes XTBG",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1935",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Grumman A-6 Intruder",
+    "country": "US",
+    "class": "Jet",
+    "role": "Bomber",
+    "date": "1960",
+    "status": "Production",
+    "amount": "693"
+  },
+  {
+    "name": "Grumman AF Guardian",
+    "country": "US",
+    "class": "Propeller",
+    "role": "ASW",
+    "date": "1945",
+    "status": "Production",
+    "amount": "389"
+  },
+  {
+    "name": "Grumman C-1 Trader",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1955",
+    "status": "Production",
+    "amount": "83"
+  },
+  {
+    "name": "Grumman C-2 Greyhound",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1964",
+    "status": "Production",
+    "amount": "58"
+  },
+  {
+    "name": "Grumman E-1 Tracer",
+    "country": "US",
+    "class": "Propeller",
+    "role": "AEW",
+    "date": "1956",
+    "status": "Production",
+    "amount": "88"
+  },
+  {
+    "name": "Grumman E-2 Hawkeye",
+    "country": "US",
+    "class": "Propeller",
+    "role": "AEW",
+    "date": "1960",
+    "status": "Production",
+    "amount": "313"
+  },
+  {
+    "name": "Grumman EA-6B Prowler",
+    "country": "US",
+    "class": "Jet",
+    "role": "Electronic Warfare",
+    "date": "1968",
+    "status": "Production",
+    "amount": "170"
+  },
+  {
+    "name": "Grumman F-9 Cougar",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1951",
+    "status": "Production",
+    "amount": "1,392"
+  },
+  {
+    "name": "Grumman F-11 Tiger",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1954",
+    "status": "Production",
+    "amount": "200"
+  },
+  {
+    "name": "Grumman F-14 Tomcat",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1970",
+    "status": "Production",
+    "amount": "632"
+  },
+  {
+    "name": "Grumman FF",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1931",
+    "status": "Production",
+    "amount": "85"
+  },
+  {
+    "name": "Grumman F2F",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1933",
+    "status": "Production",
+    "amount": "56"
+  },
+  {
+    "name": "Grumman F3F",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1935",
+    "status": "Production",
+    "amount": "147"
+  },
+  {
+    "name": "Grumman F4F Wildcat",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1937",
+    "status": "Production",
+    "amount": "7,885"
+  },
+  {
+    "name": "Grumman F6F Hellcat",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1942",
+    "status": "Production",
+    "amount": "12,275"
+  },
+  {
+    "name": "Grumman F7F Tigercat",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1943",
+    "status": "Production",
+    "amount": "364"
+  },
+  {
+    "name": "Grumman F8F Bearcat",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1944",
+    "status": "Production",
+    "amount": "1,265"
+  },
+  {
+    "name": "Grumman F9F Panther",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1947",
+    "status": "Production",
+    "amount": "1,382"
+  },
+  {
+    "name": "Grumman G-118",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Grumman J2F Duck",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Transport/SAR",
+    "date": "1936",
+    "status": "Production",
+    "amount": "584"
+  },
+  {
+    "name": "Grumman S-2 Tracker",
+    "country": "US",
+    "class": "Propeller",
+    "role": "ASW",
+    "date": "1952",
+    "status": "Production",
+    "amount": "1,284"
+  },
+  {
+    "name": "Grumman SF",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1931",
+    "status": "Production",
+    "amount": "35"
+  },
+  {
+    "name": "Grumman TBF Avenger",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1941",
+    "status": "Production",
+    "amount": "9,839"
+  },
+  {
+    "name": "Grumman XF10F Jaguar",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1952",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Grumman XF5F Skyrocket",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1940",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Grumman XSBF",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1936",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Grumman XTB2F",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Grumman XTSF",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "HAL Naval Tejas",
+    "country": "India",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "2012",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Hall XFH-1",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Handley Page H.P.46",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Handley Page Hanley",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1922",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Handley Page Hendon",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "6"
+  },
+  {
+    "name": "Handley Page HP.14",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Handley Page HPS-1",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1923",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Hanriot HD.1",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1920",
+    "status": "Temporary",
+    "amount": "1+"
+  },
+  {
+    "name": "Hanriot HD.2",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1920",
+    "status": "Temporary",
+    "amount": "2"
+  },
+  {
+    "name": "Hanriot HD.3",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1920",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Hanriot HD.20",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1923",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Hawker Hedgehog",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Hawker Hoopoe",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1928",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Hawker Hurricane I",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1940",
+    "status": "Temporary",
+    "amount": "18"
+  },
+  {
+    "name": "Hawker Nimrod",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1930",
+    "status": "Production",
+    "amount": "92"
+  },
+  {
+    "name": "Hawker Osprey/Naval Hart",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter/reconnaissance",
+    "date": "1932",
+    "status": "Production",
+    "amount": "112"
+  },
+  {
+    "name": "Hawker Sea Fury",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1945",
+    "status": "Production",
+    "amount": "864"
+  },
+  {
+    "name": "Hawker Sea Hawk",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1947",
+    "status": "Production",
+    "amount": "542"
+  },
+  {
+    "name": "Hawker Sea Hurricane",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1940",
+    "status": "Production",
+    "amount": "1,190+"
+  },
+  {
+    "name": "Hawker Siddeley P.1154",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Hawker Siddeley P.139B",
+    "country": "UK",
+    "class": "Jet",
+    "role": "AEW",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Heinkel HD 23",
+    "country": "Germany",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1926",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Junkers Ju 87C",
+    "country": "Germany",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1938",
+    "status": "Prototype",
+    "amount": "10"
+  },
+  {
+    "name": "Kaiser-Fleetwings XBTK",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1945",
+    "status": "Prototype",
+    "amount": "5"
+  },
+  {
+    "name": "Kaman SH-2 Seasprite",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "ASW",
+    "date": "1959",
+    "status": "Production",
+    "amount": "184"
+  },
+  {
+    "name": "Kaman SH-2G Super Seasprite",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "ASW",
+    "date": "1985",
+    "status": "Production",
+    "amount": "59"
+  },
+  {
+    "name": "Kamov Ka-20",
+    "country": "USSR",
+    "class": "Helicopter",
+    "role": "ASW/Transport",
+    "date": "1960",
+    "status": "Prototype",
+    "amount": ""
+  },
+  {
+    "name": "Kamov Ka-25",
+    "country": "USSR",
+    "class": "Helicopter",
+    "role": "ASW/EW/AEW",
+    "date": "1963",
+    "status": "Production",
+    "amount": "460~"
+  },
+  {
+    "name": "Kamov Ka-27, Ka-28 & Ka-32",
+    "country": "USSR",
+    "class": "Helicopter",
+    "role": "ASW/AEW/Transport",
+    "date": "1973",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Kawanishi K-11",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Kokusai Ki-76",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1941",
+    "status": "Production",
+    "amount": "937"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 299",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Torpedo/dive bomber",
+    "date": "1939",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Les Mureaux 1 C.1 Express-Marin",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Levasseur PL.10, 101 & 107",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1929",
+    "status": "Production",
+    "amount": "63"
+  },
+  {
+    "name": "Levasseur PL.14",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1929",
+    "status": "Production",
+    "amount": "30"
+  },
+  {
+    "name": "Levasseur PL.2",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1922",
+    "status": "Production",
+    "amount": "11"
+  },
+  {
+    "name": "Levasseur PL.4",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1926",
+    "status": "Production",
+    "amount": "40"
+  },
+  {
+    "name": "Levasseur PL.5",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1925",
+    "status": "Production",
+    "amount": "24"
+  },
+  {
+    "name": "Levasseur PL.7",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1928",
+    "status": "Production",
+    "amount": "46"
+  },
+  {
+    "name": "L\u00e9vy-Biche LB.2",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Production",
+    "amount": "26"
+  },
+  {
+    "name": "Lockheed XJO-3 Electra Junior",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1939",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Lockheed KC-130F Hercules",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1963",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Lockheed Martin F-35B & C Lightning II",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "2006",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Lockheed P-80A Shooting Star",
+    "country": "US",
+    "class": "Jet",
+    "role": "Trials",
+    "date": "1946",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Lockheed P2V-3C Neptune",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1948\u20131951",
+    "status": "Temporary",
+    "amount": "13"
+  },
+  {
+    "name": "Lockheed S-3 Viking",
+    "country": "US",
+    "class": "Jet",
+    "role": "ASW",
+    "date": "1972",
+    "status": "Production",
+    "amount": "188"
+  },
+  {
+    "name": "Lockheed T2V SeaStar",
+    "country": "US",
+    "class": "Jet",
+    "role": "Trainer",
+    "date": "1953",
+    "status": "Production",
+    "amount": "150"
+  },
+  {
+    "name": "Lockheed U-2C",
+    "country": "US",
+    "class": "Jet",
+    "role": "Reconnaissance",
+    "date": "1963",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Lockheed U-2G",
+    "country": "US",
+    "class": "Jet",
+    "role": "Reconnaissance",
+    "date": "1955",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Lockheed U-2R",
+    "country": "US",
+    "class": "Jet",
+    "role": "Trials",
+    "date": "1969",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Loening OL-8A",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1923",
+    "status": "Production",
+    "amount": "20"
+  },
+  {
+    "name": "Loening XFL",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Loire-Gourdou-Leseurre LGL.32",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1925",
+    "status": "Production",
+    "amount": "15"
+  },
+  {
+    "name": "Loire-Nieuport LN.401",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1938",
+    "status": "Production",
+    "amount": "68"
+  },
+  {
+    "name": "Mann Egerton Type H",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Martin AM Mauler",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1944",
+    "status": "Production",
+    "amount": "151"
+  },
+  {
+    "name": "Martin BM",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1930",
+    "status": "Production",
+    "amount": "32"
+  },
+  {
+    "name": "Martin T3M",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1926",
+    "status": "Production",
+    "amount": "124"
+  },
+  {
+    "name": "Martin T4M & Great Lakes TG",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1927",
+    "status": "Production",
+    "amount": "155"
+  },
+  {
+    "name": "Martin XT6M",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1930",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "McDonnell Douglas A-12 Avenger II",
+    "country": "US",
+    "class": "Jet",
+    "role": "Bomber",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "McDonnell Douglas F-4 Phantom II",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1958",
+    "status": "Production",
+    "amount": "5,195"
+  },
+  {
+    "name": "McDonnell Douglas T-45 Goshawk",
+    "country": "US",
+    "class": "Jet",
+    "role": "Trainer",
+    "date": "1988",
+    "status": "Production",
+    "amount": "214"
+  },
+  {
+    "name": "McDonnell FH Phantom",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1945",
+    "status": "Production",
+    "amount": "62"
+  },
+  {
+    "name": "McDonnell F2H Banshee",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1947",
+    "status": "Production",
+    "amount": "895"
+  },
+  {
+    "name": "McDonnell F3H Demon",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1951",
+    "status": "Production",
+    "amount": "519"
+  },
+  {
+    "name": "McDonnell-Douglas AV-8B Harrier II",
+    "country": "US",
+    "class": "Jet",
+    "role": "Bomber",
+    "date": "1978\u20131985",
+    "status": "Production",
+    "amount": "323"
+  },
+  {
+    "name": "McDonnell-Douglas F/A-18 Hornet",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter-bomber",
+    "date": "1978",
+    "status": "Production",
+    "amount": "1,479"
+  },
+  {
+    "name": "Messerschmitt Bf 109T-1",
+    "country": "Germany",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1939",
+    "status": "Prototype",
+    "amount": "7"
+  },
+  {
+    "name": "Mikoyan MiG-29K",
+    "country": "USSR",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1988",
+    "status": "Production",
+    "amount": "20"
+  },
+  {
+    "name": "Mitsubishi 1MF",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1921",
+    "status": "Production",
+    "amount": "138"
+  },
+  {
+    "name": "Mitsubishi 1MF9",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Production",
+    "amount": "2"
+  },
+  {
+    "name": "Mitsubishi 1MT",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1922",
+    "status": "Production",
+    "amount": "20"
+  },
+  {
+    "name": "Mitsubishi 2MR",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1922",
+    "status": "Production",
+    "amount": "159"
+  },
+  {
+    "name": "Mitsubishi 3MT5",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1932",
+    "status": "Production",
+    "amount": "11"
+  },
+  {
+    "name": "Mitsubishi A5M",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1935",
+    "status": "Production",
+    "amount": "1,094"
+  },
+  {
+    "name": "Mitsubishi A6M Zero",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1939",
+    "status": "Production",
+    "amount": "10,449"
+  },
+  {
+    "name": "Mitsubishi A7M",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "10"
+  },
+  {
+    "name": "Mitsubishi B1M",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1923",
+    "status": "Production",
+    "amount": "443"
+  },
+  {
+    "name": "Mitsubishi B2M",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1929",
+    "status": "Production",
+    "amount": "206"
+  },
+  {
+    "name": "Mitsubishi B5M",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1937",
+    "status": "Production",
+    "amount": "125"
+  },
+  {
+    "name": "Morane-Saulnier MS.226",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1933",
+    "status": "Production",
+    "amount": "3"
+  },
+  {
+    "name": "Morane-Saulnier MS.474 Vanneau IV",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Trainer",
+    "date": "1944",
+    "status": "Production",
+    "amount": "70"
+  },
+  {
+    "name": "Morane-Saulnier MS.500 Criquet",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1945\u20131949",
+    "status": "Temporary",
+    "amount": ""
+  },
+  {
+    "name": "Nakajima A1N",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Production",
+    "amount": "151"
+  },
+  {
+    "name": "Nakajima A2N",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1929",
+    "status": "Production",
+    "amount": "100 ca."
+  },
+  {
+    "name": "Nakajima A4N",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1934",
+    "status": "Production",
+    "amount": "221"
+  },
+  {
+    "name": "Nakajima B3N",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Nakajima B4N",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1936",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Nakajima B5N",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1937",
+    "status": "Production",
+    "amount": "1,149"
+  },
+  {
+    "name": "Nakajima B6N",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1941",
+    "status": "Production",
+    "amount": "1,268"
+  },
+  {
+    "name": "Nakajima C3N",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1936",
+    "status": "Production",
+    "amount": "2"
+  },
+  {
+    "name": "Nakajima C6N",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1943",
+    "status": "Production",
+    "amount": "463"
+  },
+  {
+    "name": "Naval Aircraft Factory SBN",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1936",
+    "status": "Prototype",
+    "amount": "31"
+  },
+  {
+    "name": "Naval Aircraft Factory TS",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1922",
+    "status": "Production",
+    "amount": "46"
+  },
+  {
+    "name": "NHIndustries NH90",
+    "country": "NATO",
+    "class": "Helicopter",
+    "role": "",
+    "date": "1995",
+    "status": "Production",
+    "amount": "161"
+  },
+  {
+    "name": "Nieuport 21",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1919\u20131920",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Nieuport-Delage NiD 32",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1920",
+    "status": "Production",
+    "amount": "10"
+  },
+  {
+    "name": "Nieuport-Delage NiD 43",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1924",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Nord 1500 Nor\u00e9clair",
+    "country": "France",
+    "class": "Propeller",
+    "role": "ASW/bomber",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Nord 2200",
+    "country": "France",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1949",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "North American A-5 Vigilante",
+    "country": "US",
+    "class": "Jet",
+    "role": "Reconnaissance",
+    "date": "1958",
+    "status": "Production",
+    "amount": "156"
+  },
+  {
+    "name": "North American AJ Savage",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1948",
+    "status": "Production",
+    "amount": "143"
+  },
+  {
+    "name": "North American B-25B Mitchell",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1942",
+    "status": "Temporary",
+    "amount": "16"
+  },
+  {
+    "name": "North American ETF-51D Mustang",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "North American FJ-1 Fury",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1946",
+    "status": "Production",
+    "amount": "31"
+  },
+  {
+    "name": "North American FJ-2/-3 Fury",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1951",
+    "status": "Production",
+    "amount": "741"
+  },
+  {
+    "name": "North American FJ-4 Fury",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1954",
+    "status": "Production",
+    "amount": "374"
+  },
+  {
+    "name": "North American L-17 (Navion)",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1950",
+    "status": "Temporary",
+    "amount": ""
+  },
+  {
+    "name": "North American PBJ-1H",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1944",
+    "status": "Production",
+    "amount": "1"
+  },
+  {
+    "name": "North American Rockwell OV-10 Bronco",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1968, 1985",
+    "status": "Temporary",
+    "amount": ""
+  },
+  {
+    "name": "North American T-2 Buckeye",
+    "country": "US",
+    "class": "Jet",
+    "role": "Trainer",
+    "date": "1958",
+    "status": "Production",
+    "amount": "529"
+  },
+  {
+    "name": "North American T-28 Trojan",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Trainer",
+    "date": "1949",
+    "status": "Production",
+    "amount": "266"
+  },
+  {
+    "name": "North American SNJ-3C/-4C/-5C",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Trainer",
+    "date": "1935",
+    "status": "Production",
+    "amount": "52+"
+  },
+  {
+    "name": "North American XA2J Super Savage",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1952",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Northrop BT",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1935",
+    "status": "Production",
+    "amount": "55"
+  },
+  {
+    "name": "Parnall Panther",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1917",
+    "status": "Production",
+    "amount": "155"
+  },
+  {
+    "name": "Parnall Perch",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Trainer",
+    "date": "1926",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Parnall Pike",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Parnall Pipit",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1928",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Parnall Plover",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1922",
+    "status": "Production",
+    "amount": "13"
+  },
+  {
+    "name": "Parnall Puffin",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter/reconnaissance",
+    "date": "1920",
+    "status": "Prototype",
+    "amount": "3"
+  },
+  {
+    "name": "Percival Vega Gull",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Transport",
+    "date": "1936/1937",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "Piasecki H-21",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "",
+    "date": "1952",
+    "status": "Production",
+    "amount": "18+"
+  },
+  {
+    "name": "Piasecki HRP Rescuer",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport/SAR",
+    "date": "1945",
+    "status": "Production",
+    "amount": "28"
+  },
+  {
+    "name": "Piasecki HUP Retriever",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport/SAR",
+    "date": "1948",
+    "status": "Production",
+    "amount": "339"
+  },
+  {
+    "name": "Piper L-4 Grasshopper",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1944",
+    "status": "Temporary",
+    "amount": "27+"
+  },
+  {
+    "name": "Reggiane Re.2001 OR",
+    "country": "Italy",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1940",
+    "status": "Production",
+    "amount": "10"
+  },
+  {
+    "name": "Republic P-47 Thunderbolt",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1944",
+    "status": "Temporary",
+    "amount": "4"
+  },
+  {
+    "name": "Rockwell XFV-12",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "n/a",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Ryan FR Fireball",
+    "country": "US",
+    "class": "Propeller/Jet",
+    "role": "Fighter",
+    "date": "1944",
+    "status": "Production",
+    "amount": "71"
+  },
+  {
+    "name": "Saro P.531",
+    "country": "UK",
+    "class": "Helicopter",
+    "role": "",
+    "date": "1958",
+    "status": "Prototype",
+    "amount": "6"
+  },
+  {
+    "name": "SEPECAT Jaguar M",
+    "country": "France",
+    "class": "Jet",
+    "role": "Bomber",
+    "date": "1969",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Seversky XFN-1",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1937",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Shenyang J-15",
+    "country": "PRC",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "2013",
+    "status": "Production",
+    "amount": "50"
+  },
+  {
+    "name": "Shenyang FC-31",
+    "country": "PRC",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "2021",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Short Gurnard",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Short Seamew",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "ASW",
+    "date": "1953",
+    "status": "Prototype",
+    "amount": "26"
+  },
+  {
+    "name": "Short Shirl",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1918",
+    "status": "Prototype",
+    "amount": "4"
+  },
+  {
+    "name": "Sikorsky CH-53 Sea Stallion",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport/SAR",
+    "date": "1964",
+    "status": "Production",
+    "amount": "265+"
+  },
+  {
+    "name": "Sikorsky HNS (R-4)",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport",
+    "date": "1942",
+    "status": "Production",
+    "amount": "131"
+  },
+  {
+    "name": "Sikorsky HO2S (R-5/H-5)",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport",
+    "date": "1943",
+    "status": "Production",
+    "amount": "300+"
+  },
+  {
+    "name": "Sikorsky HO4S (S-55)",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport/SAR",
+    "date": "1949",
+    "status": "Production",
+    "amount": "94"
+  },
+  {
+    "name": "Sikorsky Hoverfly II (R-6)",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport/trainer",
+    "date": "1943",
+    "status": "Production",
+    "amount": "225"
+  },
+  {
+    "name": "Sikorsky HR2S/CH-37",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport",
+    "date": "1953",
+    "status": "Production",
+    "amount": "62"
+  },
+  {
+    "name": "Sikorsky HSS Seabat (S-58)",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "ASW/Transport",
+    "date": "1954",
+    "status": "Production",
+    "amount": "218"
+  },
+  {
+    "name": "Sikorsky SH-3 Sea King",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "ASW/SAR/Transport",
+    "date": "1959",
+    "status": "Production",
+    "amount": "756 ca."
+  },
+  {
+    "name": "Sikorsky SH-60 Seahawk",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "ASW/SAR/Transport",
+    "date": "1979",
+    "status": "Production",
+    "amount": "400+"
+  },
+  {
+    "name": "Sikorsky XHJS",
+    "country": "US",
+    "class": "Helicopter",
+    "role": "Transport",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Slingsby T.20",
+    "country": "UK",
+    "class": "Glider",
+    "role": "Trials",
+    "date": "1945",
+    "status": "Temporary",
+    "amount": "1"
+  },
+  {
+    "name": "SNCAC NC.1070",
+    "country": "France",
+    "class": "Jet",
+    "role": "Bomber",
+    "date": "1947",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "SNCAC NC.1080",
+    "country": "France",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1949",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "SNCASE (Sud-Est) Aquilon",
+    "country": "France",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1951",
+    "status": "Production",
+    "amount": "120"
+  },
+  {
+    "name": "SNCASO SO.8000 Narval",
+    "country": "France",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1949",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Sopwith 2F.1 Ship's Camel",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Production",
+    "amount": "340"
+  },
+  {
+    "name": "Sopwith Camel",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Sopwith Cuckoo",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1918",
+    "status": "Production",
+    "amount": "232"
+  },
+  {
+    "name": "Sopwith Pup and Ship's Pup",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1916",
+    "status": "Production",
+    "amount": "1,770"
+  },
+  {
+    "name": "Sopwith Ship's Strutter",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1915",
+    "status": "Production",
+    "amount": "5,939"
+  },
+  {
+    "name": "Stinson L-5 Sentinel",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1943",
+    "status": "Temporary",
+    "amount": ""
+  },
+  {
+    "name": "Stinson OY Sentinel",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1950",
+    "status": "Temporary",
+    "amount": "1+"
+  },
+  {
+    "name": "Sukhoi Su-25UTG & UBP",
+    "country": "USSR",
+    "class": "Jet",
+    "role": "Bomber",
+    "date": "1988",
+    "status": "Production",
+    "amount": "20~"
+  },
+  {
+    "name": "Sukhoi Su-33",
+    "country": "USSR",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1987",
+    "status": "Production",
+    "amount": "24~"
+  },
+  {
+    "name": "Supermarine Attacker",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1946",
+    "status": "Production",
+    "amount": "185"
+  },
+  {
+    "name": "Supermarine Scimitar",
+    "country": "UK",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1956",
+    "status": "Production",
+    "amount": "76"
+  },
+  {
+    "name": "Supermarine Seafang",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1946",
+    "status": "Prototype",
+    "amount": "18"
+  },
+  {
+    "name": "Supermarine Seafire",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1942",
+    "status": "Production",
+    "amount": "2,556"
+  },
+  {
+    "name": "Supermarine Type 322",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo/dive bomber",
+    "date": "1943",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Supermarine Walrus",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1933",
+    "status": "Production",
+    "amount": "740"
+  },
+  {
+    "name": "Taylorcraft Auster",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Trials",
+    "date": "1945\u20131946",
+    "status": "Temporary",
+    "amount": "3+"
+  },
+  {
+    "name": "Vickers Type 141",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1927",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Vickers Type 177",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1929",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Vickers Type 207",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Torpedo bomber",
+    "date": "1933",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Vickers Vanellus",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1925",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Vickers Viking III & IV",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1919",
+    "status": "Production",
+    "amount": "2"
+  },
+  {
+    "name": "Vickers Vireo",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1928",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Villiers II",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1925",
+    "status": "Production",
+    "amount": "32"
+  },
+  {
+    "name": "Vought A-7 Corsair",
+    "country": "US",
+    "class": "Jet",
+    "role": "Bomber",
+    "date": "1965",
+    "status": "Production",
+    "amount": "1,569"
+  },
+  {
+    "name": "Vought F-8 Crusader",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1955",
+    "status": "Production",
+    "amount": "1,219"
+  },
+  {
+    "name": "Vought F4U/FG/F3A Corsair",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1940",
+    "status": "Production",
+    "amount": "12,571"
+  },
+  {
+    "name": "Vought F6U Pirate",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1946",
+    "status": "Production",
+    "amount": "33"
+  },
+  {
+    "name": "Vought F7U Cutlass",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1948",
+    "status": "Production",
+    "amount": "320"
+  },
+  {
+    "name": "Vought FU",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1926",
+    "status": "Production",
+    "amount": "20"
+  },
+  {
+    "name": "Vought Model 1600",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Vought O2U Corsair",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1926",
+    "status": "Production",
+    "amount": "322"
+  },
+  {
+    "name": "Vought O3U/SU Corsair",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1930",
+    "status": "Production",
+    "amount": "291"
+  },
+  {
+    "name": "Vought XO4U Corsair",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Vought SB2U Vindicator",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1936",
+    "status": "Production",
+    "amount": "170"
+  },
+  {
+    "name": "Vought SBU Corsair",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1933",
+    "status": "Production",
+    "amount": "125"
+  },
+  {
+    "name": "Vought VE-7",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1917",
+    "status": "Production",
+    "amount": "128"
+  },
+  {
+    "name": "Vought XF5U",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "n/a",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Vought XF8U-3 Crusader III",
+    "country": "US",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1958",
+    "status": "Prototype",
+    "amount": "5"
+  },
+  {
+    "name": "Vought XS2U",
+    "country": "US",
+    "class": "Propeller",
+    "role": "ASW",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Vought XSB3U",
+    "country": "US",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1936",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Westland Dragonfly",
+    "country": "UK",
+    "class": "Helicopter",
+    "role": "Transport/SAR",
+    "date": "1948",
+    "status": "Production",
+    "amount": "133"
+  },
+  {
+    "name": "Westland Lynx",
+    "country": "UK",
+    "class": "Helicopter",
+    "role": "ASW/Transport",
+    "date": "1971",
+    "status": "Production",
+    "amount": ""
+  },
+  {
+    "name": "Westland PV-3",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1931",
+    "status": "Prototype",
+    "amount": "1"
+  },
+  {
+    "name": "Westland Sea King",
+    "country": "UK",
+    "class": "Helicopter",
+    "role": "ASW/Transport/SAR",
+    "date": "1969",
+    "status": "Production",
+    "amount": "344"
+  },
+  {
+    "name": "Westland Walrus",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Reconnaissance",
+    "date": "1921",
+    "status": "Production",
+    "amount": "36"
+  },
+  {
+    "name": "Westland Wasp",
+    "country": "UK",
+    "class": "Helicopter",
+    "role": "ASW",
+    "date": "1962",
+    "status": "Production",
+    "amount": "133"
+  },
+  {
+    "name": "Westland Wessex",
+    "country": "UK",
+    "class": "Helicopter",
+    "role": "Transport/SAR",
+    "date": "1958",
+    "status": "Production",
+    "amount": "170"
+  },
+  {
+    "name": "Westland Whirlwind",
+    "country": "UK",
+    "class": "Helicopter",
+    "role": "Transport/SAR",
+    "date": "1953",
+    "status": "Production",
+    "amount": "400"
+  },
+  {
+    "name": "Westland Wyvern",
+    "country": "UK",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1946",
+    "status": "Production",
+    "amount": "127"
+  },
+  {
+    "name": "Wibault 74",
+    "country": "France",
+    "class": "Propeller",
+    "role": "Fighter",
+    "date": "1924",
+    "status": "Production",
+    "amount": "18"
+  },
+  {
+    "name": "Yakovlev Yak-38",
+    "country": "USSR",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1971",
+    "status": "Production",
+    "amount": "231"
+  },
+  {
+    "name": "Yakovlev Yak-41",
+    "country": "USSR",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "1987",
+    "status": "Prototype",
+    "amount": "2"
+  },
+  {
+    "name": "Yakovlev Yak-43",
+    "country": "USSR",
+    "class": "Jet",
+    "role": "Fighter",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Yakovlev Yak-44",
+    "country": "USSR",
+    "class": "Propeller",
+    "role": "AEW",
+    "date": "n/a",
+    "status": "Project",
+    "amount": "0"
+  },
+  {
+    "name": "Yokosuka B3Y",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1933",
+    "status": "Production",
+    "amount": "129"
+  },
+  {
+    "name": "Yokosuka B4Y",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Bomber",
+    "date": "1935",
+    "status": "Production",
+    "amount": "205"
+  },
+  {
+    "name": "Yokosuka D3Y",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1944",
+    "status": "Prototype",
+    "amount": "5"
+  },
+  {
+    "name": "Yokosuka D4Y",
+    "country": "Japan",
+    "class": "Propeller",
+    "role": "Dive bomber",
+    "date": "1940",
+    "status": "Production",
+    "amount": "2,038"
+  }
+]

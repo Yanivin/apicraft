@@ -1,0 +1,2288 @@
+[
+  {
+    "name": "AEG DJ.I",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1918",
+    "status": "",
+    "amount": "1+"
+  },
+  {
+    "name": "AEG J.I",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1917",
+    "status": "",
+    "amount": "609"
+  },
+  {
+    "name": "Aermacchi MB-326",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1957",
+    "status": "",
+    "amount": "650"
+  },
+  {
+    "name": "Aermacchi MB-339",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1976",
+    "status": "",
+    "amount": "213+"
+  },
+  {
+    "name": "Aermacchi SF.260",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1964",
+    "status": "",
+    "amount": "860+"
+  },
+  {
+    "name": "Aero A.100",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": "44"
+  },
+  {
+    "name": "Aero A.101",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": "50+"
+  },
+  {
+    "name": "Aero L-29 Delf\u00edn",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "",
+    "date": "1959",
+    "status": "",
+    "amount": "3,500"
+  },
+  {
+    "name": "Aero L-39 Albatros",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "",
+    "date": "1968",
+    "status": "",
+    "amount": "592"
+  },
+  {
+    "name": "Aero L-59 Super Albatros",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "",
+    "date": "1986",
+    "status": "",
+    "amount": "71"
+  },
+  {
+    "name": "Aero L-159 Alca",
+    "country": "Czech Republic",
+    "class": "",
+    "role": "",
+    "date": "1997",
+    "status": "",
+    "amount": "72"
+  },
+  {
+    "name": "Aero L-39CW",
+    "country": "Czech Republic",
+    "class": "",
+    "role": "",
+    "date": "2015",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "Aero L-39NG",
+    "country": "Czech Republic",
+    "class": "",
+    "role": "",
+    "date": "2018",
+    "status": "",
+    "amount": "4"
+  },
+  {
+    "name": "Aichi D1A",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": "590"
+  },
+  {
+    "name": "Aichi D3A",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "1,486"
+  },
+  {
+    "name": "AIDC AT-3",
+    "country": "Taiwan",
+    "class": "",
+    "role": "",
+    "date": "1980",
+    "status": "",
+    "amount": "63"
+  },
+  {
+    "name": "Albatros J.I",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1917",
+    "status": "",
+    "amount": "240"
+  },
+  {
+    "name": "Albatros J.II",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1918?",
+    "status": "",
+    "amount": "4"
+  },
+  {
+    "name": "AMX International AMX",
+    "country": "Italy & Brazil",
+    "class": "",
+    "role": "",
+    "date": "1984",
+    "status": "",
+    "amount": "200 c."
+  },
+  {
+    "name": "Arado Ar 66",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": "1,456"
+  },
+  {
+    "name": "Armstrong Whitworth F.K.8",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1916",
+    "status": "",
+    "amount": "1,650"
+  },
+  {
+    "name": "BAE Harrier II",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1985",
+    "status": "",
+    "amount": "143"
+  },
+  {
+    "name": "BAE Hawk 200",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1986",
+    "status": "",
+    "amount": "62"
+  },
+  {
+    "name": "BAE Systems Hawk",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1974",
+    "status": "",
+    "amount": "1,000"
+  },
+  {
+    "name": "Bell P-39 Airacobra",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "9,584"
+  },
+  {
+    "name": "Blackburn Buccaneer",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1958",
+    "status": "",
+    "amount": "211"
+  },
+  {
+    "name": "Blackburn Firebrand",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1942",
+    "status": "",
+    "amount": "223"
+  },
+  {
+    "name": "Blackburn Firecrest",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1947",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Blackburn Ripon",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1926",
+    "status": "",
+    "amount": "92"
+  },
+  {
+    "name": "Blackburn Shark",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": "269"
+  },
+  {
+    "name": "Blackburn Skua",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": "192"
+  },
+  {
+    "name": "Boeing F/A-18E/F Super Hornet",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1995",
+    "status": "",
+    "amount": "500"
+  },
+  {
+    "name": "Boeing GA-1",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1920",
+    "status": "",
+    "amount": "10"
+  },
+  {
+    "name": "Breda Ba.64",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": "42"
+  },
+  {
+    "name": "Breda Ba.65",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "218"
+  },
+  {
+    "name": "Breda Ba.88",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "149"
+  },
+  {
+    "name": "Breguet 19",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1922",
+    "status": "",
+    "amount": "2,700 c."
+  },
+  {
+    "name": "Breguet 693",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "230 c."
+  },
+  {
+    "name": "Breguet Vultur",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1951",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Bristol Beaufighter",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": "5,928"
+  },
+  {
+    "name": "Bristol Beaufort",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "2,129"
+  },
+  {
+    "name": "Bristol Blenheim",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "4,422"
+  },
+  {
+    "name": "Bristol F.2 Fighter",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1916",
+    "status": "",
+    "amount": "5,329"
+  },
+  {
+    "name": "CAC Wirraway",
+    "country": "Australia",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": "755"
+  },
+  {
+    "name": "CAC Woomera",
+    "country": "Australia",
+    "class": "",
+    "role": "",
+    "date": "1941",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "CAC/PAC JF-17 Thunder",
+    "country": "China/Pakistan",
+    "class": "",
+    "role": "",
+    "date": "2003",
+    "status": "",
+    "amount": "100+"
+  },
+  {
+    "name": "Canadair CL-41G Tebuan",
+    "country": "Canada",
+    "class": "",
+    "role": "",
+    "date": "1966",
+    "status": "",
+    "amount": "20"
+  },
+  {
+    "name": "Caproni A.P.1",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": "57"
+  },
+  {
+    "name": "Casa C-101",
+    "country": "Spain",
+    "class": "",
+    "role": "",
+    "date": "1977",
+    "status": "",
+    "amount": "166"
+  },
+  {
+    "name": "Cessna A-37 Dragonfly",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1963",
+    "status": "",
+    "amount": "577"
+  },
+  {
+    "name": "Chengdu J-10",
+    "country": "China",
+    "class": "",
+    "role": "",
+    "date": "1998",
+    "status": "",
+    "amount": "270"
+  },
+  {
+    "name": "Chengdu J-20",
+    "country": "China",
+    "class": "",
+    "role": "",
+    "date": "2011",
+    "status": "",
+    "amount": "28"
+  },
+  {
+    "name": "Curtiss A-12 Shrike",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": "46"
+  },
+  {
+    "name": "Curtiss A-18 Shrike",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": "13"
+  },
+  {
+    "name": "Curtiss A-8",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": "13"
+  },
+  {
+    "name": "Curtiss Falcon",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1924",
+    "status": "",
+    "amount": "488"
+  },
+  {
+    "name": "Curtiss SBC Helldiver",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "257"
+  },
+  {
+    "name": "Curtiss XA-14",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "DAR 10",
+    "country": "Bulgaria",
+    "class": "",
+    "role": "",
+    "date": "1941",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Dassault \u00c9tendard IV",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1958",
+    "status": "",
+    "amount": "90"
+  },
+  {
+    "name": "Dassault Mirage 2000",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1978",
+    "status": "",
+    "amount": "601"
+  },
+  {
+    "name": "Dassault Mirage F1",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1966",
+    "status": "",
+    "amount": "720+"
+  },
+  {
+    "name": "Dassault Myst\u00e8re IV",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1952",
+    "status": "",
+    "amount": "411"
+  },
+  {
+    "name": "Dassault Ouragan",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1949",
+    "status": "",
+    "amount": "362"
+  },
+  {
+    "name": "Dassault Rafale",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1986",
+    "status": "",
+    "amount": "141"
+  },
+  {
+    "name": "Dassault Super Myst\u00e8re",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1955",
+    "status": "",
+    "amount": "180"
+  },
+  {
+    "name": "Dassault-Breguet Super \u00c9tendard",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1974",
+    "status": "",
+    "amount": "85"
+  },
+  {
+    "name": "Dassault/Dornier Alpha Jet",
+    "country": "France & Germany",
+    "class": "",
+    "role": "",
+    "date": "1973",
+    "status": "",
+    "amount": "480"
+  },
+  {
+    "name": "de Havilland Mosquito",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "7,781"
+  },
+  {
+    "name": "de Havilland Venom",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1949",
+    "status": "",
+    "amount": "1,431"
+  },
+  {
+    "name": "Douglas A-1 Skyraider",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1945",
+    "status": "",
+    "amount": "3,180"
+  },
+  {
+    "name": "Douglas A-20 Havoc",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": "7,478"
+  },
+  {
+    "name": "Douglas A-26 Invader",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1942",
+    "status": "",
+    "amount": "2,452"
+  },
+  {
+    "name": "Douglas A-3 Skywarrior",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1952",
+    "status": "",
+    "amount": "282"
+  },
+  {
+    "name": "Douglas A-4 Skyhawk",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1954",
+    "status": "",
+    "amount": "2,960"
+  },
+  {
+    "name": "Douglas AC-47 Spooky",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1965",
+    "status": "",
+    "amount": "53"
+  },
+  {
+    "name": "Douglas SBD Dauntless",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "5,936"
+  },
+  {
+    "name": "Douglas XA-2",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1926",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "EKW C-36",
+    "country": "Switzerland",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": "175"
+  },
+  {
+    "name": "Embraer EMB 312 Tucano",
+    "country": "Brazil",
+    "class": "",
+    "role": "",
+    "date": "1980",
+    "status": "",
+    "amount": "664"
+  },
+  {
+    "name": "Embraer EMB 314 Super Tucano",
+    "country": "Brazil",
+    "class": "",
+    "role": "",
+    "date": "1999",
+    "status": "",
+    "amount": "200+"
+  },
+  {
+    "name": "English Electric Canberra",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1949",
+    "status": "",
+    "amount": "949"
+  },
+  {
+    "name": "Eurofighter Typhoon",
+    "country": "UK, Germany, Italy & Spain",
+    "class": "",
+    "role": "",
+    "date": "1994",
+    "status": "",
+    "amount": "406"
+  },
+  {
+    "name": "Fairchild A-10 Thunderbolt II",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1972",
+    "status": "",
+    "amount": "716"
+  },
+  {
+    "name": "Fairchild AC-119",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1968",
+    "status": "",
+    "amount": "52"
+  },
+  {
+    "name": "Fairey Albacore",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "800"
+  },
+  {
+    "name": "Fairey Battle",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "2,185"
+  },
+  {
+    "name": "Fairey Fawn",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1923",
+    "status": "",
+    "amount": "75"
+  },
+  {
+    "name": "Fairey Gordon",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": "186"
+  },
+  {
+    "name": "Fairey Swordfish",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": "2,391"
+  },
+  {
+    "name": "Fiat G.91",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1956",
+    "status": "",
+    "amount": "770"
+  },
+  {
+    "name": "Fieseler Fi 167",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "14"
+  },
+  {
+    "name": "FMA IA 58 Pucar\u00e1",
+    "country": "Argentina",
+    "class": "",
+    "role": "",
+    "date": "1969",
+    "status": "",
+    "amount": "150\u2013160"
+  },
+  {
+    "name": "FMA IA 63 Pampa",
+    "country": "Argentina",
+    "class": "",
+    "role": "",
+    "date": "1984",
+    "status": "",
+    "amount": "27"
+  },
+  {
+    "name": "Fokker C.V",
+    "country": "Netherlands",
+    "class": "",
+    "role": "",
+    "date": "1924",
+    "status": "",
+    "amount": "955"
+  },
+  {
+    "name": "Fokker C.X",
+    "country": "Netherlands",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": "71"
+  },
+  {
+    "name": "Fokker XA-7",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "General Dynamics F-111 Aardvark",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1964",
+    "status": "",
+    "amount": "563"
+  },
+  {
+    "name": "General Dynamics F-16 Fighting Falcon",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1974",
+    "status": "",
+    "amount": "4,540+"
+  },
+  {
+    "name": "Great Lakes BG",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": "61"
+  },
+  {
+    "name": "Grumman A-6 Intruder",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1960",
+    "status": "",
+    "amount": "693"
+  },
+  {
+    "name": "Grumman F7F Tigercat",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1943",
+    "status": "",
+    "amount": "364"
+  },
+  {
+    "name": "Grumman F9F Panther",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1947",
+    "status": "",
+    "amount": "1,382"
+  },
+  {
+    "name": "Grumman OV-1 Mohawk",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1959",
+    "status": "",
+    "amount": "380"
+  },
+  {
+    "name": "Grumman TBF Avenger",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1941",
+    "status": "",
+    "amount": "9,839"
+  },
+  {
+    "name": "Grumman Future Air Attack Vehicle",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1993",
+    "status": "",
+    "amount": "0"
+  },
+  {
+    "name": "HAL HF-24 Marut",
+    "country": "India",
+    "class": "",
+    "role": "",
+    "date": "1961",
+    "status": "",
+    "amount": "147"
+  },
+  {
+    "name": "HAL Tejas",
+    "country": "India",
+    "class": "",
+    "role": "",
+    "date": "2001",
+    "status": "",
+    "amount": "32"
+  },
+  {
+    "name": "Halberstadt CL.II",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1917",
+    "status": "",
+    "amount": "900"
+  },
+  {
+    "name": "Halberstadt CL.IV",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1918?",
+    "status": "",
+    "amount": "900"
+  },
+  {
+    "name": "Hannover CL.III",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1917",
+    "status": "",
+    "amount": "617"
+  },
+  {
+    "name": "Hawker Audax",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": "700+"
+  },
+  {
+    "name": "Hawker Hardy",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1934",
+    "status": "",
+    "amount": "48"
+  },
+  {
+    "name": "Hawker Hart",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1928",
+    "status": "",
+    "amount": "1,004"
+  },
+  {
+    "name": "Hawker Hector",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "179"
+  },
+  {
+    "name": "Hawker Hunter",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1951",
+    "status": "",
+    "amount": "1,972"
+  },
+  {
+    "name": "Hawker Hurricane",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "14,583"
+  },
+  {
+    "name": "Hawker Siddeley Harrier",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1967",
+    "status": "",
+    "amount": "278"
+  },
+  {
+    "name": "Hawker Typhoon",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "3,317"
+  },
+  {
+    "name": "Heinkel He 45",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": "512"
+  },
+  {
+    "name": "Heinkel He 46",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": "500 c."
+  },
+  {
+    "name": "Heinkel He 50",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": "78"
+  },
+  {
+    "name": "Heinkel 51C",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": "100"
+  },
+  {
+    "name": "Helio Stallion",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1964",
+    "status": "",
+    "amount": "20"
+  },
+  {
+    "name": "Henschel Hs 123",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "250 c."
+  },
+  {
+    "name": "Henschel Hs 129",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": "865"
+  },
+  {
+    "name": "HESA Azarakhsh",
+    "country": "Iran",
+    "class": "",
+    "role": "",
+    "date": "2001?",
+    "status": "",
+    "amount": "6-9"
+  },
+  {
+    "name": "IAR 37, 38 and 39",
+    "country": "Romania",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": "380"
+  },
+  {
+    "name": "IAR 80 & 81",
+    "country": "Romania",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": "346"
+  },
+  {
+    "name": "IAR-93 Vultur",
+    "country": "Romania",
+    "class": "",
+    "role": "",
+    "date": "1974",
+    "status": "",
+    "amount": "88"
+  },
+  {
+    "name": "IAR-99 Soim",
+    "country": "Romania",
+    "class": "",
+    "role": "",
+    "date": "1985",
+    "status": "",
+    "amount": "20"
+  },
+  {
+    "name": "Ilyushin Il-10 & Avia B-33",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1944",
+    "status": "",
+    "amount": "6,166"
+  },
+  {
+    "name": "Ilyushin Il-2 Sturmovik",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": "36,183"
+  },
+  {
+    "name": "IMAM Ro.57bis",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1942",
+    "status": "",
+    "amount": "50-75"
+  },
+  {
+    "name": "IML Addax",
+    "country": "New Zealand",
+    "class": "",
+    "role": "",
+    "date": "1982",
+    "status": "",
+    "amount": "0"
+  },
+  {
+    "name": "Junkers CL.I",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1917",
+    "status": "",
+    "amount": "51"
+  },
+  {
+    "name": "Junkers Ju 87",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "6,500 c."
+  },
+  {
+    "name": "KAI TA-50 Golden Eagle",
+    "country": "South Korea",
+    "class": "",
+    "role": "",
+    "date": "2002",
+    "status": "",
+    "amount": "200"
+  },
+  {
+    "name": "Kawasaki Army Type 88 Reconnaissance Aircraft",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1927",
+    "status": "",
+    "amount": "1,117"
+  },
+  {
+    "name": "Kawasaki Ki-102",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1944",
+    "status": "",
+    "amount": "238"
+  },
+  {
+    "name": "Kawasaki Ki-3",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": "243"
+  },
+  {
+    "name": "Kawasaki Ki-32",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": "854"
+  },
+  {
+    "name": "Lat\u00e9co\u00e8re 298",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "121"
+  },
+  {
+    "name": "Letov \u0160-328",
+    "country": "Czechoslovakia",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": "412"
+  },
+  {
+    "name": "Lockheed AC-130",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1966",
+    "status": "",
+    "amount": "47"
+  },
+  {
+    "name": "Lockheed F-117 Nighthawk",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1981",
+    "status": "",
+    "amount": "64"
+  },
+  {
+    "name": "Lockheed Hudson",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "2,941"
+  },
+  {
+    "name": "Lockheed Martin F-35 Lightning II",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "2006",
+    "status": "",
+    "amount": "171"
+  },
+  {
+    "name": "Lockheed P-38 Lightning",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": "10,037"
+  },
+  {
+    "name": "Loire-Nieuport LN.401",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "68"
+  },
+  {
+    "name": "Martin 167 Maryland",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": "450"
+  },
+  {
+    "name": "Martin AM Mauler",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1944",
+    "status": "",
+    "amount": "151"
+  },
+  {
+    "name": "Martin B-26 Marauder",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "5,288"
+  },
+  {
+    "name": "Martin B-57 Canberra",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1953",
+    "status": "",
+    "amount": "403"
+  },
+  {
+    "name": "Martin Baltimore",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1941",
+    "status": "",
+    "amount": "1,575"
+  },
+  {
+    "name": "Martin BM",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1929",
+    "status": "",
+    "amount": "35"
+  },
+  {
+    "name": "McDonnell Douglas F-15E Strike Eagle",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1986",
+    "status": "",
+    "amount": "420"
+  },
+  {
+    "name": "McDonnell Douglas F/A-18 Hornet",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1978",
+    "status": "",
+    "amount": "1,480"
+  },
+  {
+    "name": "Messerschmitt Bf 110",
+    "country": "Germany",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "6,170"
+  },
+  {
+    "name": "Mikoyan MiG-AT",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1996",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "Mikoyan MiG-29K",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1998",
+    "status": "",
+    "amount": "45"
+  },
+  {
+    "name": "Mikoyan-Gurevich MiG-23",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1967",
+    "status": "",
+    "amount": "5,047"
+  },
+  {
+    "name": "Mikoyan-Gurevich MiG-27",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1970",
+    "status": "",
+    "amount": "1,075"
+  },
+  {
+    "name": "Mitsubishi B2M",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1929",
+    "status": "",
+    "amount": "206"
+  },
+  {
+    "name": "Mitsubishi B5M",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": "125"
+  },
+  {
+    "name": "Mitsubishi F-1",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1975",
+    "status": "",
+    "amount": "77"
+  },
+  {
+    "name": "Mitsubishi F-2",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1995",
+    "status": "",
+    "amount": "94"
+  },
+  {
+    "name": "Mitsubishi Ki-30",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": "704"
+  },
+  {
+    "name": "Mitsubishi Ki-51",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": "2,385"
+  },
+  {
+    "name": "Nakajima B5N",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": "1,150 c."
+  },
+  {
+    "name": "Nakajima B6N",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1941",
+    "status": "",
+    "amount": "1,268"
+  },
+  {
+    "name": "Nakajima Ki-4",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": "516"
+  },
+  {
+    "name": "Nanchang Q-5",
+    "country": "China",
+    "class": "",
+    "role": "",
+    "date": "1965",
+    "status": "",
+    "amount": "1,300 c."
+  },
+  {
+    "name": "Brewster SBA/Naval Aircraft Factory SBN",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "31"
+  },
+  {
+    "name": "Neman R-10",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "500+"
+  },
+  {
+    "name": "North American A-2 Savage",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1948",
+    "status": "",
+    "amount": "143"
+  },
+  {
+    "name": "North American A-27",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "10"
+  },
+  {
+    "name": "North American A-36 Apache",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1942",
+    "status": "",
+    "amount": "500"
+  },
+  {
+    "name": "North American A-5 Vigilante",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1958",
+    "status": "",
+    "amount": "156"
+  },
+  {
+    "name": "North American B-25 Mitchell",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "9,984"
+  },
+  {
+    "name": "North American NA-44",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "North American NA-72",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "30"
+  },
+  {
+    "name": "North American Rockwell OV-10 Bronco",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1965",
+    "status": "",
+    "amount": "360"
+  },
+  {
+    "name": "North American T-28 Trojan",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1949",
+    "status": "",
+    "amount": "1,948"
+  },
+  {
+    "name": "North American T-6 Texan",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "15,495"
+  },
+  {
+    "name": "Northrop A-17",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "411"
+  },
+  {
+    "name": "Northrop BT",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "55"
+  },
+  {
+    "name": "Northrop Gamma 2C & 2E",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": "52 c."
+  },
+  {
+    "name": "Panavia Tornado",
+    "country": "UK, Germany & Italy",
+    "class": "",
+    "role": "",
+    "date": "1974",
+    "status": "",
+    "amount": "774"
+  },
+  {
+    "name": "Petlyakov Pe-2",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1939",
+    "status": "",
+    "amount": "11,427"
+  },
+  {
+    "name": "Polikarpov R-5",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1928",
+    "status": "",
+    "amount": "7,000 c."
+  },
+  {
+    "name": "Polikarpov R-Z",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "1,031"
+  },
+  {
+    "name": "Potez 15",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1921",
+    "status": "",
+    "amount": "687"
+  },
+  {
+    "name": "Potez 25",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1924",
+    "status": "",
+    "amount": "4,000 c."
+  },
+  {
+    "name": "PWS-1",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1927",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "PWS-19",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": "1"
+  },
+  {
+    "name": "PZL.23 Kara\u015b",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": "253"
+  },
+  {
+    "name": "PZL.38 Wilk",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "PZL-42",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "PZL.43",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "53"
+  },
+  {
+    "name": "PZL.46 Sum",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "2"
+  },
+  {
+    "name": "PZL TS-11 Iskra",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1960",
+    "status": "",
+    "amount": "500"
+  },
+  {
+    "name": "PZL I-22 Iryda",
+    "country": "Poland",
+    "class": "",
+    "role": "",
+    "date": "1985",
+    "status": "",
+    "amount": "16"
+  },
+  {
+    "name": "Republic AP-100",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "(1957)",
+    "status": "",
+    "amount": "0"
+  },
+  {
+    "name": "Republic F-105 Thunderchief",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1955",
+    "status": "",
+    "amount": "833"
+  },
+  {
+    "name": "Republic F-84 Thunderjet",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1946",
+    "status": "",
+    "amount": "7,524"
+  },
+  {
+    "name": "Republic P-47 Thunderbolt",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1941",
+    "status": "",
+    "amount": "15,660"
+  },
+  {
+    "name": "Royal Aircraft Factory R.E.8",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1916",
+    "status": "",
+    "amount": "4,077"
+  },
+  {
+    "name": "Saab 17",
+    "country": "Sweden",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "323"
+  },
+  {
+    "name": "Saab 105",
+    "country": "Sweden",
+    "class": "",
+    "role": "",
+    "date": "1963",
+    "status": "",
+    "amount": "192"
+  },
+  {
+    "name": "Saab 32 Lansen",
+    "country": "Sweden",
+    "class": "",
+    "role": "",
+    "date": "1952",
+    "status": "",
+    "amount": "450"
+  },
+  {
+    "name": "Saab 37 Viggen",
+    "country": "Sweden",
+    "class": "",
+    "role": "",
+    "date": "1967",
+    "status": "",
+    "amount": "329"
+  },
+  {
+    "name": "Saab JAS 39 Gripen",
+    "country": "Sweden",
+    "class": "",
+    "role": "",
+    "date": "1988",
+    "status": "",
+    "amount": "247 c."
+  },
+  {
+    "name": "Saab Supporter",
+    "country": "Sweden",
+    "class": "",
+    "role": "",
+    "date": "1971",
+    "status": "",
+    "amount": "462"
+  },
+  {
+    "name": "Salmson 4 AB.2",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1918",
+    "status": "",
+    "amount": "12"
+  },
+  {
+    "name": "Savoia-Marchetti SM.85",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "34"
+  },
+  {
+    "name": "SEPECAT Jaguar",
+    "country": "UK & France",
+    "class": "",
+    "role": "",
+    "date": "1968",
+    "status": "",
+    "amount": "543"
+  },
+  {
+    "name": "SET 7",
+    "country": "Romania",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": "123"
+  },
+  {
+    "name": "SIAI-Marchetti SM.1019",
+    "country": "Italy",
+    "class": "",
+    "role": "",
+    "date": "1969",
+    "status": "",
+    "amount": "86"
+  },
+  {
+    "name": "Soko 522",
+    "country": "Yugoslavia",
+    "class": "",
+    "role": "",
+    "date": "1955",
+    "status": "",
+    "amount": "110 c."
+  },
+  {
+    "name": "Soko G-2 Galeb",
+    "country": "Yugoslavia",
+    "class": "",
+    "role": "",
+    "date": "1961",
+    "status": "",
+    "amount": "248"
+  },
+  {
+    "name": "Soko G-4 Super Galeb",
+    "country": "Yugoslavia",
+    "class": "",
+    "role": "",
+    "date": "1978",
+    "status": "",
+    "amount": "85"
+  },
+  {
+    "name": "Soko J-20 Kraguj",
+    "country": "Yugoslavia",
+    "class": "",
+    "role": "",
+    "date": "1962",
+    "status": "",
+    "amount": "85"
+  },
+  {
+    "name": "Soko J-21 Jastreb",
+    "country": "Yugoslavia",
+    "class": "",
+    "role": "",
+    "date": "1965",
+    "status": "",
+    "amount": "121"
+  },
+  {
+    "name": "Soko J-22 Orao",
+    "country": "Yugoslavia",
+    "class": "",
+    "role": "",
+    "date": "1974",
+    "status": "",
+    "amount": "250-300"
+  },
+  {
+    "name": "Sopwith Salamander",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1918",
+    "status": "",
+    "amount": "497"
+  },
+  {
+    "name": "Sud Aviation Vautour",
+    "country": "France",
+    "class": "",
+    "role": "",
+    "date": "1952",
+    "status": "",
+    "amount": "149"
+  },
+  {
+    "name": "Sukhoi Su-17/20/22",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1966",
+    "status": "",
+    "amount": "2,867"
+  },
+  {
+    "name": "Sukhoi Su-2",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1937",
+    "status": "",
+    "amount": "910"
+  },
+  {
+    "name": "Sukhoi Su-24",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1967",
+    "status": "",
+    "amount": "1,400"
+  },
+  {
+    "name": "Sukhoi Su-25",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1975",
+    "status": "",
+    "amount": "1,024"
+  },
+  {
+    "name": "Sukhoi Su-27",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1977",
+    "status": "",
+    "amount": "809"
+  },
+  {
+    "name": "Sukhoi Su-30",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1989",
+    "status": "",
+    "amount": "509+"
+  },
+  {
+    "name": "Sukhoi Su-34",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1990",
+    "status": "",
+    "amount": "50"
+  },
+  {
+    "name": "Sukhoi Su-35",
+    "country": "Russia",
+    "class": "",
+    "role": "",
+    "date": "2008",
+    "status": "",
+    "amount": "48"
+  },
+  {
+    "name": "Sukhoi Su-6",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1941",
+    "status": "",
+    "amount": "3"
+  },
+  {
+    "name": "Sukhoi Su-7B",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1955",
+    "status": "",
+    "amount": "1,847"
+  },
+  {
+    "name": "Tachikawa Ki-36",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "1,334"
+  },
+  {
+    "name": "Tupolev Tu-2",
+    "country": "USSR",
+    "class": "",
+    "role": "",
+    "date": "1941",
+    "status": "",
+    "amount": "2,257"
+  },
+  {
+    "name": "Vickers Vildebeest",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1928",
+    "status": "",
+    "amount": "209"
+  },
+  {
+    "name": "Vickers Vincent",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1932",
+    "status": "",
+    "amount": "197"
+  },
+  {
+    "name": "Vought A-7 Corsair II",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1965",
+    "status": "",
+    "amount": "1,569"
+  },
+  {
+    "name": "Vought F4U Corsair",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "12,571"
+  },
+  {
+    "name": "Vought SB2U Vindicator",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "260"
+  },
+  {
+    "name": "Vought SBU Corsair",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1933",
+    "status": "",
+    "amount": "125"
+  },
+  {
+    "name": "Vultee V-11, V-12 and A-19",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "224"
+  },
+  {
+    "name": "Vultee Vengeance",
+    "country": "US",
+    "class": "",
+    "role": "",
+    "date": "1941",
+    "status": "",
+    "amount": "1,931"
+  },
+  {
+    "name": "Westland Lysander",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1936",
+    "status": "",
+    "amount": "1,786"
+  },
+  {
+    "name": "Westland Wallace",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1931",
+    "status": "",
+    "amount": "172"
+  },
+  {
+    "name": "Westland Whirlwind",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1938",
+    "status": "",
+    "amount": "116"
+  },
+  {
+    "name": "Westland Wyvern",
+    "country": "UK",
+    "class": "",
+    "role": "",
+    "date": "1946",
+    "status": "",
+    "amount": "127"
+  },
+  {
+    "name": "Xian JH-7",
+    "country": "China",
+    "class": "",
+    "role": "",
+    "date": "1988",
+    "status": "",
+    "amount": "240"
+  },
+  {
+    "name": "Yokosuka B4Y",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1935",
+    "status": "",
+    "amount": "205"
+  },
+  {
+    "name": "Yokosuka D4Y",
+    "country": "Japan",
+    "class": "",
+    "role": "",
+    "date": "1940",
+    "status": "",
+    "amount": "2,038"
+  }
+]

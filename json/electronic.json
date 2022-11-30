@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Antonov An-12BK-PPS Soviet Union",
+    "country": "['(Soviet Union)']"
+  },
+  { "name": "Antonov An-26REP Soviet Union", "country": "['(Soviet Union)']" },
+  {
+    "name": "Boeing EA-18G Growler United States",
+    "country": "['(United States)']"
+  },
+  {
+    "name": "Denel TP1 Oryx EW1 South Africa",
+    "country": "['(South Africa)']"
+  },
+  { "name": "Chengdu J-10D China", "country": "['(China)']" },
+  {
+    "name": "Douglas C-47TP EW2 South Africa",
+    "country": "['(South Africa)']"
+  },
+  {
+    "name": "Douglas EA-3 Skywarrior United States",
+    "country": "['(United States)']"
+  },
+  {
+    "name": "Douglas EB-66 Destroyer United States",
+    "country": "['(United States)']"
+  },
+  {
+    "name": "Douglas EF-10B Skyknight United States",
+    "country": "['(United States)']"
+  },
+  { "name": "Embraer R-99 Brazil", "country": "['(Brazil)']" },
+  {
+    "name": "General Dynamics/Grumman EF-111A Raven United States",
+    "country": "['(United States)']"
+  },
+  { "name": "IAI 202B Arava Israel", "country": "['(Israel)']" },
+  {
+    "name": "Ilyushin Il-22PP Soviet Union / Russia",
+    "country": "['(Soviet Union)', '(Russia)']"
+  },
+  { "name": "Kawasaki EC-1 Japan", "country": "['(Japan)']" },
+  {
+    "name": "Kawasaki RC-2 Japan A US Navy EA-18G Growler",
+    "country": "['(Japan)']"
+  },
+  {
+    "name": "Lockheed EC-130H Compass Call United States",
+    "country": "['(United States)']"
+  },
+  { "name": "Mil Mi-8PP Soviet Union", "country": "['(Soviet Union)']" },
+  {
+    "name": "Northrop Grumman EA-6B Prowler United States",
+    "country": "['(United States)']"
+  },
+  {
+    "name": "Tornado ECR Germany / Italy",
+    "country": "['(Germany)', '(Italy)']"
+  },
+  { "name": "Shaanxi Y-8EW China", "country": "['(China)']" },
+  { "name": "Shaanxi Y-8-GX1 China", "country": "['(China)']" },
+  { "name": "Shaanxi Y-9-GX11 China", "country": "['(China)']" },
+  { "name": "Shenyang J-15D China", "country": "['(China)']" },
+  { "name": "Shenyang J-16D China", "country": "['(China)']" },
+  { "name": "Sukhoi Su-24MP Soviet Union", "country": "['(Soviet Union)']" },
+  { "name": "Tupolev Tu-16RM-2 Soviet Union", "country": "['(Soviet Union)']" },
+  { "name": "Yakovlev Yak-28PP Soviet Union", "country": "['(Soviet Union)']" }
+]
